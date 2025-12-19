@@ -1,3 +1,4 @@
+
 # TODO: Translation updated at 2022-07-02 19:23
 
 # game/extras.rpy:13
@@ -6234,7 +6235,7 @@ translate russian extra_scene_45_9e1a81c1:
 translate russian extra_scene_45_ec38bf85:
 
     # "Nadya squatted on top of my dick and allowed herself to be penetrated by me again."
-    "Надя присела на корточки поверх моего члена и позволила мне снова проникнуть в себя."
+    "Надия присела на корточки поверх моего члена и позволила мне снова проникнуть в себя."
 
 # game/extras.rpy:2010
 translate russian extra_scene_45_8ef5edda:

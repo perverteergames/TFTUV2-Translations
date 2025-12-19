@@ -750,3 +750,27 @@ translate russian strings:
     old "Bridge Bitches"
     new "Мостовые Сучки"
 
+# TODO: Translation updated at 2025-10-07 18:13
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Raene Raider"
+    new "Рейдер Рэин"
+
+    # game/scenes.rpy:3
+    old "Bum's The Word"
+    new "Про попу — ни слова!"
+
+    # game/scenes.rpy:3
+    old "The Holy Trinity"
+    new "Святая Троица"
+
+    # game/scenes.rpy:3
+    old "Nadya Nookie"
+    new "Шалунья Надия"
+
+    # game/scenes.rpy:3
+    old "Cocktail Trio"
+    new "Коктейльное трио"
+

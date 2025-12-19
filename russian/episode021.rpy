@@ -24231,3 +24231,17 @@ translate russian ep021_lilly_talk_9e3cea2b:
     # l "At least not things involving your family."
     l "По крайней мере, не то, что касается твоей семьи."
 
+# TODO: Translation updated at 2025-12-18 10:24
+
+# game/episode021.rpy:2086
+translate russian ep021_raene_talk_8442394d:
+
+    # c "In that case I’d like to invite you to be intimate with her together with me at some point."
+    c "В таком случае я хотел бы пригласить тебя как-нибудь побыть с ней наедине вместе со мной."
+
+# game/episode021.rpy:3279
+translate russian ep021_raene_sex_f0ca5203:
+
+    # "She unclasped her bra and revealed her perky breasts."
+    "Она расстегнула лифчик и обнажила свои упругие груди."
+

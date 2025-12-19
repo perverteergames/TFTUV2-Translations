@@ -2260,7 +2260,7 @@ translate russian ep016_kit_talk_158ae252:
 translate russian ep016_kit_talk_5b12aae8:
 
     # c "She and Agust were madly in love when they were younger."
-    c "Они с Августом безумно любили друг друга, когда были моложе."
+    c "Они с Агустом безумно любили друг друга, когда были моложе."
 
 # game/episode016_conversations.rpy:696
 translate russian ep016_kit_talk_7c1214dc:
@@ -4766,7 +4766,7 @@ translate russian ep016_thyia_talk_da20415c:
     # "I went to check up on her."
     "Я пошёл проведать её."
 
-# TODO: Translation updated at 2025-11-26 14:56
+# TODO: Translation updated at 2025-12-18 10:24
 
 # game/episode016_conversations.rpy:1040
 translate russian ep016_vess_sex_b2c0e100:
@@ -4820,5 +4820,5 @@ translate russian ep016_vess_sex_ddd4737d:
 translate russian ep016_vess_sex_489060df:
 
     # c "Come over here, that dirty whore face of yours deserves to be covered by a big load."
-    c "Иди сюда, твое грязное шлюшечье лицо заслуживает, чтобы его покрыла большая порция спермы."
+    c "Иди сюда, твое грязное шлюшечье лицо заслуживает быть покрытым большой порцией спермы."
 

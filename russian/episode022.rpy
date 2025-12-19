@@ -4618,7 +4618,7 @@ translate russian ep022_temple_hostiles_0a830946_4:
 translate russian ep022_temple_hostiles_1a80919c:
 
     # c "Agust is here, the compound is under attack."
-    c "Август здесь, на комплекс совершено нападение."
+    c "Агуст здесь, на комплекс совершено нападение."
 
 # game/episode022.rpy:1293
 translate russian ep022_temple_hostiles_59244c00:
@@ -5248,7 +5248,7 @@ translate russian ep022_temple_hostiles_29ebaa9b:
 translate russian ep022_temple_hostiles_8825f5e6:
 
     # co "You, Agust, will be the second, and so forth."
-    co "Ты, Август, будешь вторым, и так далее."
+    co "Ты, Агуст, будешь вторым, и так далее."
 
 # game/episode022.rpy:1446
 translate russian ep022_temple_hostiles_1ddd3ec3:
@@ -6304,7 +6304,7 @@ translate russian ep022_petrarch_assault_ebd529d2:
 translate russian ep022_petrarch_assault_8dd8d17e:
 
     # "Agust, the Confessor, Erylin and the Bloodhound were standing in front of the temple."
-    "Август, Исповедник, Эрилин и Ищейка стояли перед храмом."
+    "Агуст, Исповедник, Эрилин и Ищейка стояли перед храмом."
 
 # game/episode022.rpy:1712
 translate russian ep022_petrarch_assault_5c5fe153:

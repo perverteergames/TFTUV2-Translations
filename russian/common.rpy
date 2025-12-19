@@ -1347,9 +1347,7 @@ translate russian strings:
 
     old "{size=-3}[config.version!q]\n[renpy.version_only!q]\n[renpy.platform!q]{/size}"
     new "{size=-3}[config.version!q]\n[renpy.version_only!q]\n[renpy.platform!q]{/size}"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-
-# TODO: Translation updated at 2025-06-04 13:51
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc# TODO: Translation updated at 2025-06-04 13:51
 
 translate russian strings:
 
@@ -1668,5 +1666,6 @@ translate russian strings:
     # renpy/common/00gamepad.rpy:60
     old "Press or move the '[control!s]' [kind]."
     new "Нажмите или переместите '[control!s]' [kind]."
+
 
 

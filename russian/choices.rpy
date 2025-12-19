@@ -75,7 +75,7 @@ translate russian strings:
     new "Кончил в Тхию."
 
     # game/choices.rpy:10
-    old "Lied to the R'o."
+    old "Lied to the R'ho."
     new "Солгал Р'о."
 
     # game/choices.rpy:10
@@ -83,7 +83,7 @@ translate russian strings:
     new "Позволил Тхиму отправиться в Яму Отчаяния."
 
     # game/choices.rpy:10
-    old "Particpated in the R'o orgy."
+    old "Particpated in the R'ho orgy."
     new "Участвовал в оргии Р'о."
 
     # game/choices.rpy:10
@@ -91,11 +91,11 @@ translate russian strings:
     new "Кончил в Д'ии."
 
     # game/choices.rpy:10
-    old "Creampied the R'o virgin."
+    old "Creampied the R'ho virgin."
     new "Кончил в девственницу Р'о."
 
     # game/choices.rpy:10
-    old "Agreed to help the R'o."
+    old "Agreed to help the R'ho."
     new "Согласился помочь Р'о."
 
     # game/choices.rpy:10
@@ -1694,111 +1694,175 @@ translate russian strings:
     old "Filter by Type"
     new "Фильтр по Типу"
 
-# TODO: Translation updated at 2025-06-04 13:51
+# TODO: Translation updated at 2025-10-07 18:13
+
+translate russian strings:
+
+    # game/choices.rpy:10
+    old "Lied to the R'o."
+    new "Солгал Р'о"
+
+    # game/choices.rpy:10
+    old "Particpated in the R'o orgy."
+    new "Участвовал в оргии Р'о."
+
+    # game/choices.rpy:10
+    old "Creampied the R'o virgin."
+    new "Кончил в девственницу Р'о."
+
+    # game/choices.rpy:10
+    old "Agreed to help the R'o."
+    new "Согласился помочь Р'о."
+
+    # game/choices.rpy:10
+    old "Season 3"
+    new "Сезон 3"
+
+    # game/choices.rpy:10
+    old "Episode #23"
+    new "Эпизод #23"
+
+    # game/choices.rpy:10
+    old "You resurrect Eva and fall into a deep coma. When you awake weeks later, Agust has been made Regent of the Sovereignty and intends to go to war with the entire galaxy. You decide to take revenge and assemble a coalition of forces to deal with your father and the Sovereignty once and for all."
+    new "Ты воскрешаешь Еву и впадаешь в глубокую кому. Очнувшись через несколько недель, ты узнаешь, что Агуст становится регентом Суверенитета и намеревается начать войну против всей галактики. Ты решаешь отомстить и формируешь коалицию сил, чтобы раз и навсегда разобраться с отцом и Суверенитетом."
+
+    # game/choices.rpy:10
+    old "Aven announced her pregnancy."
+    new "Эвин объявила о своей беременности."
+
+    # game/choices.rpy:10
+    old "Had a foursome or threesome with Eva, Lilly and/or Aven."
+    new "Был секс втроём или вчетвером с Евой, Лилли и/или Эвин."
+
+    # game/choices.rpy:10
+    old "Allowed Raene to be ass fucked by others."
+    new "Позволил другим трахнуть Рэин в задницу."
+
+    # game/choices.rpy:10
+    old "Allowed Ziv to be ass fucked by others."
+    new "Позволил другим трахнуть Зив в задницу."
+
+    # game/choices.rpy:10
+    old "Allowed Ziv to be fucked in the pussy by others."
+    new "Позволил другим трахнуть Зив в киску."
+
+    # game/choices.rpy:10
+    old "Creampmied Ziv."
+    new "Кончил в Зив."
+
+    # game/choices.rpy:10
+    old "Nadya announced her pregnancy."
+    new "Надия объявила о своей беременности."
+
+    # game/choices.rpy:10
+    old "Had anal sex with Nadya."
+    new "Занимался с Надией анальным сексом."
+
+# TODO: Translation updated at 2025-12-18 10:24
 
 translate russian strings:
 
     # game/choices.rpy:10
     old "TGN Ypotryll"
-    new ""
+    new "TGN Ypotryll"
 
     # game/choices.rpy:10
     old "TGN Enfield"
-    new ""
+    new "TGN Enfield"
 
     # game/choices.rpy:10
     old "Vulpes Velox"
-    new ""
+    new "Vulpes Velox"
 
     # game/choices.rpy:10
     old "Nyiruan 12-Beta"
-    new ""
+    new "Нируан 12-бета"
 
     # game/choices.rpy:10
     old "Ryūjin Prime"
-    new ""
+    new "Рюдзин Прайм"
 
     # game/choices.rpy:10
     old "Iron Bastard"
-    new ""
+    new "Железный бастард"
 
     # game/choices.rpy:10
     old "Verdant Station"
-    new ""
+    new "Зеленая станция"
 
     # game/choices.rpy:10
     old "Luzane"
-    new ""
+    new "Лузане"
 
     # game/choices.rpy:10
     old "Hannah"
-    new ""
+    new "Ханна"
 
     # game/choices.rpy:10
     old "Barranthis"
-    new ""
+    new "Баррантис"
 
     # game/choices.rpy:10
     old "Höfel MDCL"
-    new ""
+    new "Хёфельской ЛКМО"
 
     # game/choices.rpy:10
     old "Almagest"
-    new ""
+    new "Альмагест"
 
     # game/choices.rpy:10
     old "Erigone"
-    new ""
+    new "Эригона"
 
     # game/choices.rpy:10
     old "Rahia"
-    new ""
+    new "Рахия"
 
     # game/choices.rpy:10
     old "Athryn"
-    new ""
+    new "Атрин"
 
     # game/choices.rpy:10
     old "Frisa"
-    new ""
+    new "Фриза"
 
     # game/choices.rpy:10
     old "Caese"
-    new ""
+    new "Каэзе"
 
     # game/choices.rpy:10
     old "Erylin"
-    new ""
+    new "Эрилин"
 
     # game/choices.rpy:10
     old "Broke up with Céline."
-    new ""
+    new "Расстался с Селин."
 
     # game/choices.rpy:10
     old "Keodele"
-    new ""
+    new "Кеоделе"
 
     # game/choices.rpy:10
     old "Kepler XIV"
-    new ""
+    new "Кеплер XIV"
 
     # game/choices.rpy:10
     old "TGN Jaculus"
-    new ""
+    new "TGN Jaculus"
 
     # game/choices.rpy:10
     old "Kvi"
-    new ""
+    new "Кви"
 
     # game/choices.rpy:10
     old "Broke up with Aven."
-    new ""
+    new "Расстался с Эйвеном."
 
     # game/choices.rpy:10
     old "Broke up with Ziv."
-    new ""
+    new "Рассталась с Зивом."
 
     # game/choices.rpy:10
     old "Scolguin"
-    new ""
+    new "Сколгин"
 

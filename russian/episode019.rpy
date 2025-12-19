@@ -12606,7 +12606,7 @@ translate russian ep019_docked_b51eb0f9:
 translate russian ep019_paclerara_arrival_5603bbe1:
 
     # "The Paclerara Residence supposedly housed several thousand and was the main port of the entire planet."
-    ""
+    "Резиденция Паклерара, предположительно, вмещала несколько тысяч человек и была главным портом всей планеты."
 
 # game/episode019.rpy:1024
 translate russian ep019_paclerara_aven_d4704e18:
@@ -12631,7 +12631,6 @@ translate russian ep019_paclerara_jade_209ddf6e:
 
     # c "So, raising children with a Twi’ll husband?"
     c "Значит, растить детей с мужем Твилл?"
-
 # TODO: Translation updated at 2025-06-04 13:51
 
 translate russian strings:

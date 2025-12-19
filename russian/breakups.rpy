@@ -1745,7 +1745,6 @@ translate russian breakup_eva_b04ca312:
 
     # "I retreated and closed the door behind me, leaving my sister to dissolve into tears."
     "Я отступил и закрыл за собой дверь, оставив сестру заливаться слезами."
-
 # TODO: Translation updated at 2025-06-04 13:51
 
 translate russian strings:
