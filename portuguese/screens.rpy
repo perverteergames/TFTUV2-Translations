@@ -674,3 +674,15 @@ translate portuguese strings:
     old "Türkçe"
     new "Türkçe"
 
+# TODO: Translation updated at 2025-12-06 16:08
+
+translate portuguese strings:
+
+    # game/screens.rpy:1521
+    old "Deutsch"
+    new ""
+
+    # game/screens.rpy:1522
+    old "Italiano"
+    new ""
+

@@ -25720,3 +25720,11 @@ translate portuguese strings:
     old "Make your rounds"
     new ""
 
+# TODO: Translation updated at 2025-12-06 16:08
+
+# game/episode021.rpy:1129
+translate portuguese ep021_lilly_talk_9e3cea2b:
+
+    # l "At least not things involving your family."
+    l ""
+
