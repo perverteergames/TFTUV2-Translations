@@ -6742,5 +6742,13 @@ translate portuguese ep016_altum_approach_c86b8656:
 translate portuguese ep016_scolguin_fleet_11b72724:
 
     # c "We trade the information my father received and then I will leave, to return in ten years time to subject myself to whatever mind rape needed to extract the new memories I’ve made."
-    c ""
+    c "Vamos conseguir as informações que meu pai recebeu e eu vou embora, aí eu volto em dez anos para me submeter ao estupro mental necessário para extrair as novas memórias que eu fizer."
+
+# TODO: Translation updated at 2026-01-19 12:22
+
+# game/episode016.rpy:796
+translate portuguese ep016_scolguin_fleet_6f801808:
+
+    # c "I’m sure there are more than dare to admit."
+    c "Imagino que tem mais pessoas que ousam admitir."
 

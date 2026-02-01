@@ -1702,119 +1702,127 @@ translate portuguese breakup_nadya_df277e26:
 translate portuguese breakup_eva_1260debe:
 
     # "Eva was waiting for me with such a hopeful expression on her face that I nearly couldn’t go through with it."
-    ""
+    "Eva estava me esperando com uma expressão tão esperançosa que eu quase desisti."
 
 # game/breakups.rpy:400
 translate portuguese breakup_eva_b1f8097e:
 
     # e "Hey, what’s on your mind?"
-    e ""
+    e "Oi, que foi?"
 
 # game/breakups.rpy:401
 translate portuguese breakup_eva_0ce8d137:
 
     # c "I need to talk about us, Eva."
-    c ""
+    c "Eva tenho que falar sobre a gente."
 
 # game/breakups.rpy:403
 translate portuguese breakup_eva_3388a208:
 
     # e "Oh..."
-    e ""
+    e "Ah..."
 
 # game/breakups.rpy:404
 translate portuguese breakup_eva_0f96d88c:
 
     # e "That doesn’t sound good."
-    e ""
+    e "Isso não parece nada legal."
 
 # game/breakups.rpy:405
 translate portuguese breakup_eva_0add9b0f:
 
     # c "I’m breaking up with you."
-    c ""
+    c "Estou terminando com você."
 
 # game/breakups.rpy:407
 translate portuguese breakup_eva_394bcc56:
 
     # e "What?!"
-    e ""
+    e "O quê?!"
 
 # game/breakups.rpy:408
 translate portuguese breakup_eva_d4993d94:
 
     # e "But..."
-    e ""
+    e "Mas..."
 
 # game/breakups.rpy:409
 translate portuguese breakup_eva_1ea97b2d:
 
     # e "Why?"
-    e ""
+    e "Por quê?"
 
 # game/breakups.rpy:410
 translate portuguese breakup_eva_72f0b015:
 
     # c "I’m being forced to make a choice and I’m choosing her."
-    c ""
+    c "Estou sendo forçado a escolher, e escolhi ela."
 
 # game/breakups.rpy:412
 translate portuguese breakup_eva_d0bb04b8:
 
     # e "But we had something special together!"
-    e ""
+    e "Mas a gente tinha algo especial!"
 
 # game/breakups.rpy:414
 translate portuguese breakup_eva_4dadb6ee:
 
     # e "You wanted children with me?!"
-    e ""
+    e "Você queria ter filhos?!"
 
 # game/breakups.rpy:415
 translate portuguese breakup_eva_3c45660b:
 
     # e "How could you do such a thing like this?"
-    e ""
+    e "Como que você faz uma coisa dessas?"
 
 # game/breakups.rpy:416
 translate portuguese breakup_eva_391009d5:
 
     # c "I’m sorry, Eva."
-    c ""
+    c "Desculpa, Eva."
 
 # game/breakups.rpy:417
 translate portuguese breakup_eva_4e60d810:
 
     # e "There’s no chance you’ll reconsider?"
-    e ""
+    e "Não tem chance de você pensar melhor?"
 
 # game/breakups.rpy:418
 translate portuguese breakup_eva_51fa8c9a:
 
     # c "No, this is final."
-    c ""
+    c "Não, essa decisão não tem volta."
 
 # game/breakups.rpy:420
 translate portuguese breakup_eva_81959a5c:
 
     # e "Go away then."
-    e ""
+    e "Então vai embora."
 
 # game/breakups.rpy:421
 translate portuguese breakup_eva_a8dd7e4b:
 
     # e "I don’t want you here."
-    e ""
+    e "Não quero você aqui."
 
 # game/breakups.rpy:422
 translate portuguese breakup_eva_35a18b0a:
 
     # e "Go!"
-    e ""
+    e "Vai!"
 
 # game/breakups.rpy:424
 translate portuguese breakup_eva_b04ca312:
 
     # "I retreated and closed the door behind me, leaving my sister to dissolve into tears."
-    ""
+    "Eu saí e fechei a porta, deixando minha irmã se acabar no choro."
+
+# TODO: Translation updated at 2026-01-19 12:22
+
+# game/breakups.rpy:427
+translate portuguese breakup_eva_a0ed6a6c:
+
+    # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
+    "Eu saí e fechei a porta, deixando a Eva se acabar no choro."
 

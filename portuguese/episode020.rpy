@@ -11494,19 +11494,19 @@ translate portuguese ep020_eva_sex_393f9abc:
 translate portuguese ep020_eva_sex_b5fa3301:
 
     # e "Shoot your sister full of cum!"
-    e "Enche a sua irmã todinha de gozo!"
+    e "Enche a sua irmã todinha de porra!"
 
 # game/episode020.rpy:3284
 translate portuguese ep020_eva_sex_858eda69:
 
     # e "Shoot me full of cum!"
-    e "Me enche todinha de gozo!"
+    e "Me enche todinha de porra!"
 
 # game/episode020.rpy:3285
 translate portuguese ep020_eva_sex_7a74527f:
 
     # "I thrust again and drove Eva over the edge."
-    "Eu enfiei novamente e fiz Eva passar do limite."
+    "Eu enfiei novamente e fiz Eva chegar ao orgasmo."
 
 # game/episode020.rpy:3287
 translate portuguese ep020_eva_sex_403db5e7:
@@ -11566,13 +11566,13 @@ translate portuguese ep020_eva_sex_d3665423_1:
 translate portuguese ep020_eva_sex_dd7511b0:
 
     # "I made my last rapid thrusts, driving my sister over the edge."
-    "Eu dei as últimas enfiadas, fazendo minha irmã passar do limite."
+    "Eu dei as últimas enfiadas, fazendo minha irmã chegar ao orgasmo."
 
 # game/episode020.rpy:3305
 translate portuguese ep020_eva_sex_b5f99b95:
 
     # "I made my last rapid thrusts, driving Eva over the edge."
-    "Eu dei as últimas enfiadas, fazendo Eva passar do limite."
+    "Eu dei as últimas enfiadas, fazendo Eva chegar ao orgasmo."
 
 # game/episode020.rpy:3307
 translate portuguese ep020_eva_sex_903f7d9b:
@@ -14598,41 +14598,49 @@ translate portuguese ep020_jade_orgasm_b86bbd26:
 translate portuguese ep020_paclerara_nadya_ab1ccf7c:
 
     # c "Making you a mother would be a dream come true."
-    c ""
+    c "Seria um sonho fazer você ser mãe."
 
 # game/episode020.rpy:985
 translate portuguese ep020_paclerara_thyia_c4e2be81:
 
     # th "Not unless you want your life expectancy to crash to ten percent."
-    th ""
+    th "A não ser que queira que sua expectativa de vida seja reduzida a dez por cento."
 
 # game/episode020.rpy:1257
 translate portuguese ep020_pirate_rendevous_e0e9a782:
 
     # "Thyia was the first to sit up."
-    ""
+    "Thyia foi a primeira a se sentar."
 
 # game/episode020.rpy:2628
 translate portuguese ep020_paclerara_eva_87add7cf:
 
     # c "More likely I would have been court-martialled immediately over some stupid transgression."
-    c ""
+    c "Provavelmente teria sido levado à corte marcial por alguma besteira."
 
 # game/episode020.rpy:2797
 translate portuguese ep020_lilly_aven_sex_e92026ec:
 
     # "Aven bent her knees slightly and hovered on top of her friend’s face."
-    ""
+    "Aven se agachou,  pouco acima do rosto da amiga."
 
 # game/episode020.rpy:3109
 translate portuguese ep020_l_av_fucking_dea32d45:
 
     # "Thick strands of warm cum splashed all over Aven’s back."
-    ""
+    "Fios grossos de sêmen quente melaram as costas da Aven."
 
 # game/episode020.rpy:3336
 translate portuguese ep020_eva_sex_b5f99b95_1:
 
     # "I made my last rapid thrusts, driving Eva over the edge."
-    ""
+    "Eu dei as últimas enfiadas, fazendo Eva chegar ao orgasmo."
+
+# TODO: Translation updated at 2026-01-19 12:22
+
+# game/episode020.rpy:1303
+translate portuguese ep020_pirate_rendevous_3766801f:
+
+    # c "May I ask why your organization hasn’t retaliated directly?"
+    c "Posso perguntar por que sua organização não retaliou diretamente?"
 

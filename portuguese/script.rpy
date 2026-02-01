@@ -236,37 +236,37 @@ translate portuguese strings:
 
     # game/script.rpy:538
     old "Character Selection"
-    new ""
+    new "Seleção De Personagens"
 
     # game/script.rpy:545
     old "Who participates in this scene?"
-    new ""
+    new "Quem participa desta cena?"
 
     # game/script.rpy:603
     old "Select at least two characters."
-    new ""
+    new "Escolha pelo menos dois personagens."
 
-# TODO: Translation updated at 2025-06-04 13:44
+# TODO: Translation updated at 2026-01-19 12:22
 
 translate portuguese strings:
 
-    # game/script.rpy:627
+    # game/script.rpy:632
     old "THANK YOU"
-    new ""
+    new "OBRIGADO"
 
-    # game/script.rpy:628
+    # game/script.rpy:633
     old "A big thank you to my top tier backers, you rock!"
-    new ""
+    new "Um grande obrigado aos meus apoiadores de nível alto, vocês são demais!"
 
-    # game/script.rpy:714
-    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
-    new ""
+    # game/script.rpy:719
+    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, marcurion, Razielprince and ThunderRob"
+    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, marcurion, Razielprince e ThunderRob"
 
-# TODO: Translation updated at 2025-11-26 14:57
+    # game/script.rpy:719
+    old "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
+    new "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki e Razielprince"
 
-translate portuguese strings:
-
-    # game/script.rpy:718
+    # game/script.rpy:719
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, Donk {i}(Turkish, darkeros.org){/i}"
-    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, Donk {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Português){/i}, MyPrettyWolfy {i}(Russo){/i}, Frank Rosario {i}(Italiano){/i}, Juan Manuel {i}(Espanhol){/i}, Donk {i}(Turco, darkeros.org){/i}"
 

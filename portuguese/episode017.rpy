@@ -9140,17 +9140,17 @@ translate portuguese strings:
 translate portuguese ep017_celine_3acd41e7:
 
     # "Do you want to be able to have anal sex with Céline?"
-    ""
+    "Você quer poder fazer sexo anal com Céline?"
 
 # game/episode017.rpy:1592
 translate portuguese ep017_celine_ef35d6d6:
 
     # "Anal enabled"
-    ""
+    "Anal habilitado"
 
 # game/episode017.rpy:1595
 translate portuguese ep017_celine_aa7e8d37:
 
     # "Anal disabled"
-    ""
+    "Anal desabilitado"
 

@@ -248,77 +248,77 @@ translate portuguese strings:
 
     # game/scenes.rpy:3
     old "Eva Evening"
-    new ""
+    new "Noite com Eva"
 
     # game/scenes.rpy:3
     old "Breeding the Books"
-    new ""
+    new "Leitura Sensual"
 
     # game/scenes.rpy:3
     old "Episode #21"
-    new ""
+    new "Episódio #21"
 
     # game/scenes.rpy:3
     old "Intercourse In Transit"
-    new ""
+    new "Caso em Trânsito"
 
     # game/scenes.rpy:3
     old "Attendant Arousal"
-    new ""
+    new "Tesão da Ajudante"
 
     # game/scenes.rpy:3
     old "Ramrod Raene"
-    new ""
+    new "Rasgando Raene"
 
     # game/scenes.rpy:3
     old "Four Is A Crowd"
-    new ""
+    new "Quatro É Demais"
 
     # game/scenes.rpy:3
     old "Over By The Window"
-    new ""
+    new "Na Janela"
 
     # game/scenes.rpy:3
     old "Couch Coitus"
-    new ""
+    new "Cópula no Cafofo"
 
     # game/scenes.rpy:3
     old "Couch Corruption"
-    new ""
+    new "Corrupção no Cafofo"
 
     # game/scenes.rpy:3
     old "Shagging After Showering"
-    new ""
+    new "Sexo Após Banho"
 
-# TODO: Translation updated at 2025-06-04 13:44
+# TODO: Translation updated at 2026-01-19 12:22
 
 translate portuguese strings:
 
     # game/scenes.rpy:3
     old "Lickety-spit"
-    new ""
+    new "Lambidinha"
 
     # game/scenes.rpy:3
     old "Ziv's Zenith"
-    new ""
+    new "Zênite da Ziv"
 
     # game/scenes.rpy:3
     old "Operative Oral"
-    new ""
+    new "Oficial Oral"
 
     # game/scenes.rpy:3
     old "Duo Dalliance"
-    new ""
+    new "Dueto de Desejo"
 
     # game/scenes.rpy:3
     old "Two Turned-on Tools"
-    new ""
+    new "Duas Ferramentas Com Tesão"
 
     # game/scenes.rpy:3
     old "Boinking On The Bridge"
-    new ""
+    new "Pegação Na Ponte"
 
     # game/scenes.rpy:3
     old "Bridge Bitches"
-    new ""
+    new "Putas Da Ponte"
 

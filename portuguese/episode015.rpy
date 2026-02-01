@@ -7184,7 +7184,7 @@ translate portuguese ep015_sim_exit_choices_67d8bc10:
 translate portuguese ep015_sim_exit_choices_bdcd256f:
 
     # "The editting process did eventually complete, but I wasn’t feeling very confident about it, all of a sudden."
-    "O processo de edição eventualmente completou, mas de repente, eu não estava muito confiante."
+    "O processo de edição eventualmente completou, mas de repente eu não estava mais muito confiante."
 
 # game/episode015.rpy:1584
 translate portuguese ep015_sim_eva_91e35e65:
@@ -7934,23 +7934,31 @@ translate portuguese strings:
 translate portuguese ep015_sim_eva_37bbc95a:
 
     # l "Invade your sister’s tight virgin slit?"
-    l "Invade your sister’s tight virgin slit?"
+    l "Invadir a boceta virgem apertada da sua irmã?"
 
 # game/episode015.rpy:1594
 translate portuguese ep015_sim_eva_13f339d1:
 
     # l "Invade my tight virgin slit?"
-    l "Invade my tight virgin slit?"
+    l "Invadir a minha boceta virgem apertada?"
 
 # game/episode015.rpy:1638
 translate portuguese ep015_sim_eva_bedroom_37bbc95a:
 
     # l "Invade your sister’s tight virgin slit?"
-    l "Invade your sister’s tight virgin slit?"
+    l "Invadir a boceta virgem apertada da sua irmã?"
 
 # game/episode015.rpy:1640
 translate portuguese ep015_sim_eva_bedroom_13f339d1:
 
     # l "Invade my tight virgin slit?"
-    l "Invade my tight virgin slit?"
+    l "Invadir a minha boceta virgem apertada?"
+
+# TODO: Translation updated at 2026-01-19 12:22
+
+# game/episode015.rpy:1529
+translate portuguese ep015_sim_exit_choices_a73bddf4:
+
+    # "The editing process did eventually complete, but I wasn’t feeling very confident about it, all of a sudden."
+    "O processo de edição eventualmente completou, mas de repente eu não estava mais muito confiante."
 

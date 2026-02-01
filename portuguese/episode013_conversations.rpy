@@ -6318,7 +6318,7 @@ translate portuguese ep013_ce_sex_b29726c2:
 translate portuguese ep013_lilly_second_talk_4756333a:
 
     # c "But you have me all for yourself."
-    c "Mas você me tem todo só para você."
+    c "Mas eu sou todo seu."
 
 # TODO: Translation updated at 2024-08-15 22:59
 
@@ -6326,7 +6326,7 @@ translate portuguese ep013_lilly_second_talk_4756333a:
 translate portuguese ep013_nadya_talk_9caa56ec:
 
     # na "Some of it is Acarhyn history, an interesting but gruesome read."
-    na "Alguns são sobre história Acarhyn, interessante, mas violenta."
+    na "Alguns são sobre história Acarhyn. Interessante, mas violenta."
 
 # TODO: Translation updated at 2025-01-21 10:59
 
@@ -6334,21 +6334,19 @@ translate portuguese ep013_nadya_talk_9caa56ec:
 translate portuguese ep013_celine_second_talk_b624faf9:
 
     # "Céline fell back into her seat, looking incredulously at me."
-    ""
+    "Céline caiu no assento, olhando incrédula para mim."
 
-# TODO: Translation updated at 2025-11-26 14:57
-
-# game/episode013_conversations.rpy:1564
-translate portuguese ep013_ce_sex_56f18a7d:
-
-    # c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
-    c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
-
-# TODO: Translation updated at 2025-12-06 16:08
+# TODO: Translation updated at 2026-01-19 12:22
 
 # game/episode013_conversations.rpy:404
 translate portuguese ep013_lilly_talk_3cec8ef8:
 
     # "I hadn't seen Lilly since I'd awakened, so I decided to pay her a visit."
-    ""
+    "Eu não tinha visto a Lilly desde que acordei, então decidi visitar."
+
+# game/episode013_conversations.rpy:1565
+translate portuguese ep013_ce_sex_56f18a7d:
+
+    # c "You're starting to enjoy the feeling of getting your tight asshole stretched?"
+    c "Você está começando a gostar da sensação do seu cuzinho sendo esticado?"
 
