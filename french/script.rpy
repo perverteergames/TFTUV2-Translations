@@ -153,16 +153,16 @@
     new "Relecture"
 
     # game/script.rpy:532
-    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince and ThunderRob"
-    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince et ThunderRob"
+    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, marcurion, Razielprince and ThunderRob"
+    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, marcurion, Razielprince et ThunderRob"
 
     # game/script.rpy:532
     old "Testing"
     new "Test"
 
     # game/script.rpy:532
-    old "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
-    new "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki et Razielprince"
+    old "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
+    new "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki et Razielprince"
 
     # game/script.rpy:532
     old "Translation"

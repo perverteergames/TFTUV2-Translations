@@ -12,7 +12,7 @@ translate spanish strings:
     new ""
 
     # game/options.rpy:591
-    old "Thanks to HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
+    old "Thanks to HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
     new ""
 
 # TODO: Translation updated at 2025-12-04 22:34

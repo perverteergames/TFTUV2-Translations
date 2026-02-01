@@ -15,8 +15,8 @@ translate italian strings:
     new "Grubb {i}(Portoghese, parziale){/i}, Rory-Mercury91 {i}(Francese){/i}, Frank Rosario {i}(Italiano, parziale){/i}, Juan Manuel {i}(Spagnolo, parziale){/i}, MyPrettyWolfy {i}(Russo){/i}, `SpeciaL. (turco, parziale)"
 
     # game/options.rpy:591
-    old "Thanks to HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
-    new "Grazie a HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut e Razielprince per i test.\n\nUn grande ringraziamento ai miei finanziatori di alto livello. Siete fantastici! Tra i sostenitori passati e presenti ci sono:\n{i}"
+    old "Thanks to HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
+    new "Grazie a HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut e Razielprince per i test.\n\nUn grande ringraziamento ai miei finanziatori di alto livello. Siete fantastici! Tra i sostenitori passati e presenti ci sono:\n{i}"
 
 # TODO: Translation updated at 2025-12-04 22:34
 
