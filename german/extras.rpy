@@ -7140,3 +7140,35 @@ translate german extra_scene_38_b836fff8:
     # c "Is my slutty girlfriend ready to get fucked?"
     c "Ist meine versaute Freundin bereit, gefickt zu werden?"
 
+#  TODO: Translation updated at 2026-02-06 11:45
+
+# game/extras.rpy:336
+translate german extra_scene_30_8cb27f02:
+
+    # "With a heavy sigh, Lilly chastely crossed her legs and caught her breath for several minutes."
+    "Mit einem tiefen Seufzer holte Lilly keusch und für einige Minuten Luft."
+
+# game/extras.rpy:2407
+translate german extra_scene_45_d2fd927f:
+
+    # c "I love your tits so much, Mom."
+    c "Ich liebe deine Brüste so sehr, Mama."
+
+# game/extras.rpy:2428
+translate german extra_scene_45_df416d1d:
+
+    # c "I want to make you pregnant, Mom."
+    c "Ich möchte dich schwängern, Mama."
+
+# game/extras.rpy:2434
+translate german extra_scene_45_fd73cd09:
+
+    # c "I want to fill you up, Mom."
+    c "Ich möchte dich satt machen, Mama."
+
+# game/extras.rpy:2578
+translate german extra_scene_46_be6653d0:
+
+    # "Vess lowered herself between Céline’s thighs and began to lap up the juices that covered her pussy."
+    "Vess ließ sich zwischen Célines Schenkel sinken und begann, die Säfte aufzulecken, die ihre Scham bedeckten."
+

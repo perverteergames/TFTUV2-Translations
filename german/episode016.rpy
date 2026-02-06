@@ -6432,3 +6432,11 @@ translate german strings:
     old "Suck her"
     new "Lutsch sie"
 
+# TODO: Translation updated at 2026-02-06 11:45
+
+# game/episode016.rpy:796
+translate german ep016_scolguin_fleet_6f801808:
+
+    # c "I’m sure there are more than dare to admit."
+    c "Ich bin mir sicher, dass es mehr als genug gibt, die mir zustimmen würden."
+

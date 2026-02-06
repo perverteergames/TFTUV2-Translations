@@ -24180,3 +24180,243 @@ translate german ep021_lilly_talk_9e3cea2b:
     # l "At least not things involving your family."
     l "Zumindest nicht Dinge, die deine Familie betreffen."
 
+# TODO: Translation updated at 2026-02-06 11:45
+
+# game/episode021.rpy:1220
+translate german ep021_eva_talk_4b66df93:
+
+    # e "It happened!!!"
+    e ""
+
+# game/episode021.rpy:1270
+translate german ep021_eva_talk_a7211e33:
+
+    # e "Though that’s going to be a challenging conversation."
+    e "Ich dachte mir schon, dass das ein schwieriges Gespräch werden würde."
+
+# game/episode021.rpy:1335
+translate german ep021_thyia_talk_0b8ed28f:
+
+    # th "Need to tweak its programming a little more before I let it out in the wild."
+    th "Ich muss die Programmierung noch ein bisschen optimieren, bevor ich sie in die freie Wildbahn lasse."
+
+# game/episode021.rpy:1594
+translate german ep021_vess_talk_8c3da50e_1:
+
+    # ve "I always thought you had a special relationship with your mother and sisters, but I didn’t dare imagine it was romantic."
+    ve "Ich dachte immer, du hättest eine besondere Beziehung zu deiner Mutter und deinen Schwestern, aber ich habe mich nie getraut, mir vorzustellen, dass sie romantischer Natur war."
+
+# game/episode021.rpy:1606
+translate german ep021_vess_talk_33da25af:
+
+    # ve "So no, not disgusted, merely surprised, a little shocked even."
+    ve "Also nein, nicht angewidert, lediglich überrascht, ja sogar schockiert."
+
+# game/episode021.rpy:2087
+translate german ep021_raene_talk_8442394d:
+
+    # c "In that case I’d like to invite you to be intimate with her together with me at some point."
+    c "In diesem Fall möchte ich dich einladen, irgendwann gemeinsam mit mir mit ihr intim zu werden."
+
+# game/episode021.rpy:2707
+translate german ep021_group_talk_e266ded7:
+
+    # av "Yeah, I really wanted to be the first, you know."
+    av "Ja, ich wollte unbedingt die Erste sein, weißt du."
+
+# game/episode021.rpy:2721
+translate german ep021_group_talk_fd13a80d:
+
+    # na "Yeah, I really wanted to be the first, you know."
+    na "Ja, ich wollte unbedingt die Erste sein, weißt du."
+
+# game/episode021.rpy:3021
+translate german ep021_group_talk_91a98ad8:
+
+    # av "You were on the prowl too, weren’t you Mom?"
+    av "Du warst doch auch auf der Jagd, nicht wahr, Mama?"
+
+# game/episode021.rpy:3026
+translate german ep021_group_talk_76bf00fc:
+
+    # e "You were on the prowl too, weren’t you Mom?"
+    e "Du warst doch auch auf der Jagd, nicht wahr, Mama?"
+
+# game/episode021.rpy:3031
+translate german ep021_group_talk_c4352972:
+
+    # l "You were on the prowl too, weren’t you Mom?"
+    l "Du warst doch auch auf der Jagd, nicht wahr, Mama?"
+
+# game/episode021.rpy:3280
+translate german ep021_raene_sex_f0ca5203:
+
+    # "She unclasped her bra and revealed her perky breasts."
+    "Sie öffnete ihren BH und enthüllte ihre prallen, jungen Brüste."
+
+# game/episode021.rpy:3289
+translate german ep021_raene_sex_2ac104fc:
+
+    # "Raene hopped off the bar and walked to her bunk where she shed her clothes."
+    "Raene sprang von der Bar und ging zu ihrer Koje, wo sie sich ihrer Kleider entledigte."
+
+# game/episode021.rpy:3448
+translate german ep021_raene_sex_1bfcec38:
+
+    # ra "Do you want to go down on me again?"
+    ra "Willst du mich nochmal oral befriedigen?"
+
+# game/episode021.rpy:3733
+translate german ep021_group_fuck_full_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Wirst du für mich kommen, Aven?"
+
+# game/episode021.rpy:4382
+translate german ep021_group_fuck_partial_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Wirst du für mich kommen, Aven?"
+
+# game/episode021.rpy:4780
+translate german ep021_group_fuck_partial_6dfad288:
+
+    # na "Are you going to cum for me?"
+    na "Wirst du für mich kommen, Aven?"
+
+# game/episode021.rpy:4807
+translate german ep021_group_fuck_partial_7a40b0b1:
+
+    # "I penetrated her slit from behind, enjoying the abundance of her juices."
+    "Ich drang von hinten in ihre Spalte ein und genoss die Fülle ihrer Säfte."
+
+# game/episode021.rpy:4881
+translate german ep021_group_fuck_partial_3f2bc1ef:
+
+    # l "Yes, deeper!{w} I want to feel you cum deep inside me!"
+    l "Ja, tiefer!{w} Ich will spüren, wie du tief in mir kommst!"
+
+# game/episode021.rpy:5030
+translate german ep021_group_fuck_partial_73718aa2:
+
+    # na "Yes, fill your mother’s pussy up, [p_name_short]!"
+    na "Ja, füll die Muschi deiner Mutter voll, [p_name_short]!"
+
+# game/episode021.rpy:5433
+translate german ep021_group_fuck_duo_a4cc4494:
+
+    # "Seemingly encouraged by Aven, Eva applied pressure to the girl’s throat, depriving her of oxygen."
+    "Offenbar von Aven dazu ermutigt, drückte Eva auf den Hals des Mädchens und entzog ihr so ​​den Sauerstoff."
+
+# game/episode021.rpy:5526
+translate german ep021_group_fuck_duo_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Wirst du für mich kommen, Aven?"
+
+# game/episode021.rpy:5703
+translate german ep021_group_fuck_duo_4d508db7:
+
+    # "Eva kept the head of her friend in what I hoped was a gentle hold."
+    "Eva hielt den Kopf ihrer Schwester in einem, wie ich hoffte, sanften Griff."
+
+# game/episode021.rpy:5705
+translate german ep021_group_fuck_duo_2970d7f5:
+
+    # "Aven kept the head of her friend in what I hoped was a gentle hold."
+    "Aven hielt den Kopf ihrer Schwester in einem, wie ich hoffte, sanften Griff."
+
+# game/episode021.rpy:5707
+translate german ep021_group_fuck_duo_729d91b8:
+
+    # "Nadya kept the head of her friend in what I hoped was a gentle hold."
+    "Nadya hielt den Kopf ihrer Tochter, wie ich hoffte, in einem sanften Griff."
+
+# game/episode021.rpy:5838
+translate german ep021_group_fuck_duo_b9cdde36:
+
+    # e "Are you going to cum for me?"
+    e "Wirst du für mich kommen, Aven?"
+
+# game/episode021.rpy:6041
+translate german ep021_group_fuck_duo_6dfad288:
+
+    # na "Are you going to cum for me?"
+    na "Wirst du für mich kommen, Aven?"
+
+# game/episode021.rpy:6106
+translate german ep021_group_fuck_duo_2519c805:
+
+    # "Seemingly encouraged by Nadya, Eva applied pressure to the woman’s throat, depriving her of oxygen."
+    "Offenbar ermutigt, drückte Eva auf den Hals der Frau und entzog ihr so ​​den Sauerstoff."
+
+# game/episode021.rpy:6188
+translate german ep021_group_fuck_duo_6dfad288_1:
+
+    # na "Are you going to cum for me?"
+    na "Wirst du für mich kommen, Aven?"
+
+# game/episode021.rpy:6207
+translate german ep021_group_fuck_duo_7a40b0b1:
+
+    # "I penetrated her slit from behind, enjoying the abundance of her juices."
+    "Ich drang von hinten in ihre Spalte ein und genoss die Fülle ihrer Säfte."
+
+# game/episode021.rpy:6263
+translate german ep021_group_fuck_duo_3f2bc1ef:
+
+    # l "Yes, deeper!{w} I want to feel you cum deep inside me!"
+    l "Ja, tiefer!{w} Ich will spüren, wie du tief in mir kommst!"
+
+# game/episode021.rpy:7010
+translate german ep021_vess_sex_soft_23e4c58c:
+
+    # "As she sat on the of the couch I crawled in front of her."
+    ""
+
+# game/episode021.rpy:7121
+translate german ep021_vess_sex_soft_203ad44e:
+
+    # "Buried deep inside her, I filled her up with my warm cum."
+    "Als ich tief in ihr war, füllte ich sie mit meinem warmen Samen."
+
+# game/episode021.rpy:7177
+translate german ep021_vess_sex_vaginal_b918ffbd:
+
+    # "She alternately rode me and ground her pussy against my abdomen when my cock was inside up to the base."
+    "Sie ritt mich abwechselnd und rieb ihre Muschi an meinem Bauch, während mein Schwanz bis zum Anschlag in mir war."
+
+# game/episode021.rpy:7327
+translate german ep021_vess_sex_anal_3dcf9ec9:
+
+    # "Deep inside, I flooded her ass with warm cum."
+    "Tief in ihr füllte ich ihren Arsch mit warmem Sperma."
+
+# game/episode021.rpy:7421
+translate german ep021_vess_sex_hard_57044c36:
+
+    # "Vess admirably tried to control her gag reflex, but my girth made her gag slightly from time to time."
+    "Vess versuchte bewundernswert, ihren Würgereiz zu unterdrücken, aber mein Umfang brachte sie hin und wieder zum Würgen."
+
+# game/episode021.rpy:7472
+translate german ep021_vess_sex_hard_203ad44e:
+
+    # "Buried deep inside her, I filled her up with my warm cum."
+    "Als ich tief in ihr war, füllte ich sie mit meinem warmen Samen."
+
+# game/episode021.rpy:7511
+translate german ep021_vess_sex_hard_b918ffbd:
+
+    # "She alternately rode me and ground her pussy against my abdomen when my cock was inside up to the base."
+    "Sie ritt mich abwechselnd und rieb ihre Muschi an meinem Bauch, während mein Schwanz bis zum Anschlag in mir war."
+
+translate german strings:
+
+    # game/episode021.rpy:378
+    old "Skeda's Skivs Rendezvous Point"
+    new "Skeda's Skivs Treffpunkt"
+
+    # game/episode021.rpy:393
+    old "Marleybone Irregulars Rendezvous Point"
+    new "Treffpunkt der Marleybone Irregulars"
+

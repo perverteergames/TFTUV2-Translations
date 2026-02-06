@@ -7234,3 +7234,11 @@ translate german ep015_sim_eva_bedroom_13f339d1:
     # l "Invade my tight virgin slit?"
     l "In meine enge jungfräuliche Spalte eindringen?"
 
+# TODO: Translation updated at 2026-02-06 11:45
+
+# game/episode015.rpy:1529
+translate german ep015_sim_exit_choices_a73bddf4:
+
+    # "The editing process did eventually complete, but I wasn’t feeling very confident about it, all of a sudden."
+    "Der Bearbeitungsprozess wurde zwar schließlich abgeschlossen, aber plötzlich war ich nicht mehr sehr zuversichtlich, was das Ergebnis anging."
+

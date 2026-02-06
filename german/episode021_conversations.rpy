@@ -1074,3 +1074,29 @@ translate german ep021_jade_sex_hard_63a0f76f:
     # "Exhausted, I fell into a deep sleep until the comms crackled and Céline requested my presence on the bridge for a flight status update."
     "Völlig erschöpft fiel ich in einen tiefen Schlaf, bis die Funkverbindung knisterte und Céline mich aufforderte, auf der Brücke zu erscheinen, um mir einen aktuellen Flugstatus mitzuteilen."
 
+# TODO: Translation updated at 2026-02-06 11:45
+
+# game/episode021_conversations.rpy:54
+translate german ep021_jade_sex_soft_da803ece:
+
+    # j "Good, why don’t you lose the clothes?"
+    j "Gut, warum ziehst du nicht deine Kleidung aus?"
+
+# game/episode021_conversations.rpy:68
+translate german ep021_jade_sex_soft_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    "Ich konnte nur dagegen ankämpfen, sofort zu kommen, und ihre oralen Fähigkeiten bewundern."
+
+# game/episode021_conversations.rpy:250
+translate german ep021_jade_sex_hard_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    "Ich konnte nur dagegen ankämpfen, sofort zu kommen, und ihre oralen Fähigkeiten bewundern."
+
+# game/episode021_conversations.rpy:256
+translate german ep021_jade_sex_hard_b9126da1:
+
+    # c "You’d like that, wouldn’t you, my hard cock inside you?"
+    c "Das würde dir gefallen, nicht wahr, mein harter Schwanz in dir?"
+

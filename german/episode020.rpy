@@ -14284,3 +14284,11 @@ translate german strings:
     old "Fuck Vess again"
     new "Fick Vess schon wieder"
 
+# TODO: Translation updated at 2026-02-06 11:45
+
+# game/episode020.rpy:1303
+translate german ep020_pirate_rendevous_3766801f:
+
+    # c "May I ask why your organization hasn’t retaliated directly?"
+    c "Darf ich fragen, warum Ihre Organisation nicht direkt Vergeltungsmaßnahmen ergriffen hat?"
+

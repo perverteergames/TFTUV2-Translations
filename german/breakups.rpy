@@ -1762,3 +1762,11 @@ translate german strings:
     old "Evade"
     new "Ausweichen"
 
+# TODO: Translation updated at 2026-02-06 11:45
+
+# game/breakups.rpy:427
+translate german breakup_eva_a0ed6a6c:
+
+    # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
+    "Ich zog mich zurück und schloss die Tür hinter mir, sodass meine Schwester in Tränen ausbrach."
+
