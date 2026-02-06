@@ -585,3 +585,11 @@ translate spanish strings:
     old "Deutsch"
     new "Deutsch"
 
+# TODO: Translation updated at 2026-02-06 12:27
+
+translate spanish strings:
+
+    # game/screens.rpy:1532
+    old "Italiano"
+    new ""
+

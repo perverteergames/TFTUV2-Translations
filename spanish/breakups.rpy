@@ -1764,3 +1764,11 @@ translate spanish breakup_eva_b04ca312:
     # "I retreated and closed the door behind me, leaving my sister to dissolve into tears."
     ""
 
+# TODO: Translation updated at 2026-02-06 12:27
+
+# game/breakups.rpy:427
+translate spanish breakup_eva_a0ed6a6c:
+
+    # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
+    ""
+

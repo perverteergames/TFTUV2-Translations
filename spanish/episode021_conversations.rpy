@@ -1074,3 +1074,29 @@ translate spanish ep021_jade_sex_hard_63a0f76f:
     # "Exhausted, I fell into a deep sleep until the comms crackled and Céline requested my presence on the bridge for a flight status update."
     ""
 
+# TODO: Translation updated at 2026-02-06 12:27
+
+# game/episode021_conversations.rpy:54
+translate spanish ep021_jade_sex_soft_da803ece:
+
+    # j "Good, why don’t you lose the clothes?"
+    j ""
+
+# game/episode021_conversations.rpy:68
+translate spanish ep021_jade_sex_soft_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    ""
+
+# game/episode021_conversations.rpy:250
+translate spanish ep021_jade_sex_hard_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    ""
+
+# game/episode021_conversations.rpy:256
+translate spanish ep021_jade_sex_hard_b9126da1:
+
+    # c "You’d like that, wouldn’t you, my hard cock inside you?"
+    c ""
+
