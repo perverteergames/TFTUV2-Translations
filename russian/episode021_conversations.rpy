@@ -1074,3 +1074,31 @@ translate russian ep021_jade_sex_hard_63a0f76f:
     # "Exhausted, I fell into a deep sleep until the comms crackled and Céline requested my presence on the bridge for a flight status update."
     "Утомлённый, я погрузился в глубокий сон, пока не затрещал коммуникатор и Селин не запросила моего присутствия на мостике для обновления статуса полёта."
 
+# TODO: Translation updated at 2026-02-06 12:12
+
+# game/episode021_conversations.rpy:54
+translate russian ep021_jade_sex_soft_da803ece:
+
+    # j "Good, why don’t you lose the clothes?"
+    j "Хорошо, почему бы тебе не снять одежду?"
+
+# game/episode021_conversations.rpy:68
+translate russian ep021_jade_sex_soft_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    "Всё, что я мог делать, это изо всех сил стараться не кончить сразу же и восхищаться её оральными навыками."
+
+# game/episode021_conversations.rpy:250
+translate russian ep021_jade_sex_hard_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    "Всё, что я мог делать, это изо всех сил стараться не кончить сразу же и восхищаться её оральными навыками."
+
+# game/episode021_conversations.rpy:256
+translate russian ep021_jade_sex_hard_b9126da1:
+
+    # c "You’d like that, wouldn’t you, my hard cock inside you?"
+    c "Тебе бы этого хотелось, не так ли, чтобы мой твёрдый член был внутри тебя?"
+
+
+

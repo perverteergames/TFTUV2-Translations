@@ -12500,3 +12500,35 @@ translate russian ep022_e_l_fucking_16438e35:
     # c "Now be a good girl and swallow everything."
     c "А теперь будь хорошей девочкой и проглоти все."
 
+# TODO: Translation updated at 2026-02-06 12:12
+
+# game/episode022.rpy:327
+translate russian ep022_temple_simulation_2f5e7d26:
+
+    # "As if on cue, a great many sirens began to blare."
+    "Словно по команде, завыло множество сирен."
+
+# game/episode022.rpy:3388
+translate russian ep022_ve_ce_sex_choices_d8af05d9:
+
+    # c "I’m going to put a baby inside you."
+    c "Сейчас я заделаю в тебе ребёнка."
+
+# game/episode022.rpy:3424
+translate russian ep022_ve_ce_sex_choices_0bb0bf9e_1:
+
+    # c "I’m going to shoot you full of cum."
+    c "Я залью твою киску спермой."
+
+# game/episode022.rpy:3769
+translate russian ep022_ve_ce_sex_submissive_choices_d8af05d9:
+
+    # c "I’m going to put a baby inside you."
+    c "Сейчас я заделаю в тебе ребёнка."
+
+# game/episode022.rpy:3771
+translate russian ep022_ve_ce_sex_submissive_choices_5623c9c8:
+
+    # c "I’m going to shoot your dirty little pussy full of cum."
+    c "Я залью твою грязную киску спермой."
+

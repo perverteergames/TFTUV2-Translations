@@ -24245,3 +24245,231 @@ translate russian ep021_raene_sex_f0ca5203:
     # "She unclasped her bra and revealed her perky breasts."
     "Она расстегнула лифчик и обнажила свои упругие груди."
 
+# TODO: Translation updated at 2026-02-06 12:12
+
+# game/episode021.rpy:1220
+translate russian ep021_eva_talk_4b66df93:
+
+    # e "It happened!!!"
+    e "Это случилось!!!"
+
+# game/episode021.rpy:1270
+translate russian ep021_eva_talk_a7211e33:
+
+    # e "Though that’s going to be a challenging conversation."
+    e "Думаю, это будет непростой разговор."
+
+# game/episode021.rpy:1335
+translate russian ep021_thyia_talk_0b8ed28f:
+
+    # th "Need to tweak its programming a little more before I let it out in the wild."
+    th "Нужно ещё немного подправить код, прежде чем я выпущу его на волю."
+
+# game/episode021.rpy:1594
+translate russian ep021_vess_talk_8c3da50e_1:
+
+    # ve "I always thought you had a special relationship with your mother and sisters, but I didn’t dare imagine it was romantic."
+    ve "Я всегда думала, что у тебя особые отношения с матерью и сёстрами, но я и представить себе не могла, что они романтические."
+
+# game/episode021.rpy:1606
+translate russian ep021_vess_talk_33da25af:
+
+    # ve "So no, not disgusted, merely surprised, a little shocked even."
+    ve "Так что нет, не испытываю отвращения, просто удивлена, даже шокирована."
+
+# game/episode021.rpy:2707
+translate russian ep021_group_talk_e266ded7:
+
+    # av "Yeah, I really wanted to be the first, you know."
+    av "Да, я очень хотела быть первой."
+
+# game/episode021.rpy:2721
+translate russian ep021_group_talk_fd13a80d:
+
+    # na "Yeah, I really wanted to be the first, you know."
+    na "Да, я очень хотела быть первой."
+
+# game/episode021.rpy:3021
+translate russian ep021_group_talk_91a98ad8:
+
+    # av "You were on the prowl too, weren’t you Mom?"
+    av "Ты же тоже слонялась там, не так ли, мам?"
+
+# game/episode021.rpy:3026
+translate russian ep021_group_talk_76bf00fc:
+
+    # e "You were on the prowl too, weren’t you Mom?"
+    e "Ты же тоже слонялась там, не так ли, мам?"
+
+# game/episode021.rpy:3031
+translate russian ep021_group_talk_c4352972:
+
+    # l "You were on the prowl too, weren’t you Mom?"
+    l "Ты же тоже слонялась там, не так ли, мам?"
+
+# game/episode021.rpy:3289
+translate russian ep021_raene_sex_2ac104fc:
+
+    # "Raene hopped off the bar and walked to her bunk where she shed her clothes."
+    "Рэин спрыгнула со стойки и направилась к своей койке, где сбросила одежду."
+
+# game/episode021.rpy:3448
+translate russian ep021_raene_sex_1bfcec38:
+
+    # ra "Do you want to go down on me again?"
+    ra "Хочешь снова отсосать мне?"
+
+# game/episode021.rpy:3733
+translate russian ep021_group_fuck_full_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Кончишь для меня, Эвин?"
+
+# game/episode021.rpy:4382
+translate russian ep021_group_fuck_partial_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Кончишь для меня, Эвин?"
+
+# game/episode021.rpy:4780
+translate russian ep021_group_fuck_partial_6dfad288:
+
+    # na "Are you going to cum for me?"
+    na "Кончишь для меня, Эвин?"
+
+# game/episode021.rpy:4807
+translate russian ep021_group_fuck_partial_7a40b0b1:
+
+    # "I penetrated her slit from behind, enjoying the abundance of her juices."
+    "Я проник в её щель сзади, наслаждаясь обилием её соков."
+
+# game/episode021.rpy:4881
+translate russian ep021_group_fuck_partial_3f2bc1ef:
+
+    # l "Yes, deeper!{w} I want to feel you cum deep inside me!"
+    l "Да, глубже!{w} Я хочу почувствовать, как ты кончаешь глубоко внутри меня!"
+
+# game/episode021.rpy:5030
+translate russian ep021_group_fuck_partial_73718aa2:
+
+    # na "Yes, fill your mother’s pussy up, [p_name_short]!"
+    na "Да, наполни киску своей матери до краёв, [p_name_short]!"
+
+# game/episode021.rpy:5433
+translate russian ep021_group_fuck_duo_a4cc4494:
+
+    # "Seemingly encouraged by Aven, Eva applied pressure to the girl’s throat, depriving her of oxygen."
+    "Явно воодушевлённая Эвин, Ева надавила на горло девушки, лишая её кислорода."
+
+# game/episode021.rpy:5526
+translate russian ep021_group_fuck_duo_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Кончишь для меня, Эвин?"
+
+# game/episode021.rpy:5703
+translate russian ep021_group_fuck_duo_4d508db7:
+
+    # "Eva kept the head of her friend in what I hoped was a gentle hold."
+    "Ева держала голову своей сестры в нежном, как я надеялся, захвате."
+
+# game/episode021.rpy:5705
+translate russian ep021_group_fuck_duo_2970d7f5:
+
+    # "Aven kept the head of her friend in what I hoped was a gentle hold."
+    "Эвин держала голову своей сестры в нежном, как я надеялся, захвате."
+
+# game/episode021.rpy:5707
+translate russian ep021_group_fuck_duo_729d91b8:
+
+    # "Nadya kept the head of her friend in what I hoped was a gentle hold."
+    "Надия держала голову своей дочери в нежном, как я надеялся, захвате."
+
+# game/episode021.rpy:5838
+translate russian ep021_group_fuck_duo_b9cdde36:
+
+    # e "Are you going to cum for me?"
+    e "Кончишь для меня, Эвин?"
+
+# game/episode021.rpy:6041
+translate russian ep021_group_fuck_duo_6dfad288:
+
+    # na "Are you going to cum for me?"
+    na "Кончишь для меня, Эвин?"
+
+# game/episode021.rpy:6106
+translate russian ep021_group_fuck_duo_2519c805:
+
+    # "Seemingly encouraged by Nadya, Eva applied pressure to the woman’s throat, depriving her of oxygen."
+    "Явно воодушевлённая, Ева надавила на горло женщины, лишая её кислорода."
+
+# game/episode021.rpy:6188
+translate russian ep021_group_fuck_duo_6dfad288_1:
+
+    # na "Are you going to cum for me?"
+    na "Кончишь для меня, Эвин?"
+
+# game/episode021.rpy:6207
+translate russian ep021_group_fuck_duo_7a40b0b1:
+
+    # "I penetrated her slit from behind, enjoying the abundance of her juices."
+    "Я проник в её щель сзади, наслаждаясь обилием её соков."
+
+# game/episode021.rpy:6263
+translate russian ep021_group_fuck_duo_3f2bc1ef:
+
+    # l "Yes, deeper!{w} I want to feel you cum deep inside me!"
+    l "Да, глубже!{w} Я хочу почувствовать, как ты кончаешь глубоко внутри меня!"
+
+# game/episode021.rpy:7010
+translate russian ep021_vess_sex_soft_23e4c58c:
+
+    # "As she sat on the of the couch I crawled in front of her."
+    "Когда она села на диван, я подполз к ней."
+
+# game/episode021.rpy:7121
+translate russian ep021_vess_sex_soft_203ad44e:
+
+    # "Buried deep inside her, I filled her up with my warm cum."
+    "Когда я был глубоко внутри неё, я наполнил её своей тёплой спермой."
+
+# game/episode021.rpy:7177
+translate russian ep021_vess_sex_vaginal_b918ffbd:
+
+    # "She alternately rode me and ground her pussy against my abdomen when my cock was inside up to the base."
+    "Она попеременно скакала на мне верхом и тёрлась своей киской о мой живот, когда мой член был внутри неё по самые яйца."
+
+# game/episode021.rpy:7327
+translate russian ep021_vess_sex_anal_3dcf9ec9:
+
+    # "Deep inside, I flooded her ass with warm cum."
+    "Глубоко внутри я наполнил ее задницу теплой спермой."
+
+# game/episode021.rpy:7421
+translate russian ep021_vess_sex_hard_57044c36:
+
+    # "Vess admirably tried to control her gag reflex, but my girth made her gag slightly from time to time."
+    "Весс замечательно старалась контролировать свой рвотный рефлекс, но мой обхват время от времени заставлял её слегка поперхнуться."
+
+# game/episode021.rpy:7472
+translate russian ep021_vess_sex_hard_203ad44e:
+
+    # "Buried deep inside her, I filled her up with my warm cum."
+    "Когда я был глубоко внутри неё, я наполнил её своей тёплой спермой."
+
+# game/episode021.rpy:7511
+translate russian ep021_vess_sex_hard_b918ffbd:
+
+    # "She alternately rode me and ground her pussy against my abdomen when my cock was inside up to the base."
+    "Она попеременно скакала на мне верхом и тёрлась своей киской о мой живот, когда мой член был внутри неё по самые яйца."
+
+translate russian strings:
+
+    # game/episode021.rpy:378
+    old "Skeda's Skivs Rendezvous Point"
+    new "Место встречи Скеды Скивс"
+
+    # game/episode021.rpy:393
+    old "Marleybone Irregulars Rendezvous Point"
+    new "Место встречи Марлибонских нерегуляров"
+

@@ -7618,3 +7618,11 @@ translate russian ep015_sim_eva_bedroom_13f339d1:
     # l "Invade my tight virgin slit?"
     l "Вторгнуться в мою узкую девственную щель?"
 
+# TODO: Translation updated at 2026-02-06 12:12
+
+# game/episode015.rpy:1529
+translate russian ep015_sim_exit_choices_a73bddf4:
+
+    # "The editing process did eventually complete, but I wasn’t feeling very confident about it, all of a sudden."
+    "Процесс редактирования в конечном итоге завершился, но я вовсе не был в этом уверен."
+

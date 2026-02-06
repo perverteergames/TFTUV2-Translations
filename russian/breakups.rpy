@@ -1770,3 +1770,11 @@ translate russian strings:
     new "Избежать"
 
 
+# TODO: Translation updated at 2026-02-06 12:12
+
+# game/breakups.rpy:427
+translate russian breakup_eva_a0ed6a6c:
+
+    # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
+    "Я отступил и закрыл за собой дверь, оставив сестру заливаться слезами."
+

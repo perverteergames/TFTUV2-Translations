@@ -6488,3 +6488,11 @@ translate russian strings:
     old "Guard"
     new "Охранник"
 
+# TODO: Translation updated at 2026-02-06 12:12
+
+# game/episode016.rpy:796
+translate russian ep016_scolguin_fleet_6f801808:
+
+    # c "I’m sure there are more than dare to admit."
+    c "Я уверен, что найдётся больше тех, кто осмелится согласиться."
+

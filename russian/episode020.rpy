@@ -14320,3 +14320,11 @@ translate russian strings:
     old "Visit Raene"
     new "Навестить Рэин"
 
+# TODO: Translation updated at 2026-02-06 12:12
+
+# game/episode020.rpy:1303
+translate russian ep020_pirate_rendevous_3766801f:
+
+    # c "May I ask why your organization hasn’t retaliated directly?"
+    c "Могу я спросить, почему ваша организация не предприняла прямых ответных мер?"
+
