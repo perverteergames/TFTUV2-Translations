@@ -7232,3 +7232,11 @@ translate french ep015_sim_eva_bedroom_13f339d1:
     # l "Invade my tight virgin slit?"
     l "Envahir ma fente vierge et serrée ?"
 
+# TODO: Translation updated at 2026-02-06 11:35
+
+# game/episode015.rpy:1529
+translate french ep015_sim_exit_choices_a73bddf4:
+
+    # "The editing process did eventually complete, but I wasn’t feeling very confident about it, all of a sudden."
+    "Le processus d'édition a finalement été achevé, mais je ne me sentais soudainement plus très confiant à ce sujet."
+

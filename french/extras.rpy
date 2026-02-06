@@ -7144,3 +7144,35 @@ translate french extra_scene_38_b836fff8:
     # c "Is my slutty girlfriend ready to get fucked?"
     c "Ma copine salope est-elle prête à se faire baiser ?"
 
+# TODO: Translation updated at 2026-02-06 11:35
+
+# game/extras.rpy:336
+translate french extra_scene_30_8cb27f02:
+
+    # "With a heavy sigh, Lilly chastely crossed her legs and caught her breath for several minutes."
+    "Avec un profond soupir, Lilly croisa chastement les jambes et reprit son souffle pendant plusieurs minutes."
+
+# game/extras.rpy:2407
+translate french extra_scene_45_d2fd927f:
+
+    # c "I love your tits so much, Mom."
+    c "J'adore tes seins, maman."
+
+# game/extras.rpy:2428
+translate french extra_scene_45_df416d1d:
+
+    # c "I want to make you pregnant, Mom."
+    c "Je veux te mettre enceinte, maman."
+
+# game/extras.rpy:2434
+translate french extra_scene_45_fd73cd09:
+
+    # c "I want to fill you up, Mom."
+    c "Je veux te remplir, maman."
+
+# game/extras.rpy:2578
+translate french extra_scene_46_be6653d0:
+
+    # "Vess lowered herself between Céline’s thighs and began to lap up the juices that covered her pussy."
+    "Vess s'agenouilla entre les cuisses de Céline et commença à lécher le jus qui recouvrait sa chatte."
+

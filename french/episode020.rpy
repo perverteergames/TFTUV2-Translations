@@ -14296,3 +14296,11 @@ translate french strings:
     old "Petrarch actually consists of three suns (labeled I, II and III) and an unnamed planet, together forming the Petrarch system. The system is a likely candidate for the location mentioned in the prophecy and is located in Držić, an ancient high-redshift galaxy in Ursa Major."
     new "Petrarch se compose en fait de trois soleils (étiquetés I, II et III) et d'une planète sans nom, formant ensemble le système Petrarch. Ce système est un candidat probable pour l'endroit mentionné dans la prophétie et se trouve dans Držić, une ancienne galaxie de haut décalage spectral dans la Grande Ourse."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-06 11:35
+
+# game/episode020.rpy:1303
+translate french ep020_pirate_rendevous_3766801f:
+
+    # c "May I ask why your organization hasn’t retaliated directly?"
+    c "Puis-je vous demander pourquoi votre organisation n'a pas riposté directement ?"
+

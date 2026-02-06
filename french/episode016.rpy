@@ -6434,3 +6434,11 @@ translate french ep016_scolguin_fleet_11b72724:
 
     c "Nous échangeons les informations que mon père a reçues, puis je partirai, pour revenir dans dix ans et me soumettre à tout viol de l'esprit nécessaire pour extraire les nouveaux souvenirs que j'ai fabriqués."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-06 11:35
+
+# game/episode016.rpy:796
+translate french ep016_scolguin_fleet_6f801808:
+
+    # c "I’m sure there are more than dare to admit."
+    c "Je suis sûr qu'il y en a plus qui osent l'admettre."
+

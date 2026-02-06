@@ -1762,3 +1762,11 @@ translate french breakup_eva_b04ca312:
 
     "Je recule et ferme la porte derrière moi, laissant ma sœur se dissoudre dans les larmes."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-06 11:35
+
+# game/breakups.rpy:427
+translate french breakup_eva_a0ed6a6c:
+
+    # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
+    ""
+

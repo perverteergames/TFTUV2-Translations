@@ -2146,3 +2146,29 @@ translate french ep021_jade_sex_hard_63a0f76f:
 
     "Épuisée, je suis tombée dans un profond sommeil jusqu'à ce que les coms crépitent et que Céline demande ma présence sur la passerelle pour une mise à jour de l'état du vol."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-06 11:35
+
+# game/episode021_conversations.rpy:54
+translate french ep021_jade_sex_soft_da803ece:
+
+    # j "Good, why don’t you lose the clothes?"
+    j "Bien, pourquoi ne pas enlever tes vêtements ?"
+
+# game/episode021_conversations.rpy:68
+translate french ep021_jade_sex_soft_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    "Tout ce que je pouvais faire, c'était lutter pour ne pas jouir tout de suite et m'émerveiller devant ses talents buccaux."
+
+# game/episode021_conversations.rpy:250
+translate french ep021_jade_sex_hard_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    "Tout ce que je pouvais faire, c'était lutter pour ne pas jouir tout de suite et m'émerveiller devant ses talents buccaux."
+
+# game/episode021_conversations.rpy:256
+translate french ep021_jade_sex_hard_b9126da1:
+
+    # c "You’d like that, wouldn’t you, my hard cock inside you?"
+    c "Tu aimerais ça, n'est-ce pas, ma bite dure en toi ?"
+

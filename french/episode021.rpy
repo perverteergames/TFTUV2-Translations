@@ -24178,3 +24178,243 @@ translate french ep021_lilly_talk_9e3cea2b:
     # l "At least not things involving your family."
     l "Du moins, pas les choses qui concernent ta famille."
 
+# TODO: Translation updated at 2026-02-06 11:35
+
+# game/episode021.rpy:1220
+translate french ep021_eva_talk_4b66df93:
+
+    # e "It happened!!!"
+    e "Ça s'est produit !!!"
+
+# game/episode021.rpy:1270
+translate french ep021_eva_talk_a7211e33:
+
+    # e "Though that’s going to be a challenging conversation."
+    e "Mais ça va être une conversation difficile."
+
+# game/episode021.rpy:1335
+translate french ep021_thyia_talk_0b8ed28f:
+
+    # th "Need to tweak its programming a little more before I let it out in the wild."
+    th "Je dois encore peaufiner un peu sa programmation avant de le lancer sur le marché."
+
+# game/episode021.rpy:1594
+translate french ep021_vess_talk_8c3da50e_1:
+
+    # ve "I always thought you had a special relationship with your mother and sisters, but I didn’t dare imagine it was romantic."
+    ve "J'ai toujours pensé que tu avais une relation particulière avec ta mère et tes sœurs, mais je n'aurais jamais osé imaginer qu'elle était romantique."
+
+# game/episode021.rpy:1606
+translate french ep021_vess_talk_33da25af:
+
+    # ve "So no, not disgusted, merely surprised, a little shocked even."
+    ve "Donc non, pas dégoûté, simplement surpris, voire un peu choqué."
+
+# game/episode021.rpy:2087
+translate french ep021_raene_talk_8442394d:
+
+    # c "In that case I’d like to invite you to be intimate with her together with me at some point."
+    c "Dans ce cas, j'aimerais t'inviter à devenir intime avec elle avec moi à un moment donné."
+
+# game/episode021.rpy:2707
+translate french ep021_group_talk_e266ded7:
+
+    # av "Yeah, I really wanted to be the first, you know."
+    av "Oui, je voulais vraiment être le premier, tu sais."
+
+# game/episode021.rpy:2721
+translate french ep021_group_talk_fd13a80d:
+
+    # na "Yeah, I really wanted to be the first, you know."
+    na "Oui, je voulais vraiment être le premier, tu sais."
+
+# game/episode021.rpy:3021
+translate french ep021_group_talk_91a98ad8:
+
+    # av "You were on the prowl too, weren’t you Mom?"
+    av "Tu étais aussi à l'affût, n'est-ce pas maman ?"
+
+# game/episode021.rpy:3026
+translate french ep021_group_talk_76bf00fc:
+
+    # e "You were on the prowl too, weren’t you Mom?"
+    e "Tu étais aussi à l'affût, n'est-ce pas maman ?"
+
+# game/episode021.rpy:3031
+translate french ep021_group_talk_c4352972:
+
+    # l "You were on the prowl too, weren’t you Mom?"
+    l "Tu étais aussi à l'affût, n'est-ce pas maman ?"
+
+# game/episode021.rpy:3280
+translate french ep021_raene_sex_f0ca5203:
+
+    # "She unclasped her bra and revealed her perky breasts."
+    "Elle a détaché son soutien-gorge et a dévoilé ses seins fermes."
+
+# game/episode021.rpy:3289
+translate french ep021_raene_sex_2ac104fc:
+
+    # "Raene hopped off the bar and walked to her bunk where she shed her clothes."
+    "Raene sauta du bar et se dirigea vers sa couchette où elle se débarrassa de ses vêtements."
+
+# game/episode021.rpy:3448
+translate french ep021_raene_sex_1bfcec38:
+
+    # ra "Do you want to go down on me again?"
+    ra "Tu veux me faire une nouvelle fellation ?"
+
+# game/episode021.rpy:3733
+translate french ep021_group_fuck_full_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Tu vas jouir pour moi ?"
+
+# game/episode021.rpy:4382
+translate french ep021_group_fuck_partial_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Tu vas jouir pour moi ?"
+
+# game/episode021.rpy:4780
+translate french ep021_group_fuck_partial_6dfad288:
+
+    # na "Are you going to cum for me?"
+    na "Tu vas jouir pour moi ?"
+
+# game/episode021.rpy:4807
+translate french ep021_group_fuck_partial_7a40b0b1:
+
+    # "I penetrated her slit from behind, enjoying the abundance of her juices."
+    "Je pénétrais sa fente par derrière, appréciant l'abondance de ses jus."
+
+# game/episode021.rpy:4881
+translate french ep021_group_fuck_partial_3f2bc1ef:
+
+    # l "Yes, deeper!{w} I want to feel you cum deep inside me!"
+    l "Oui, plus profondément !{w} Je veux sentir ton sperme au fond de moi !"
+
+# game/episode021.rpy:5030
+translate french ep021_group_fuck_partial_73718aa2:
+
+    # na "Yes, fill your mother’s pussy up, [p_name_short]!"
+    na "Oui, remplis la chatte de ta mère, [p_name_short] !"
+
+# game/episode021.rpy:5433
+translate french ep021_group_fuck_duo_a4cc4494:
+
+    # "Seemingly encouraged by Aven, Eva applied pressure to the girl’s throat, depriving her of oxygen."
+    "Apparemment encouragée par Aven, Eva a appuyé sur la gorge de la jeune fille, la privant d'oxygène."
+
+# game/episode021.rpy:5526
+translate french ep021_group_fuck_duo_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Tu vas jouir pour moi ?"
+
+# game/episode021.rpy:5703
+translate french ep021_group_fuck_duo_4d508db7:
+
+    # "Eva kept the head of her friend in what I hoped was a gentle hold."
+    "Eva tenait la tête de son amie dans ce que j'espérais être une étreinte douce."
+
+# game/episode021.rpy:5705
+translate french ep021_group_fuck_duo_2970d7f5:
+
+    # "Aven kept the head of her friend in what I hoped was a gentle hold."
+    "Aven tenait la tête de son amie dans ce que j'espérais être une étreinte douce."
+
+# game/episode021.rpy:5707
+translate french ep021_group_fuck_duo_729d91b8:
+
+    # "Nadya kept the head of her friend in what I hoped was a gentle hold."
+    "Nadya tenait la tête de son amie dans ce que j'espérais être une étreinte douce."
+
+# game/episode021.rpy:5838
+translate french ep021_group_fuck_duo_b9cdde36:
+
+    # e "Are you going to cum for me?"
+    e "Tu vas jouir pour moi ?"
+
+# game/episode021.rpy:6041
+translate french ep021_group_fuck_duo_6dfad288:
+
+    # na "Are you going to cum for me?"
+    na "Tu vas jouir pour moi ?"
+
+# game/episode021.rpy:6106
+translate french ep021_group_fuck_duo_2519c805:
+
+    # "Seemingly encouraged by Nadya, Eva applied pressure to the woman’s throat, depriving her of oxygen."
+    "Apparemment encouragée par Nadya, Eva a appuyé sur la gorge de la femme, la privant d'oxygène."
+
+# game/episode021.rpy:6188
+translate french ep021_group_fuck_duo_6dfad288_1:
+
+    # na "Are you going to cum for me?"
+    na "Tu vas jouir pour moi ?"
+
+# game/episode021.rpy:6207
+translate french ep021_group_fuck_duo_7a40b0b1:
+
+    # "I penetrated her slit from behind, enjoying the abundance of her juices."
+    "Je pénétrais sa fente par derrière, appréciant l'abondance de ses jus."
+
+# game/episode021.rpy:6263
+translate french ep021_group_fuck_duo_3f2bc1ef:
+
+    # l "Yes, deeper!{w} I want to feel you cum deep inside me!"
+    l "Oui, plus profondément !{w} Je veux sentir ton sperme au fond de moi !"
+
+# game/episode021.rpy:7010
+translate french ep021_vess_sex_soft_23e4c58c:
+
+    # "As she sat on the of the couch I crawled in front of her."
+    "Alors qu'elle était assise sur le canapé, je me suis mis à quatre pattes devant elle."
+
+# game/episode021.rpy:7121
+translate french ep021_vess_sex_soft_203ad44e:
+
+    # "Buried deep inside her, I filled her up with my warm cum."
+    "Enfoncé profondément en elle, je l'ai remplie de mon sperme chaud."
+
+# game/episode021.rpy:7177
+translate french ep021_vess_sex_vaginal_b918ffbd:
+
+    # "She alternately rode me and ground her pussy against my abdomen when my cock was inside up to the base."
+    "Elle me chevauchait et frottait sa chatte contre mon abdomen quand ma bite était enfoncée jusqu'à la base."
+
+# game/episode021.rpy:7327
+translate french ep021_vess_sex_anal_3dcf9ec9:
+
+    # "Deep inside, I flooded her ass with warm cum."
+    "Au plus profond de moi, j'ai inondé son cul de sperme chaud."
+
+# game/episode021.rpy:7421
+translate french ep021_vess_sex_hard_57044c36:
+
+    # "Vess admirably tried to control her gag reflex, but my girth made her gag slightly from time to time."
+    "Vess a admirablement essayé de contrôler son réflexe nauséeux, mais ma circonférence la faisait légèrement vomir de temps en temps."
+
+# game/episode021.rpy:7472
+translate french ep021_vess_sex_hard_203ad44e:
+
+    # "Buried deep inside her, I filled her up with my warm cum."
+    "Enfoncé profondément en elle, je l'ai remplie de mon sperme chaud."
+
+# game/episode021.rpy:7511
+translate french ep021_vess_sex_hard_b918ffbd:
+
+    # "She alternately rode me and ground her pussy against my abdomen when my cock was inside up to the base."
+    "Elle me chevauchait et frottait sa chatte contre mon abdomen quand ma bite était enfoncée jusqu'à la base."
+
+translate french strings:
+
+    # game/episode021.rpy:378
+    old "Skeda's Skivs Rendezvous Point"
+    new "Point de rendez-vous Skivs de Skeda"
+
+    # game/episode021.rpy:393
+    old "Marleybone Irregulars Rendezvous Point"
+    new "Point de rendez-vous des Irréguliers de Marleybone"
+
