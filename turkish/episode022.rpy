@@ -11984,3 +11984,35 @@ translate turkish ep022_e_l_fucking_16438e35:
     # c "Now be a good girl and swallow everything."
     c "Şimdi uslu bir kız ol ve her şeyi yut."
 
+# TODO: Translation updated at 2026-02-06 12:27
+
+# game/episode022.rpy:327
+translate turkish ep022_temple_simulation_2f5e7d26:
+
+    # "As if on cue, a great many sirens began to blare."
+    "Sanki bir işaretmiş gibi, çok sayıda siren çalmaya başladı."
+
+# game/episode022.rpy:3388
+translate turkish ep022_ve_ce_sex_choices_d8af05d9:
+
+    # c "I’m going to put a baby inside you."
+    c "Senin içine bir bebek koyacağım."
+
+# game/episode022.rpy:3424
+translate turkish ep022_ve_ce_sex_choices_0bb0bf9e_1:
+
+    # c "I’m going to shoot you full of cum."
+    c "Seni spermle dolduracağım."
+
+# game/episode022.rpy:3769
+translate turkish ep022_ve_ce_sex_submissive_choices_d8af05d9:
+
+    # c "I’m going to put a baby inside you."
+    c "Senin içine bir bebek koyacağım."
+
+# game/episode022.rpy:3771
+translate turkish ep022_ve_ce_sex_submissive_choices_5623c9c8:
+
+    # c "I’m going to shoot your dirty little pussy full of cum."
+    c "Senin pis küçük amını spermle dolduracağım."
+

@@ -24021,3 +24021,243 @@ translate turkish ep021_lilly_talk_9e3cea2b:
     # l "At least not things involving your family."
     l "En azından ailenle ilgili şeyler değil."
 
+# TODO: Translation updated at 2026-02-06 12:27
+
+# game/episode021.rpy:1220
+translate turkish ep021_eva_talk_4b66df93:
+
+    # e "It happened!!!"
+    e "Oluştu!!!"
+
+# game/episode021.rpy:1270
+translate turkish ep021_eva_talk_a7211e33:
+
+    # e "Though that’s going to be a challenging conversation."
+    e "Ancak bu zorlu bir konuşma olacak."
+
+# game/episode021.rpy:1335
+translate turkish ep021_thyia_talk_0b8ed28f:
+
+    # th "Need to tweak its programming a little more before I let it out in the wild."
+    th "Onu piyasaya sürmeden önce programlamasını biraz daha düzeltmem gerekiyor."
+
+# game/episode021.rpy:1594
+translate turkish ep021_vess_talk_8c3da50e_1:
+
+    # ve "I always thought you had a special relationship with your mother and sisters, but I didn’t dare imagine it was romantic."
+    ve "Senin annen ve kız kardeşlerinle özel bir ilişkin olduğunu hep düşünmüşümdür, ama bunun romantik bir ilişki olduğunu hayal bile edemezdim."
+
+# game/episode021.rpy:1606
+translate turkish ep021_vess_talk_33da25af:
+
+    # ve "So no, not disgusted, merely surprised, a little shocked even."
+    ve "Hayır, tiksinmedim, sadece şaşırdım, hatta biraz şok oldum."
+
+# game/episode021.rpy:2087
+translate turkish ep021_raene_talk_8442394d:
+
+    # c "In that case I’d like to invite you to be intimate with her together with me at some point."
+    c "Öyleyse, bir ara benimle birlikte onunla samimi olmaya davet etmek isterim."
+
+# game/episode021.rpy:2707
+translate turkish ep021_group_talk_e266ded7:
+
+    # av "Yeah, I really wanted to be the first, you know."
+    av "Evet, gerçekten ilk olmak istedim, bilirsin."
+
+# game/episode021.rpy:2721
+translate turkish ep021_group_talk_fd13a80d:
+
+    # na "Yeah, I really wanted to be the first, you know."
+    na "Evet, gerçekten ilk olmak istedim, bilirsin."
+
+# game/episode021.rpy:3021
+translate turkish ep021_group_talk_91a98ad8:
+
+    # av "You were on the prowl too, weren’t you Mom?"
+    av "Sen de avlanıyordun, değil mi anne?"
+
+# game/episode021.rpy:3026
+translate turkish ep021_group_talk_76bf00fc:
+
+    # e "You were on the prowl too, weren’t you Mom?"
+    e "Sen de avlanıyordun, değil mi anne?"
+
+# game/episode021.rpy:3031
+translate turkish ep021_group_talk_c4352972:
+
+    # l "You were on the prowl too, weren’t you Mom?"
+    l "Sen de avlanıyordun, değil mi anne?"
+
+# game/episode021.rpy:3280
+translate turkish ep021_raene_sex_f0ca5203:
+
+    # "She unclasped her bra and revealed her perky breasts."
+    "Sütyenini açtı ve dik göğüslerini ortaya çıkardı."
+
+# game/episode021.rpy:3289
+translate turkish ep021_raene_sex_2ac104fc:
+
+    # "Raene hopped off the bar and walked to her bunk where she shed her clothes."
+    "Raene bardan atladı ve ranzasına doğru yürüdü, orada kıyafetlerini çıkardı."
+
+# game/episode021.rpy:3448
+translate turkish ep021_raene_sex_1bfcec38:
+
+    # ra "Do you want to go down on me again?"
+    ra "Yine bana oral seks yapmak ister misin?"
+
+# game/episode021.rpy:3733
+translate turkish ep021_group_fuck_full_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Benim için boşalacak mısın?"
+
+# game/episode021.rpy:4382
+translate turkish ep021_group_fuck_partial_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Benim için boşalacak mısın?"
+
+# game/episode021.rpy:4780
+translate turkish ep021_group_fuck_partial_6dfad288:
+
+    # na "Are you going to cum for me?"
+    na "Benim için boşalacak mısın?"
+
+# game/episode021.rpy:4807
+translate turkish ep021_group_fuck_partial_7a40b0b1:
+
+    # "I penetrated her slit from behind, enjoying the abundance of her juices."
+    "Arkadan onun yarıklarına girdim, onun bol sıvısının tadını çıkararak."
+
+# game/episode021.rpy:4881
+translate turkish ep021_group_fuck_partial_3f2bc1ef:
+
+    # l "Yes, deeper!{w} I want to feel you cum deep inside me!"
+    l "Evet, daha derine!{w} İçimde boşaldığını hissetmek istiyorum!"
+
+# game/episode021.rpy:5030
+translate turkish ep021_group_fuck_partial_73718aa2:
+
+    # na "Yes, fill your mother’s pussy up, [p_name_short]!"
+    na "Evet, annenin amını doldur, [p_name_short]!"
+
+# game/episode021.rpy:5433
+translate turkish ep021_group_fuck_duo_a4cc4494:
+
+    # "Seemingly encouraged by Aven, Eva applied pressure to the girl’s throat, depriving her of oxygen."
+    "Aven'in cesaretlendirmesiyle Eva, kızın boğazına baskı uygulayarak oksijen almasını engelledi."
+
+# game/episode021.rpy:5526
+translate turkish ep021_group_fuck_duo_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Benim için boşalacak mısın?"
+
+# game/episode021.rpy:5703
+translate turkish ep021_group_fuck_duo_4d508db7:
+
+    # "Eva kept the head of her friend in what I hoped was a gentle hold."
+    "Eva, arkadaşının başını umarım nazik bir şekilde tuttu."
+
+# game/episode021.rpy:5705
+translate turkish ep021_group_fuck_duo_2970d7f5:
+
+    # "Aven kept the head of her friend in what I hoped was a gentle hold."
+    "Aven, arkadaşının başını umarım nazik bir şekilde tuttu."
+
+# game/episode021.rpy:5707
+translate turkish ep021_group_fuck_duo_729d91b8:
+
+    # "Nadya kept the head of her friend in what I hoped was a gentle hold."
+    "Nadya, arkadaşının başını umarım nazik bir şekilde tuttu."
+
+# game/episode021.rpy:5838
+translate turkish ep021_group_fuck_duo_b9cdde36:
+
+    # e "Are you going to cum for me?"
+    e "Benim için boşalacak mısın?"
+
+# game/episode021.rpy:6041
+translate turkish ep021_group_fuck_duo_6dfad288:
+
+    # na "Are you going to cum for me?"
+    na "Benim için boşalacak mısın?"
+
+# game/episode021.rpy:6106
+translate turkish ep021_group_fuck_duo_2519c805:
+
+    # "Seemingly encouraged by Nadya, Eva applied pressure to the woman’s throat, depriving her of oxygen."
+    "Nadya'nın cesaretlendirmesiyle Eva kadının boğazına baskı uygulayarak oksijen almasını engelledi."
+
+# game/episode021.rpy:6188
+translate turkish ep021_group_fuck_duo_6dfad288_1:
+
+    # na "Are you going to cum for me?"
+    na "Benim için boşalacak mısın?"
+
+# game/episode021.rpy:6207
+translate turkish ep021_group_fuck_duo_7a40b0b1:
+
+    # "I penetrated her slit from behind, enjoying the abundance of her juices."
+    "Arkadan onun yarıklarına girdim, onun bol sıvısının tadını çıkararak."
+
+# game/episode021.rpy:6263
+translate turkish ep021_group_fuck_duo_3f2bc1ef:
+
+    # l "Yes, deeper!{w} I want to feel you cum deep inside me!"
+    l "Evet, daha derine!{w} İçimde boşaldığını hissetmek istiyorum!"
+
+# game/episode021.rpy:7010
+translate turkish ep021_vess_sex_soft_23e4c58c:
+
+    # "As she sat on the of the couch I crawled in front of her."
+    "O kanepenin üzerine otururken ben onun önüne süründüm."
+
+# game/episode021.rpy:7121
+translate turkish ep021_vess_sex_soft_203ad44e:
+
+    # "Buried deep inside her, I filled her up with my warm cum."
+    "Onun derinlerine gömülerek, onu sıcak spermimle doldurdum."
+
+# game/episode021.rpy:7177
+translate turkish ep021_vess_sex_vaginal_b918ffbd:
+
+    # "She alternately rode me and ground her pussy against my abdomen when my cock was inside up to the base."
+    "O, benim sikim köküne kadar içimdeyken sırayla beni sürdü ve amını karnıma sürttü."
+
+# game/episode021.rpy:7327
+translate turkish ep021_vess_sex_anal_3dcf9ec9:
+
+    # "Deep inside, I flooded her ass with warm cum."
+    "Derinlerde, sıcak spermimle onun kıçını doldurdum."
+
+# game/episode021.rpy:7421
+translate turkish ep021_vess_sex_hard_57044c36:
+
+    # "Vess admirably tried to control her gag reflex, but my girth made her gag slightly from time to time."
+    "Vess, öğürme refleksini kontrol etmeye çalıştı, ama benim kalınlığım onu zaman zaman hafifçe öğürtüyordu."
+
+# game/episode021.rpy:7472
+translate turkish ep021_vess_sex_hard_203ad44e:
+
+    # "Buried deep inside her, I filled her up with my warm cum."
+    "Onun derinlerine gömülerek, onu sıcak spermimle doldurdum."
+
+# game/episode021.rpy:7511
+translate turkish ep021_vess_sex_hard_b918ffbd:
+
+    # "She alternately rode me and ground her pussy against my abdomen when my cock was inside up to the base."
+    "O, benim sikim köküne kadar içimdeyken sırayla beni sürdü ve amını karnıma sürttü."
+
+translate turkish strings:
+
+    # game/episode021.rpy:378
+    old "Skeda's Skivs Rendezvous Point"
+    new "Skeda'nın Skivs Buluşma Noktası"
+
+    # game/episode021.rpy:393
+    old "Marleybone Irregulars Rendezvous Point"
+    new "Marleybone Düzensizleri Buluşma Noktası"
+

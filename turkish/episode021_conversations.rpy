@@ -1074,3 +1074,29 @@ translate turkish ep021_jade_sex_hard_63a0f76f:
 
     "Bitkin bir halde derin bir uykuya daldım, ta ki telsizler çalmaya başlayana ve Céline uçuş durumu güncellemesi için köprüde bulunmamı isteyene kadar."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-06 12:27
+
+# game/episode021_conversations.rpy:54
+translate turkish ep021_jade_sex_soft_da803ece:
+
+    # j "Good, why don’t you lose the clothes?"
+    j "Güzel, neden kıyafetlerini çıkarmıyorsun?"
+
+# game/episode021_conversations.rpy:68
+translate turkish ep021_jade_sex_soft_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    "Tek yapabildiğim, hemen boşalmamak için mücadele etmek ve onun oral becerilerine hayran olmak oldu."
+
+# game/episode021_conversations.rpy:250
+translate turkish ep021_jade_sex_hard_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    "Tek yapabildiğim, hemen boşalmamak için mücadele etmek ve onun oral becerilerine hayran olmak oldu."
+
+# game/episode021_conversations.rpy:256
+translate turkish ep021_jade_sex_hard_b9126da1:
+
+    # c "You’d like that, wouldn’t you, my hard cock inside you?"
+    c "Bunu isterdin, değil mi, sert sikimin içinde?"
+

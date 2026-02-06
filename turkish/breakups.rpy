@@ -1762,3 +1762,11 @@ translate turkish strings:
     old "Evade"
     new "Kaçın"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-06 12:27
+
+# game/breakups.rpy:427
+translate turkish breakup_eva_a0ed6a6c:
+
+    # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
+    "Geri çekildim ve arkamdan kapıyı kapattım, Eva'yı gözyaşlarına boğulmuş halde bıraktım."
+

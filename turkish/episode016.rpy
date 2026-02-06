@@ -6434,3 +6434,11 @@ translate turkish strings:
     old "Iron Bastard, near the Supplicant’s Stone"
     new "Iron Bastard, Supplicant'ın Taşı yakınında"
 
+# TODO: Translation updated at 2026-02-06 12:27
+
+# game/episode016.rpy:796
+translate turkish ep016_scolguin_fleet_6f801808:
+
+    # c "I’m sure there are more than dare to admit."
+    c "Eminim itiraf etmeye cesaret edenlerden daha fazlası vardır."
+

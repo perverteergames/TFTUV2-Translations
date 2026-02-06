@@ -90,3 +90,11 @@ translate turkish strings:
     old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
     new "{b}NOT:{/b} Yukarıdaki butona tıklayarak alışveriş yaparsanız, size ek bir maliyet olmadan küçük bir komisyon kazanabilirim. Sadece kendim kullandığım ve güvendiğim ürünleri öneriyorum."
 
+# TODO: Translation updated at 2026-02-06 12:27
+
+translate turkish strings:
+
+    # game/lovense.rpy:79
+    old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
+    new "Lovense oyuncağına bağlı değil. Lütfen oyunun tercihler bölümünden bağlantınızı kontrol edin."
+

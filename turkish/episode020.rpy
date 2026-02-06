@@ -13811,3 +13811,11 @@ translate turkish strings:
     old "Skeda is personally responsible for the botched attempt on rival captain Xile’s life, resulting in the bounty on his head."
     new "Skeda, rakip kaptan Xile'ın hayatına yönelik başarısız girişimden bizzat sorumludur ve bu da başına ödül konmasına neden olmuştur."
 
+# TODO: Translation updated at 2026-02-06 12:27
+
+# game/episode020.rpy:1303
+translate turkish ep020_pirate_rendevous_3766801f:
+
+    # c "May I ask why your organization hasn’t retaliated directly?"
+    c "Organizasyonunuzun neden doğrudan misilleme yapmadığını sorabilir miyim?"
+
