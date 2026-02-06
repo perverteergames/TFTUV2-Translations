@@ -642,3 +642,11 @@ translate italian strings:
     old "Deutsch"
     new "Deutsch"
 
+# TODO: Translation updated at 2026-02-06 11:59
+
+translate italian strings:
+
+    # game/screens.rpy:1532
+    old "Italiano"
+    new "Italiano"
+

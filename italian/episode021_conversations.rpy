@@ -1074,3 +1074,29 @@ translate italian ep021_jade_sex_hard_63a0f76f:
 
     "Esausto, caddi in un sonno profondo finché le comunicazioni non crepitarono e Céline richiese la mia presenza in plancia per un aggiornamento sullo stato del volo."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-06 11:59
+
+# game/episode021_conversations.rpy:54
+translate italian ep021_jade_sex_soft_da803ece:
+
+    # j "Good, why don’t you lose the clothes?"
+    j "Bene, perché non ti spogli?"
+
+# game/episode021_conversations.rpy:68
+translate italian ep021_jade_sex_soft_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    "Tutto quello che potevo fare era sforzarmi di non venire subito e ammirare le sue abilità orali."
+
+# game/episode021_conversations.rpy:250
+translate italian ep021_jade_sex_hard_a8754a4c:
+
+    # "All I could do was struggle not to cum right away and marvel at her oral skills."
+    "Tutto quello che potevo fare era sforzarmi di non venire subito e ammirare le sue abilità orali."
+
+# game/episode021_conversations.rpy:256
+translate italian ep021_jade_sex_hard_b9126da1:
+
+    # c "You’d like that, wouldn’t you, my hard cock inside you?"
+    c "Ti piacerebbe, vero, sentire il mio cazzo duro dentro di te?"
+

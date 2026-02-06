@@ -6454,3 +6454,11 @@ translate italian ep016_scolguin_fleet_11b72724:
 
     c "Scambieremo le informazioni ricevute da mio padre e poi me ne andrò, per tornare tra dieci anni e sottopormi a qualsiasi stupro mentale necessario per estrarre i nuovi ricordi che ho creato."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-06 11:59
+
+# game/episode016.rpy:796
+translate italian ep016_scolguin_fleet_6f801808:
+
+    # c "I’m sure there are more than dare to admit."
+    c "Sono sicuro che ce ne sono più di quanti osino ammettere."
+

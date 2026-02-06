@@ -26,3 +26,11 @@ translate italian strings:
     old "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, Donk. {i}(Turkish, darkeros.org){/i}, Bomber86 (German)"
     new "Grubb {i}(portoghese, parziale){/i}, Rory-Mercury91 {i}(francese){/i}, Frank Rosario {i}(italiano, parziale){/i}, Juan Manuel {i}(spagnolo, parziale){/i}, MyPrettyWolfy {i}(russo){/i}, Donk. {i}(turco, darkeros.org){/i}, Bomber86 (tedesco)"
 
+# TODO: Translation updated at 2026-02-06 11:59
+
+translate italian strings:
+
+    # game/options.rpy:46
+    old "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, Donk. {i}(Turkish, darkeros.org){/i}, Bomber86 (German)"
+    new "Grubb {i}(portoghese, parziale){/i}, Rory-Mercury91 {i}(francese){/i}, Frank Rosario {i}(italiano){/i}, Juan Manuel {i}(spagnolo, parziale){/i}, MyPrettyWolfy {i}(russo){/i}, Donk. {i}(turco, darkeros.org){/i}, Bomber86 (tedesco)"
+

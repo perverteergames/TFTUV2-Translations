@@ -14318,3 +14318,11 @@ translate italian ep020_eva_sex_b5f99b95_1:
 
     "Diedi le mie ultime rapide spinte, portando Eva al limite."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-06 11:59
+
+# game/episode020.rpy:1303
+translate italian ep020_pirate_rendevous_3766801f:
+
+    # c "May I ask why your organization hasn’t retaliated directly?"
+    c "Posso chiedere perché la vostra organizzazione non ha reagito direttamente?"
+

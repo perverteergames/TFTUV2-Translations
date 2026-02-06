@@ -12502,3 +12502,35 @@ translate italian ep022_e_l_fucking_16438e35:
     # c "Now be a good girl and swallow everything."
     c "Ora fai la brava ragazza e ingoia tutto."
 
+# TODO: Translation updated at 2026-02-06 11:59
+
+# game/episode022.rpy:327
+translate italian ep022_temple_simulation_2f5e7d26:
+
+    # "As if on cue, a great many sirens began to blare."
+    "Come se fosse stato dato un segnale, molte sirene cominciarono a suonare."
+
+# game/episode022.rpy:3388
+translate italian ep022_ve_ce_sex_choices_d8af05d9:
+
+    # c "I’m going to put a baby inside you."
+    c "Ti metterò un bambino dentro."
+
+# game/episode022.rpy:3424
+translate italian ep022_ve_ce_sex_choices_0bb0bf9e_1:
+
+    # c "I’m going to shoot you full of cum."
+    c "Ti riempirò di sperma."
+
+# game/episode022.rpy:3769
+translate italian ep022_ve_ce_sex_submissive_choices_d8af05d9:
+
+    # c "I’m going to put a baby inside you."
+    c "Ti metterò un bambino dentro."
+
+# game/episode022.rpy:3771
+translate italian ep022_ve_ce_sex_submissive_choices_5623c9c8:
+
+    # c "I’m going to shoot your dirty little pussy full of cum."
+    c "Ti riempirò la tua piccola figa sporca di sperma."
+

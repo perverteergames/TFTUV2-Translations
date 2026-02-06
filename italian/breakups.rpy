@@ -1764,3 +1764,11 @@ translate italian breakup_eva_b04ca312:
 
     "Mi ritirai e chiusi la porta dietro di me, lasciando che mia sorella si sciogliesse in lacrime."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-06 11:59
+
+# game/breakups.rpy:427
+translate italian breakup_eva_a0ed6a6c:
+
+    # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
+    "Mi ritirai e chiusi la porta dietro di me, lasciando Eva in lacrime."
+

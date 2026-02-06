@@ -94,3 +94,11 @@ translate italian strings:
     old "Test Device"
     new "Dispositivo di prova"
 
+# TODO: Translation updated at 2026-02-06 11:59
+
+translate italian strings:
+
+    # game/lovense.rpy:79
+    old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
+    new "Non connesso a un giocattolo Lovense. Controlla la connessione nelle preferenze del gioco."
+

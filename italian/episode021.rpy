@@ -24224,3 +24224,243 @@ translate italian ep021_lilly_talk_9e3cea2b:
     # l "At least not things involving your family."
     l "Almeno non cose che riguardano la tua famiglia."
 
+# TODO: Translation updated at 2026-02-06 11:59
+
+# game/episode021.rpy:1220
+translate italian ep021_eva_talk_4b66df93:
+
+    # e "It happened!!!"
+    e "È successo!!!"
+
+# game/episode021.rpy:1270
+translate italian ep021_eva_talk_a7211e33:
+
+    # e "Though that’s going to be a challenging conversation."
+    e "Anche se sarà una conversazione difficile."
+
+# game/episode021.rpy:1335
+translate italian ep021_thyia_talk_0b8ed28f:
+
+    # th "Need to tweak its programming a little more before I let it out in the wild."
+    th "Devo modificare ancora un po' la programmazione prima di lanciarlo sul mercato."
+
+# game/episode021.rpy:1594
+translate italian ep021_vess_talk_8c3da50e_1:
+
+    # ve "I always thought you had a special relationship with your mother and sisters, but I didn’t dare imagine it was romantic."
+    ve "Ho sempre pensato che avessi un rapporto speciale con tua madre e le tue sorelle, ma non avrei mai immaginato che fosse romantico."
+
+# game/episode021.rpy:1606
+translate italian ep021_vess_talk_33da25af:
+
+    # ve "So no, not disgusted, merely surprised, a little shocked even."
+    ve "Quindi no, non disgustato, solo sorpreso, forse anche un po' scioccato."
+
+# game/episode021.rpy:2087
+translate italian ep021_raene_talk_8442394d:
+
+    # c "In that case I’d like to invite you to be intimate with her together with me at some point."
+    c "In tal caso, mi piacerebbe invitarti a diventare intimo con lei insieme a me, prima o poi."
+
+# game/episode021.rpy:2707
+translate italian ep021_group_talk_e266ded7:
+
+    # av "Yeah, I really wanted to be the first, you know."
+    av "Sì, volevo davvero essere il primo, sai."
+
+# game/episode021.rpy:2721
+translate italian ep021_group_talk_fd13a80d:
+
+    # na "Yeah, I really wanted to be the first, you know."
+    na "Sì, volevo davvero essere il primo, sai."
+
+# game/episode021.rpy:3021
+translate italian ep021_group_talk_91a98ad8:
+
+    # av "You were on the prowl too, weren’t you Mom?"
+    av "Anche tu eri a caccia, vero mamma?"
+
+# game/episode021.rpy:3026
+translate italian ep021_group_talk_76bf00fc:
+
+    # e "You were on the prowl too, weren’t you Mom?"
+    e "Anche tu eri a caccia, vero mamma?"
+
+# game/episode021.rpy:3031
+translate italian ep021_group_talk_c4352972:
+
+    # l "You were on the prowl too, weren’t you Mom?"
+    l ""
+
+# game/episode021.rpy:3280
+translate italian ep021_raene_sex_f0ca5203:
+
+    # "She unclasped her bra and revealed her perky breasts."
+    "Anche tu eri a caccia, vero mamma?"
+
+# game/episode021.rpy:3289
+translate italian ep021_raene_sex_2ac104fc:
+
+    # "Raene hopped off the bar and walked to her bunk where she shed her clothes."
+    "Raene saltò giù dal bancone e si diresse verso la sua cuccetta dove si tolse i vestiti."
+
+# game/episode021.rpy:3448
+translate italian ep021_raene_sex_1bfcec38:
+
+    # ra "Do you want to go down on me again?"
+    ra "Vuoi farmi di nuovo sesso orale?"
+
+# game/episode021.rpy:3733
+translate italian ep021_group_fuck_full_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Mi farai venire?"
+
+# game/episode021.rpy:4382
+translate italian ep021_group_fuck_partial_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Mi farai venire?"
+
+# game/episode021.rpy:4780
+translate italian ep021_group_fuck_partial_6dfad288:
+
+    # na "Are you going to cum for me?"
+    na "Mi farai venire?"
+
+# game/episode021.rpy:4807
+translate italian ep021_group_fuck_partial_7a40b0b1:
+
+    # "I penetrated her slit from behind, enjoying the abundance of her juices."
+    "La penetrai da dietro, godendomi l'abbondanza dei suoi succhi."
+
+# game/episode021.rpy:4881
+translate italian ep021_group_fuck_partial_3f2bc1ef:
+
+    # l "Yes, deeper!{w} I want to feel you cum deep inside me!"
+    l "Sì, più a fondo!{w} Voglio sentire il tuo seme dentro di me!"
+
+# game/episode021.rpy:5030
+translate italian ep021_group_fuck_partial_73718aa2:
+
+    # na "Yes, fill your mother’s pussy up, [p_name_short]!"
+    na "Sì, riempi la figa di tua madre, [p_name_short]!"
+
+# game/episode021.rpy:5433
+translate italian ep021_group_fuck_duo_a4cc4494:
+
+    # "Seemingly encouraged by Aven, Eva applied pressure to the girl’s throat, depriving her of oxygen."
+    "Apparentemente incoraggiata da Aven, Eva fece pressione sulla gola della ragazza, privandola dell'ossigeno."
+
+# game/episode021.rpy:5526
+translate italian ep021_group_fuck_duo_1b230a0c:
+
+    # av "Are you going to cum for me?"
+    av "Mi farai venire?"
+
+# game/episode021.rpy:5703
+translate italian ep021_group_fuck_duo_4d508db7:
+
+    # "Eva kept the head of her friend in what I hoped was a gentle hold."
+    "Eva teneva la testa della sua amica in quello che speravo fosse un abbraccio delicato."
+
+# game/episode021.rpy:5705
+translate italian ep021_group_fuck_duo_2970d7f5:
+
+    # "Aven kept the head of her friend in what I hoped was a gentle hold."
+    "Aven teneva la testa della sua amica in quello che speravo fosse un abbraccio delicato."
+
+# game/episode021.rpy:5707
+translate italian ep021_group_fuck_duo_729d91b8:
+
+    # "Nadya kept the head of her friend in what I hoped was a gentle hold."
+    "Nadya teneva la testa della sua amica in quello che speravo fosse un abbraccio delicato."
+
+# game/episode021.rpy:5838
+translate italian ep021_group_fuck_duo_b9cdde36:
+
+    # e "Are you going to cum for me?"
+    e "Mi farai venire?"
+
+# game/episode021.rpy:6041
+translate italian ep021_group_fuck_duo_6dfad288:
+
+    # na "Are you going to cum for me?"
+    na "Mi farai venire?"
+
+# game/episode021.rpy:6106
+translate italian ep021_group_fuck_duo_2519c805:
+
+    # "Seemingly encouraged by Nadya, Eva applied pressure to the woman’s throat, depriving her of oxygen."
+    "Apparentemente incoraggiata da Nadya, Eva ha esercitato una pressione sulla gola della donna, privandola dell'ossigeno."
+
+# game/episode021.rpy:6188
+translate italian ep021_group_fuck_duo_6dfad288_1:
+
+    # na "Are you going to cum for me?"
+    na "Mi farai venire?"
+
+# game/episode021.rpy:6207
+translate italian ep021_group_fuck_duo_7a40b0b1:
+
+    # "I penetrated her slit from behind, enjoying the abundance of her juices."
+    "La penetrai da dietro, godendomi l'abbondanza dei suoi succhi."
+
+# game/episode021.rpy:6263
+translate italian ep021_group_fuck_duo_3f2bc1ef:
+
+    # l "Yes, deeper!{w} I want to feel you cum deep inside me!"
+    l "Sì, più a fondo!{w} Voglio sentire il tuo seme dentro di me!"
+
+# game/episode021.rpy:7010
+translate italian ep021_vess_sex_soft_23e4c58c:
+
+    # "As she sat on the of the couch I crawled in front of her."
+    "Mentre lei era seduta sul divano, mi sono avvicinato strisciando davanti a lei."
+
+# game/episode021.rpy:7121
+translate italian ep021_vess_sex_soft_203ad44e:
+
+    # "Buried deep inside her, I filled her up with my warm cum."
+    "Seppellito nel profondo di lei, l'ho riempita con il mio sperma caldo."
+
+# game/episode021.rpy:7177
+translate italian ep021_vess_sex_vaginal_b918ffbd:
+
+    # "She alternately rode me and ground her pussy against my abdomen when my cock was inside up to the base."
+    "Mi cavalcava alternativamente e strofinava la sua figa contro il mio addome quando il mio cazzo era dentro fino alla base."
+
+# game/episode021.rpy:7327
+translate italian ep021_vess_sex_anal_3dcf9ec9:
+
+    # "Deep inside, I flooded her ass with warm cum."
+    "Nel profondo, le ho riempito il culo di sperma caldo."
+
+# game/episode021.rpy:7421
+translate italian ep021_vess_sex_hard_57044c36:
+
+    # "Vess admirably tried to control her gag reflex, but my girth made her gag slightly from time to time."
+    "Vess cercò ammirevolmente di controllare il suo riflesso faringeo, ma la mia circonferenza la faceva soffocare leggermente di tanto in tanto."
+
+# game/episode021.rpy:7472
+translate italian ep021_vess_sex_hard_203ad44e:
+
+    # "Buried deep inside her, I filled her up with my warm cum."
+    "Seppellito nel profondo di lei, l'ho riempita con il mio sperma caldo."
+
+# game/episode021.rpy:7511
+translate italian ep021_vess_sex_hard_b918ffbd:
+
+    # "She alternately rode me and ground her pussy against my abdomen when my cock was inside up to the base."
+    "Mi cavalcava alternativamente e strofinava la sua figa contro il mio addome quando il mio cazzo era dentro fino alla base."
+
+translate italian strings:
+
+    # game/episode021.rpy:378
+    old "Skeda's Skivs Rendezvous Point"
+    new "Il punto di incontro di Skiva di Skeda"
+
+    # game/episode021.rpy:393
+    old "Marleybone Irregulars Rendezvous Point"
+    new "Punto di ritrovo degli Irregolari di Marleybone"
+

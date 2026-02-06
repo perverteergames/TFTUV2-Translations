@@ -7258,3 +7258,35 @@ translate italian extra_scene_38_b836fff8:
     # c "Is my slutty girlfriend ready to get fucked?"
     c "La mia ragazza troia è pronta per farsi scopare?"
 
+# TODO: Translation updated at 2026-02-06 11:59
+
+# game/extras.rpy:336
+translate italian extra_scene_30_8cb27f02:
+
+    # "With a heavy sigh, Lilly chastely crossed her legs and caught her breath for several minutes."
+    "Con un profondo sospiro, Lilly incrociò castamente le gambe e riprese fiato per diversi minuti."
+
+# game/extras.rpy:2407
+translate italian extra_scene_45_d2fd927f:
+
+    # c "I love your tits so much, Mom."
+    c "Adoro le tue tette, mamma."
+
+# game/extras.rpy:2428
+translate italian extra_scene_45_df416d1d:
+
+    # c "I want to make you pregnant, Mom."
+    c "Voglio metterti incinta, mamma."
+
+# game/extras.rpy:2434
+translate italian extra_scene_45_fd73cd09:
+
+    # c "I want to fill you up, Mom."
+    c "Voglio riempirti, mamma."
+
+# game/extras.rpy:2578
+translate italian extra_scene_46_be6653d0:
+
+    # "Vess lowered herself between Céline’s thighs and began to lap up the juices that covered her pussy."
+    "Vess si abbassò tra le cosce di Céline e cominciò a leccare i succhi che ricoprivano la sua figa."
+
