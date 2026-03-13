@@ -12531,3 +12531,379 @@ translate french ep022_ve_ce_sex_submissive_choices_5623c9c8:
     # c "I’m going to shoot your dirty little pussy full of cum."
     c "Je vais remplir ta petite chatte sale de sperme."
 
+# TODO: Translation updated at 2026-02-09 10:49
+
+# game/episode022.rpy:1277
+translate french ep022_temple_hostiles_76965b0d:
+
+    # th "Their tech is way more advanced than ours, we need to make do with just the scraps."
+    th "Leur technologie est bien plus avancée que la nôtre, nous devons nous contenter des miettes."
+
+# game/episode022.rpy:1311
+translate french ep022_temple_hostiles_76965b0d_1:
+
+    # th "Their tech is way more advanced than ours, we need to make do with just the scraps."
+    th "Leur technologie est bien plus avancée que la nôtre, nous devons nous contenter des miettes."
+
+# TODO: Translation updated at 2026-03-09 10:14
+
+# game/episode022.rpy:116
+translate french episode022_6f3b9ca4:
+
+    # woman "Because you weren’t able to save your son and daughter from the disgrace of desertion?"
+    woman "Parce que vous n'avez pas réussi à sauver votre fils et votre fille de la honte de la désertion ?"
+
+# game/episode022.rpy:118
+translate french episode022_de2225fd:
+
+    # woman "Do you think they’re grateful you were too much of a coward to hunt them down and bring them to justice?"
+    woman "Pensez-vous qu'ils vous sont reconnaissants d'avoir été trop lâche pour les traquer et les traduire en justice ?"
+
+# game/episode022.rpy:214
+translate french ep022_temple_simulation_a60cdb65:
+
+    # c "Ever heard of the Diclonae, Mom?"
+    c "T'as déjà entendu parler des Diclonae, maman ?"
+
+# game/episode022.rpy:283
+translate french ep022_temple_simulation_4a536e0d:
+
+    # na "To be honest, I’m not sure how successful this civilization was on Petrarch, since I’ve never heard of this transfusion process."
+    na "Je ne sais pas si cette civilisation sur Petrarch a été couronnée de succès, pour être honnête, je n'ai jamais entendu parler de ce processus de transfusion."
+
+# game/episode022.rpy:288
+translate french ep022_temple_simulation_ef7bade7:
+
+    # th "Wish she’d drop the whole “Your Majesty” crap."
+    th "J'aimerais bien qu'il arrête avec ses « Votre Majesté »."
+
+# game/episode022.rpy:290
+translate french ep022_temple_simulation_d06fb36f:
+
+    # c "She’d probably lose her head if she didn’t use those honorifics."
+    c "Elle perdrait probablement la tête si elle n'utilisait pas ces formules honorifiques."
+
+# game/episode022.rpy:311
+translate french ep022_temple_simulation_cae672d6:
+
+    # c "Woah, she’s making it float with her mind?"
+    c "Waouh, elle le fait flotter avec son esprit ?"
+
+# game/episode022.rpy:323
+translate french ep022_temple_simulation_ddb07a7d:
+
+    # man2 "I’m sorry, ma’am, but there’s been a security incident."
+    man2 "Je suis désolé, monsieur, mais il y a eu un incident de sécurité."
+
+# game/episode022.rpy:328
+translate french ep022_temple_simulation_c50b09e0:
+
+    # man2 "There’s an invasion force at our doorstep, ma’am."
+    man2 "Une force d'invasion est à nos portes, monsieur."
+
+# game/episode022.rpy:333
+translate french ep022_temple_simulation_edd045ad:
+
+    # man2 "It’s an alliance of the lesser races, ma’am."
+    man2 "C'est une alliance des races inférieures, monsieur."
+
+# game/episode022.rpy:383
+translate french ep022_temple_simulation_9f8ef167:
+
+    # "With those words, the squadron of soldiers left."
+    "Sur ces mots, l'escouade de soldats est partie."
+
+# game/episode022.rpy:388
+translate french ep022_temple_simulation_e00bd287:
+
+    # "The scientist who’d spoken to the soldiers collapsed on the ground, clutching her chest."
+    "Le scientifique qui avait parlé aux soldats s'effondra sur le sol, se serrant la poitrine."
+
+# game/episode022.rpy:416
+translate french ep022_temple_simulation_f404df53:
+
+    # c "Have you ever heard about a genocide on Petrarch, Mom?"
+    c "T'as déjà entendu parler du génocide sur Petrarch, maman ?"
+
+# game/episode022.rpy:558
+translate french ep022_eva_talk_5c4a6b12:
+
+    # c "So either she’s spying on our Dad, playing the long game, or acting as a free agent."
+    c "Soit elle espionne toujours notre père, soit elle joue le long jeu, soit elle agit en tant qu'agent libre."
+
+# game/episode022.rpy:560
+translate french ep022_eva_talk_0701b072:
+
+    # c "So either she’s spying on my Dad, playing the long game, or acting as a free agent."
+    c "Soit elle continue d'espionner mon père, soit elle joue la carte de la patience, soit elle agit de son propre chef."
+
+# game/episode022.rpy:950
+translate french ep022_nadya_talk_ced8c7f1:
+
+    # na "What I know of these conglomerates is that they attract all kinds of people."
+    na "D'après ce que je sais de ces conglomérats, ils attirent toutes sortes de personnes."
+
+# game/episode022.rpy:1133
+translate french ep022_ziv_talk_c52d7eea:
+
+    # zi "It’s not something we advertise widely, people with bad intentions might take notice."
+    zi "Ce n'est pas quelque chose qu'on crie sur tous les toits, des gens mal intentionnés pourraient s'en apercevoir."
+
+# game/episode022.rpy:1204
+translate french ep022_temple_hostiles_9fadff43:
+
+    # "Thyia, Céline, Jade and Aven busied themselves with rigging the necessary cables."
+    "Thyia, Céline, Jade et Aven s'affairaient à installer les câbles nécessaires."
+
+# game/episode022.rpy:1360
+translate french ep022_temple_hostiles_f02c6a36:
+
+    # c "Yes, we know all about that eugenics program you’re so hell-bent on acquiring."
+    c "Oui, nous savons tout de ce programme d'eugénisme que vous êtes si déterminé à acquérir."
+
+# game/episode022.rpy:1391
+translate french ep022_temple_hostiles_52752313:
+
+    # co "When we first found you on Erigone, your sister was crowned the queen of that martial breed of females."
+    co "Quand on t'a trouvée, sur Erigone, ta sœur avait été couronnée reine de cette race de femmes guerrières."
+
+# game/episode022.rpy:1393
+translate french ep022_temple_hostiles_bceb52c1:
+
+    # co "When we first found you on Erigone, this girl here was crowned the queen of that martial breed of females."
+    co "Quand on t'a trouvée, sur Erigone, cette fille ici présente a été couronnée reine de cette race de femmes guerrières."
+
+# game/episode022.rpy:1398
+translate french ep022_temple_hostiles_69fdd57c:
+
+    # c "You’re going to subject Eva to the treatment the Shixses forced on their victims?"
+    c "Tu vas soumettre Eva au traitement que les Shixses ont imposé à leurs cobayes ?"
+
+# game/episode022.rpy:1399
+translate french ep022_temple_hostiles_471d941d:
+
+    # ag "It’s the only way to bring about the prophesied singularity."
+    ag "C'est le seul moyen de réaliser la singularité prophétisée."
+
+# game/episode022.rpy:1468
+translate french ep022_temple_hostiles_2510ef93:
+
+    # "Eva screamed in pain and my other sisters wailed in response."
+    "Eva a hurlé de douleur et mes autres sœurs ont répondu par des gémissements."
+
+# game/episode022.rpy:1470
+translate french ep022_temple_hostiles_47a2426a:
+
+    # "Eva screamed in pain and the other girls wailed in response."
+    "Eva a hurlé de douleur et les autres filles ont répondu par des gémissements."
+
+# game/episode022.rpy:1480
+translate french ep022_temple_hostiles_eed62aaf:
+
+    # "She thrashed and screamed, but the procedure ran its unrelenting course."
+    "Elle se débattait et criait, mais la procédure suivait son cours implacable."
+
+# game/episode022.rpy:1627
+translate french ep022_petrarch_assault_e00d082b:
+
+    # "When I saw they were in position I revealed myself just enough to get the guards’ attention."
+    "Quand j'ai vu qu'elles étaient en position, je me suis montré juste assez pour attirer l'attention du garde."
+
+# game/episode022.rpy:1714
+translate french ep022_petrarch_assault_201bb18d:
+
+    # "We were marched at gunpoint the exit of the compound."
+    "On nous a conduits sous la menace d'une arme jusqu'à la sortie du complexe."
+
+# game/episode022.rpy:1726
+translate french ep022_petrarch_assault_98326aa8:
+
+    # "We were all pushed inside the transport which took off nearly immediately after the entry hatch closed."
+    "On nous a tous poussés à l'intérieur du vaisseau, qui a décollé presque immédiatement après la fermeture de la trappe."
+
+# game/episode022.rpy:2161
+translate french ep022_e_l_sex_2bdc0610:
+
+    # l "She’s a good cock sucker, isn’t she?"
+    l "C'est une bonne petite suceuse, n'est-ce pas ?"
+
+# game/episode022.rpy:2225
+translate french ep022_e_l_fucking_767e1319:
+
+    # "I pushed against Eva’s wet entrance and slipped past without much resistance."
+    "J'ai poussé contre l'entrée humide d'Eva et je me suis glissé à l'intérieur sans trop de résistance."
+
+# game/episode022.rpy:2234
+translate french ep022_e_l_fucking_a8e0dfe5:
+
+    # "When I began to move inside my sister, Lilly’s lust-filled eyes drank in every detail."
+    "Quand je commençai à bouger à l'intérieur de ma sœur, les yeux lubriques de Lilly buvaient chaque détail."
+
+# game/episode022.rpy:2236
+translate french ep022_e_l_fucking_54a6885b:
+
+    # "When I began to move inside my girlfriend, Lilly’s lust-filled eyes drank in every detail."
+    "Quand je commençai à bouger à l'intérieur de ma copine, les yeux lubriques de Lilly buvaient chaque détail."
+
+# game/episode022.rpy:2302
+translate french ep022_e_l_fucking_80d50e91:
+
+    # l "Do you want to fuck her into the bed?"
+    l "Tu veux la baiser dans le lit ?"
+
+# game/episode022.rpy:2349
+translate french ep022_e_l_fucking_84124c53:
+
+    # "Lilly sucked on Eva’s nipple when I began to thrust."
+    "Lilly a sucé les tétons d'Eva quand j'ai commencé à la pénétrer."
+
+# game/episode022.rpy:2489
+translate french ep022_e_l_fucking_3a32ab36:
+
+    # "I wanted to mark both my sisters’ faces, so I pulled out of Eva."
+    "Je voulais marquer les visages de mes deux sœurs, alors je me suis retiré d'Eva."
+
+# game/episode022.rpy:2491
+translate french ep022_e_l_fucking_c269ad53:
+
+    # "I wanted to mark both my girlfriends’ faces, so I pulled out of Eva."
+    "Je voulais marquer les visages de mes deux sœurs, alors je me suis retiré d'Eva."
+
+# game/episode022.rpy:2494
+translate french ep022_e_l_fucking_9ca8c552:
+
+    # "I wanted to mark both my sisters’ faces, so I pulled out of Lilly."
+    "Je voulais marquer les visages de mes deux sœurs, alors je me suis retiré de Lilly."
+
+# game/episode022.rpy:2496
+translate french ep022_e_l_fucking_57916584:
+
+    # "I wanted to mark both my girlfriends’ faces, so I pulled out of Lilly."
+    "Je voulais marquer les visages de mes deux sœurs, alors je me suis retiré de Lilly."
+
+# game/episode022.rpy:2529
+translate french ep022_e_l_fucking_84fc4811:
+
+    # "I wanted to mark both my sisters’ bodies, so I pulled out of Eva."
+    "Je voulais marquer le corps de mes deux sœurs, alors je me suis retiré d'Eva."
+
+# game/episode022.rpy:2531
+translate french ep022_e_l_fucking_003d3291:
+
+    # "I wanted to mark both my girlfriends’ bodies, so I pulled out of Eva."
+    "Je voulais marquer le corps de mes deux sœurs, alors je me suis retiré d'Eva."
+
+# game/episode022.rpy:2534
+translate french ep022_e_l_fucking_10e9ef51:
+
+    # "I wanted to mark both my sisters’ bodies, so I pulled out of Lilly."
+    "Je voulais marquer le corps de mes deux sœurs, alors je me suis retiré de Lilly."
+
+# game/episode022.rpy:2536
+translate french ep022_e_l_fucking_44e10378:
+
+    # "I wanted to mark both my girlfriends’ bodies, so I pulled out of Lilly."
+    "Je voulais marquer le corps de mes deux sœurs, alors je me suis retiré de Lilly."
+
+# game/episode022.rpy:2557
+translate french ep022_e_l_fucking_a0368b26:
+
+    # "Thick warm cum sprayed out of my dick and splashed on the nubile bodies of my sisters."
+    "Mon sperme épais et chaud a giclé de ma bite et a éclaboussé les jeunes corps de mes sœurs."
+
+# game/episode022.rpy:2559
+translate french ep022_e_l_fucking_3b32e8f0:
+
+    # "Thick warm cum sprayed out of my dick and splashed on the nubile bodies of my girlfriends."
+    "Mon sperme épais et chaud a giclé de ma bite et a éclaboussé les jeunes corps de mes copines."
+
+# game/episode022.rpy:2569
+translate french ep022_e_l_fucking_acce7f60:
+
+    # "I wanted to fill both my sisters’ mouths, so I pulled out of Eva."
+    "Je voulais remplir la bouche de mes deux sœurs, alors je me suis retiré d'Eva."
+
+# game/episode022.rpy:2571
+translate french ep022_e_l_fucking_4923828c:
+
+    # "I wanted to fill both my girlfriends’ mouths, so I pulled out of Eva."
+    "Je voulais remplir la bouche de mes deux sœurs, alors je me suis retiré d'Eva."
+
+# game/episode022.rpy:2574
+translate french ep022_e_l_fucking_8359cb72:
+
+    # "I wanted to fill both my sisters’ mouths, so I pulled out of Lilly."
+    "Je voulais remplir la bouche de mes deux sœurs, alors je me suis retiré de Lilly."
+
+# game/episode022.rpy:2576
+translate french ep022_e_l_fucking_2d71aa0e:
+
+    # "I wanted to fill both my girlfriends’ mouths, so I pulled out of Lilly."
+    "Je voulais remplir la bouche de mes deux sœurs, alors je me suis retiré de Lilly."
+
+# game/episode022.rpy:2926
+translate french ep022_ziv_sex_9297b944:
+
+    # "My balls slapped against her flesh every time I rooted myself deep inside."
+    "Mes couilles claquaient contre sa chair à chaque fois que je m'enfonçais profondément en elle."
+
+# game/episode022.rpy:2928
+translate french ep022_ziv_sex_ac1ee45a:
+
+    # "Longing to see her face, I decided to change things up."
+    "Désireux de voir son visage, j'ai décidé de changer de position."
+
+# game/episode022.rpy:3058
+translate french ep022_ziv_sex_9a40101b:
+
+    # "When I was done, she licked my shaft clean and swallowed all of my semen with a contented smile."
+    "Quand j'ai eu fini, elle a léché ma bite pour la nettoyer et a avalé tout mon sperme avec un sourire satisfait."
+
+# game/episode022.rpy:3140
+translate french ep022_ve_ce_sex_621a39d3:
+
+    # "Vess appeared to be deep in conversation when I walked past, but not deep enough for her to not follow me seconds after."
+    "Vess semblait plongée dans une conversation quand je suis passé devant elle, mais pas assez pour me suivre quelques secondes plus tard."
+
+# game/episode022.rpy:3377
+translate french ep022_ve_ce_sex_choices_f6414cb5:
+
+    # "I wanted Vess to receive my load, so I slipped out of Céline, who nearly collapsed against the wall."
+    "Je voulais que Vess reçoive ma charge, alors je me suis retiré de Céline qui s'est presque effondrée contre le mur."
+
+# game/episode022.rpy:3409
+translate french ep022_ve_ce_sex_choices_a4d9eb2f:
+
+    # "I wanted Céline to receive my load, so I slipped out of Vess, who nearly collapsed against the wall."
+    "Je voulais que Vess reçoive ma charge, alors je me suis retiré de Céline qui s'est presque effondrée contre le mur."
+
+# game/episode022.rpy:3518
+translate french ep022_ve_ce_sex_submissive_ec1cc323:
+
+    # c "You’re coming with me."
+    c "Tu viens avec moi."
+
+# game/episode022.rpy:3519
+translate french ep022_ve_ce_sex_submissive_50b89945:
+
+    # c "The ship is deserted, so nobody will hear you scream when I fuck you."
+    c "Le bateau est désert, donc personne ne t'entendra crier quand je te baiserai."
+
+# game/episode022.rpy:3759
+translate french ep022_ve_ce_sex_submissive_choices_f6414cb5:
+
+    # "I wanted Vess to receive my load, so I slipped out of Céline, who nearly collapsed against the wall."
+    "Je voulais que Vess reçoive ma charge, alors je me suis retiré de Céline qui s'est presque effondrée contre le mur."
+
+# game/episode022.rpy:3794
+translate french ep022_ve_ce_sex_submissive_choices_a4d9eb2f:
+
+    # "I wanted Céline to receive my load, so I slipped out of Vess, who nearly collapsed against the wall."
+    "Je voulais que Vess reçoive ma charge, alors je me suis retiré de Céline qui s'est presque effondrée contre le mur."
+
+# game/episode022.rpy:3795
+translate french ep022_ve_ce_sex_submissive_choices_91851d1e:
+
+    # c "Your dirty pussy is not worthy of my cum, so lick me again instead."
+    c "Ta petite chatte sale n'est pas digne de mon sperme, alors lèche-moi à nouveau à la place."
+

@@ -24418,3 +24418,11 @@ translate french strings:
     old "Marleybone Irregulars Rendezvous Point"
     new "Point de rendez-vous des Irréguliers de Marleybone"
 
+# TODO: Translation updated at 2026-03-09 10:14
+
+# game/episode021.rpy:7479
+translate french ep021_vess_sex_hard_25910545:
+
+    # "Her body was slick with the saliva I elicited from her throat."
+    "Son corps était recouvert de la salive que j'avais extraite de sa gorge."
+

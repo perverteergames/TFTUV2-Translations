@@ -1768,5 +1768,5 @@ translate french breakup_eva_b04ca312:
 translate french breakup_eva_a0ed6a6c:
 
     # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
-    ""
+    "Je me suis retiré et j'ai fermé la porte derrière moi, laissant Eva fondre en larmes."
 
