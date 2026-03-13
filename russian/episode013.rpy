@@ -4610,11 +4610,11 @@ translate russian strings:
 
     # game/episode013.rpy:503
     old "Planets"
-    new ""
+    new "Планеты"
 
     # game/episode013.rpy:1142
     old "Kiss her"
-    new ""
+    new "Поцелуй ее"
 
 # TODO: Translation updated at 2025-11-26 14:56
 

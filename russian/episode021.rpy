@@ -17878,7 +17878,7 @@ translate russian ep021_group_fuck_duo_eedeacf1:
 translate russian ep021_group_fuck_duo_acb6d196:
 
     # av "Are you enjoying your brother’s cock, Eva?"
-    av ""
+    av "Тебе нравится член твоего брата, Ева?"
 
 # game/episode021.rpy:5657
 translate russian ep021_group_fuck_duo_843045d7:
@@ -18586,7 +18586,7 @@ translate russian ep021_group_fuck_duo_9f3eef24:
 translate russian ep021_group_fuck_duo_f780659f:
 
     # av "Are you cumming from your son’s big hard dick?"
-    av ""
+    av "Ты кончаешь от большого твердого члена своего сына?"
 
 # game/episode021.rpy:5897
 translate russian ep021_group_fuck_duo_f3d62735:
@@ -24472,4 +24472,12 @@ translate russian strings:
     # game/episode021.rpy:393
     old "Marleybone Irregulars Rendezvous Point"
     new "Место встречи Марлибонских нерегуляров"
+
+# TODO: Translation updated at 2026-03-09 10:55
+
+# game/episode021.rpy:7479
+translate russian ep021_vess_sex_hard_25910545:
+
+    # "Her body was slick with the saliva I elicited from her throat."
+    "Её тело было покрыто слюной, которую я извлёк из её горла."
 

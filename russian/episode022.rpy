@@ -12376,103 +12376,103 @@ translate russian strings:
 translate russian ep022_lilly_talk_57e2e85a:
 
     # t "Wow, two of your friends, you dark horse."
-    t ""
+    t "Вау, двое твоих друзей, ты темная лошадка."
 
 # game/episode022.rpy:854
 translate russian ep022_lilly_talk_dc0592ba:
 
     # "We lay together on the bed and I took my girlfriend into my arms."
-    ""
+    "Вместе мы легли на кровать, и я заключил сестру в объятия."
 
 # game/episode022.rpy:1274
 translate russian ep022_temple_hostiles_597e7691:
 
     # av "Why didn’t the early-warning beacons we left in orbit pick them up?"
-    av ""
+    av "Почему маяки раннего предупреждения, которые мы оставили на орбите, не засекли их?"
 
 # game/episode022.rpy:1275
 translate russian ep022_temple_hostiles_dfc83f73:
 
     # th "They must have found a way around them."
-    th ""
+    th "Они, должно быть, нашли способ обойти их."
 
 # game/episode022.rpy:1276
 translate russian ep022_temple_hostiles_21192a9e:
 
     # th "Their tech is way more advanced then ours, we need to make due with just the scraps."
-    th ""
+    th "Их технологии намного более продвинуты, чем наши, нам приходится довольствоваться лишь крохами."
 
 # game/episode022.rpy:1277
 translate russian ep022_temple_hostiles_f367c383:
 
     # c "No use in debating that now, we need to go back now."
-    c ""
+    c "Бесполезно сейчас об этом спорить, нам нужно возвращаться."
 
 # game/episode022.rpy:1308
 translate russian ep022_temple_hostiles_597e7691_1:
 
     # av "Why didn’t the early-warning beacons we left in orbit pick them up?"
-    av ""
+    av "Почему маяки раннего предупреждения, которые мы оставили на орбите, не засекли их?"
 
 # game/episode022.rpy:1309
 translate russian ep022_temple_hostiles_dfc83f73_1:
 
     # th "They must have found a way around them."
-    th ""
+    th "Они, должно быть, нашли способ обойти их."
 
 # game/episode022.rpy:1310
 translate russian ep022_temple_hostiles_21192a9e_1:
 
     # th "Their tech is way more advanced then ours, we need to make due with just the scraps."
-    th ""
+    th "Их технологии намного более продвинуты, чем наши, нам приходится довольствоваться лишь крохами."
 
 # game/episode022.rpy:1311
 translate russian ep022_temple_hostiles_f43a5afe:
 
     # c "No use in debating that now, we need to finish up here as quickly as possible."
-    c ""
+    c "Нет смысла сейчас об этом спорить, нам нужно как можно быстрее закончить здесь."
 
 # game/episode022.rpy:1319
 translate russian ep022_temple_hostiles_ad299c59:
 
     # c "I’ll radio Jade to inform her about the situation."
-    c ""
+    c "Я свяжусь по радио с Джейд, чтобы проинформировать ее о ситуации."
 
 # game/episode022.rpy:1321
 translate russian ep022_temple_hostiles_23461a41:
 
     # av "She’s guarding the door alone, isn’t she?"
-    av ""
+    av "Она одна охраняет дверь, не так ли?"
 
 # game/episode022.rpy:1322
 translate russian ep022_temple_hostiles_8c917180:
 
     # c "She is, but we need everyone to get these explosives in place."
-    c ""
+    c "Да, но нам нужны все, чтобы установить эти взрывчатые вещества."
 
 # game/episode022.rpy:1323
 translate russian ep022_temple_hostiles_ac40bb0c:
 
     # c "We just have to pray that we finish before Agust arrives."
-    c ""
+    c "Нам остается только молиться, чтобы мы закончили до прихода Агуста."
 
 translate russian strings:
 
     # game/episode022.rpy:63
     old "Luna"
-    new ""
+    new "Луна"
 
     # game/episode022.rpy:478
     old "Visit Nadya"
-    new ""
+    new "Посетите Надю"
 
     # game/episode022.rpy:2821
     old "Fuck her ass"
-    new ""
+    new "Трахни ее в задницу"
 
     # game/episode022.rpy:2821
     old "Fuck her pussy"
-    new ""
+    new "Трахни ее киску"
 
 # TODO: Translation updated at 2025-11-26 14:56
 
@@ -12531,4 +12531,380 @@ translate russian ep022_ve_ce_sex_submissive_choices_5623c9c8:
 
     # c "I’m going to shoot your dirty little pussy full of cum."
     c "Я залью твою грязную киску спермой."
+
+# TODO: Translation updated at 2026-02-09 10:48
+
+# game/episode022.rpy:1277
+translate russian ep022_temple_hostiles_76965b0d:
+
+    # th "Their tech is way more advanced than ours, we need to make do with just the scraps."
+    th "Их технологии намного более продвинуты, чем наши, нам приходится довольствоваться лишь крохами."
+
+# game/episode022.rpy:1311
+translate russian ep022_temple_hostiles_76965b0d_1:
+
+    # th "Their tech is way more advanced than ours, we need to make do with just the scraps."
+    th "Их технологии намного более продвинуты, чем наши, нам приходится довольствоваться лишь крохами."
+
+# TODO: Translation updated at 2026-03-09 10:55
+
+# game/episode022.rpy:116
+translate russian episode022_6f3b9ca4:
+
+    # woman "Because you weren’t able to save your son and daughter from the disgrace of desertion?"
+    woman "Потому что вы не смогли спасти своего сына и дочь от позора дезертирства?"
+
+# game/episode022.rpy:118
+translate russian episode022_de2225fd:
+
+    # woman "Do you think they’re grateful you were too much of a coward to hunt them down and bring them to justice?"
+    woman "Думаешь, они благодарны тебе за то, что ты был слишком труслив, чтобы выследить их и привлечь к ответственности?"
+
+# game/episode022.rpy:214
+translate russian ep022_temple_simulation_a60cdb65:
+
+    # c "Ever heard of the Diclonae, Mom?"
+    c "Ты когда-нибудь слышала о Диклонах, мам?"
+
+# game/episode022.rpy:283
+translate russian ep022_temple_simulation_4a536e0d:
+
+    # na "To be honest, I’m not sure how successful this civilization was on Petrarch, since I’ve never heard of this transfusion process."
+    na "Не знаю, насколько успешной была эта цивилизация на Петрарке, но, если честно, я никогда не слышала о таком процессе переливания."
+
+# game/episode022.rpy:288
+translate russian ep022_temple_simulation_ef7bade7:
+
+    # th "Wish she’d drop the whole “Your Majesty” crap."
+    th "Как же он задолбал со своим 'Ваше Величество'."
+
+# game/episode022.rpy:290
+translate russian ep022_temple_simulation_d06fb36f:
+
+    # c "She’d probably lose her head if she didn’t use those honorifics."
+    c "Если бы она не использовала эти почетные титулы, то, вероятно, потеряла бы голову."
+
+# game/episode022.rpy:311
+translate russian ep022_temple_simulation_cae672d6:
+
+    # c "Woah, she’s making it float with her mind?"
+    c "Ого, она заставляет его парить силой мысли?"
+
+# game/episode022.rpy:323
+translate russian ep022_temple_simulation_ddb07a7d:
+
+    # man2 "I’m sorry, ma’am, but there’s been a security incident."
+    man2 "Простите, сэр, но произошёл инцидент, связанный с безопасностью."
+
+# game/episode022.rpy:328
+translate russian ep022_temple_simulation_c50b09e0:
+
+    # man2 "There’s an invasion force at our doorstep, ma’am."
+    man2 "У нашего порога силы вторжения, сэр."
+
+# game/episode022.rpy:333
+translate russian ep022_temple_simulation_edd045ad:
+
+    # man2 "It’s an alliance of the lesser races, ma’am."
+    man2 "Это альянс низших рас, сэр."
+
+# game/episode022.rpy:383
+translate russian ep022_temple_simulation_9f8ef167:
+
+    # "With those words, the squadron of soldiers left."
+    "С этими словами отряд солдат удалился."
+
+# game/episode022.rpy:388
+translate russian ep022_temple_simulation_e00bd287:
+
+    # "The scientist who’d spoken to the soldiers collapsed on the ground, clutching her chest."
+    "Учёный, разговаривавший с солдатами, рухнул на землю, схватившись за грудь."
+
+# game/episode022.rpy:416
+translate russian ep022_temple_simulation_f404df53:
+
+    # c "Have you ever heard about a genocide on Petrarch, Mom?"
+    c "Ты когда-нибудь слышала о геноциде на Петрарке, мам?"
+
+# game/episode022.rpy:558
+translate russian ep022_eva_talk_5c4a6b12:
+
+    # c "So either she’s spying on our Dad, playing the long game, or acting as a free agent."
+    c "Так что либо она всё ещё шпионит за нашим отцом, играя в долгую игру, либо действует как свободный агент."
+
+# game/episode022.rpy:560
+translate russian ep022_eva_talk_0701b072:
+
+    # c "So either she’s spying on my Dad, playing the long game, or acting as a free agent."
+    c "Так что либо она всё ещё шпионит за моим отцом, играя в долгую игру, либо действует как свободный агент."
+
+# game/episode022.rpy:950
+translate russian ep022_nadya_talk_ced8c7f1:
+
+    # na "What I know of these conglomerates is that they attract all kinds of people."
+    na "Из того, что я знаю об этих конгломератах, это то, что они привлекают самых разных людей."
+
+# game/episode022.rpy:1133
+translate russian ep022_ziv_talk_c52d7eea:
+
+    # zi "It’s not something we advertise widely, people with bad intentions might take notice."
+    zi "Мы об этом особо не распространяемся, люди с дурными намерениями могут обратить на это внимание."
+
+# game/episode022.rpy:1204
+translate russian ep022_temple_hostiles_9fadff43:
+
+    # "Thyia, Céline, Jade and Aven busied themselves with rigging the necessary cables."
+    "Тхия, Селин, Джейд и Эвин занялись подсоединением необходимых кабелей."
+
+# game/episode022.rpy:1360
+translate russian ep022_temple_hostiles_f02c6a36:
+
+    # c "Yes, we know all about that eugenics program you’re so hell-bent on acquiring."
+    c "Да, мы знаем всё об этой евгенической программе, на получении которой ты так повёрнут."
+
+# game/episode022.rpy:1391
+translate russian ep022_temple_hostiles_52752313:
+
+    # co "When we first found you on Erigone, your sister was crowned the queen of that martial breed of females."
+    co "Когда мы впервые нашли тебя на Эригоне, твоя сестра была коронована королевой этой воинственной породы женщин."
+
+# game/episode022.rpy:1393
+translate russian ep022_temple_hostiles_bceb52c1:
+
+    # co "When we first found you on Erigone, this girl here was crowned the queen of that martial breed of females."
+    co "Когда мы впервые нашли тебя на Эригоне, эта девушка была коронована королевой этой воинственной породы женщин."
+
+# game/episode022.rpy:1398
+translate russian ep022_temple_hostiles_69fdd57c:
+
+    # c "You’re going to subject Eva to the treatment the Shixses forced on their victims?"
+    c "Вы собираетесь подвергнуть Еву той же операции, к которой Шиксы принуждали своих подопытных?"
+
+# game/episode022.rpy:1399
+translate russian ep022_temple_hostiles_471d941d:
+
+    # ag "It’s the only way to bring about the prophesied singularity."
+    ag "Это единственный способ вызвать пророческую сингулярность."
+
+# game/episode022.rpy:1468
+translate russian ep022_temple_hostiles_2510ef93:
+
+    # "Eva screamed in pain and my other sisters wailed in response."
+    "Ева закричала от боли, а другая моя сестра завыла в ответ."
+
+# game/episode022.rpy:1470
+translate russian ep022_temple_hostiles_47a2426a:
+
+    # "Eva screamed in pain and the other girls wailed in response."
+    "Ева закричала от боли, а другая девушка завыла в ответ."
+
+# game/episode022.rpy:1480
+translate russian ep022_temple_hostiles_eed62aaf:
+
+    # "She thrashed and screamed, but the procedure ran its unrelenting course."
+    "Она билась и кричала, но процедура неумолимо шла своим чередом."
+
+# game/episode022.rpy:1627
+translate russian ep022_petrarch_assault_e00d082b:
+
+    # "When I saw they were in position I revealed myself just enough to get the guards’ attention."
+    "Когда я увидел, что они на месте, я показался ровно настолько, чтобы привлечь внимание охранников."
+
+# game/episode022.rpy:1714
+translate russian ep022_petrarch_assault_201bb18d:
+
+    # "We were marched at gunpoint the exit of the compound."
+    "Нас под дулами автоматов повели к выходу из комплекса."
+
+# game/episode022.rpy:1726
+translate russian ep022_petrarch_assault_98326aa8:
+
+    # "We were all pushed inside the transport which took off nearly immediately after the entry hatch closed."
+    "Нас всех затолкали внутрь транспорта, который взлетел почти сразу после закрытия входного люка."
+
+# game/episode022.rpy:2161
+translate russian ep022_e_l_sex_2bdc0610:
+
+    # l "She’s a good cock sucker, isn’t she?"
+    l "Членососка она классная, да?"
+
+# game/episode022.rpy:2225
+translate russian ep022_e_l_fucking_767e1319:
+
+    # "I pushed against Eva’s wet entrance and slipped past without much resistance."
+    "Я надавил на влажный вход Евы и без особого сопротивления проскользнул внутрь."
+
+# game/episode022.rpy:2234
+translate russian ep022_e_l_fucking_a8e0dfe5:
+
+    # "When I began to move inside my sister, Lilly’s lust-filled eyes drank in every detail."
+    "Когда я начал двигаться внутри своей сестры, глаза Лилли, полные вожделения, впивались в каждую деталь."
+
+# game/episode022.rpy:2236
+translate russian ep022_e_l_fucking_54a6885b:
+
+    # "When I began to move inside my girlfriend, Lilly’s lust-filled eyes drank in every detail."
+    "Когда я начал двигаться внутри своей девушки, глаза Лилли, полные вожделения, впивались в каждую деталь."
+
+# game/episode022.rpy:2302
+translate russian ep022_e_l_fucking_80d50e91:
+
+    # l "Do you want to fuck her into the bed?"
+    l "Хочешь оттрахать её и устроить проверку кровати на прочность?"
+
+# game/episode022.rpy:2349
+translate russian ep022_e_l_fucking_84124c53:
+
+    # "Lilly sucked on Eva’s nipple when I began to thrust."
+    "Лилли посасывала соски Евы, когда я начал двигаться."
+
+# game/episode022.rpy:2489
+translate russian ep022_e_l_fucking_3a32ab36:
+
+    # "I wanted to mark both my sisters’ faces, so I pulled out of Eva."
+    "Я хотел пометить лица обеих моих сестёр, поэтому вышел из Евы."
+
+# game/episode022.rpy:2491
+translate russian ep022_e_l_fucking_c269ad53:
+
+    # "I wanted to mark both my girlfriends’ faces, so I pulled out of Eva."
+    "Я хотел пометить лица обеих моих сестёр, поэтому вышел из Евы."
+
+# game/episode022.rpy:2494
+translate russian ep022_e_l_fucking_9ca8c552:
+
+    # "I wanted to mark both my sisters’ faces, so I pulled out of Lilly."
+    "Я хотел пометить лица обеих моих сестёр, поэтому вышел из Лилли."
+
+# game/episode022.rpy:2496
+translate russian ep022_e_l_fucking_57916584:
+
+    # "I wanted to mark both my girlfriends’ faces, so I pulled out of Lilly."
+    "Я хотел пометить лица обеих моих сестёр, поэтому вышел из Лилли."
+
+# game/episode022.rpy:2529
+translate russian ep022_e_l_fucking_84fc4811:
+
+    # "I wanted to mark both my sisters’ bodies, so I pulled out of Eva."
+    "Я хотел пометить тела обеих моих сестёр, поэтому вышел из Евы."
+
+# game/episode022.rpy:2531
+translate russian ep022_e_l_fucking_003d3291:
+
+    # "I wanted to mark both my girlfriends’ bodies, so I pulled out of Eva."
+    "Я хотел пометить тела обеих моих сестёр, поэтому вышел из Евы."
+
+# game/episode022.rpy:2534
+translate russian ep022_e_l_fucking_10e9ef51:
+
+    # "I wanted to mark both my sisters’ bodies, so I pulled out of Lilly."
+    "Я хотел пометить тела обеих моих сестёр, поэтому вышел из Лилли."
+
+# game/episode022.rpy:2536
+translate russian ep022_e_l_fucking_44e10378:
+
+    # "I wanted to mark both my girlfriends’ bodies, so I pulled out of Lilly."
+    "Я хотел пометить тела обеих моих сестёр, поэтому вышел из Лилли."
+
+# game/episode022.rpy:2557
+translate russian ep022_e_l_fucking_a0368b26:
+
+    # "Thick warm cum sprayed out of my dick and splashed on the nubile bodies of my sisters."
+    "Густые нити тёплой спермы выплеснулись из моего члена и брызнули на юные тела моих сестёр."
+
+# game/episode022.rpy:2559
+translate russian ep022_e_l_fucking_3b32e8f0:
+
+    # "Thick warm cum sprayed out of my dick and splashed on the nubile bodies of my girlfriends."
+    "Густые нити тёплой спермы выплеснулись из моего члена и брызнули на юные тела моих девушек."
+
+# game/episode022.rpy:2569
+translate russian ep022_e_l_fucking_acce7f60:
+
+    # "I wanted to fill both my sisters’ mouths, so I pulled out of Eva."
+    "Мне хотелось заполнить рты обеих сестёр, поэтому я вышел из Евы."
+
+# game/episode022.rpy:2571
+translate russian ep022_e_l_fucking_4923828c:
+
+    # "I wanted to fill both my girlfriends’ mouths, so I pulled out of Eva."
+    "Мне хотелось заполнить рты обеих сестёр, поэтому я вышел из Евы."
+
+# game/episode022.rpy:2574
+translate russian ep022_e_l_fucking_8359cb72:
+
+    # "I wanted to fill both my sisters’ mouths, so I pulled out of Lilly."
+    "Мне хотелось заполнить рты обеих сестёр, поэтому я вышел из Лилли."
+
+# game/episode022.rpy:2576
+translate russian ep022_e_l_fucking_2d71aa0e:
+
+    # "I wanted to fill both my girlfriends’ mouths, so I pulled out of Lilly."
+    "Мне хотелось заполнить рты обеих сестёр, поэтому я вышел из Лилли."
+
+# game/episode022.rpy:2926
+translate russian ep022_ziv_sex_9297b944:
+
+    # "My balls slapped against her flesh every time I rooted myself deep inside."
+    "Мои яйца шлёпались о её плоть каждый раз, когда я глубоко погружался в неё."
+
+# game/episode022.rpy:2928
+translate russian ep022_ziv_sex_ac1ee45a:
+
+    # "Longing to see her face, I decided to change things up."
+    "Страстно желая увидеть её лицо, я решил всё изменить."
+
+# game/episode022.rpy:3058
+translate russian ep022_ziv_sex_9a40101b:
+
+    # "When I was done, she licked my shaft clean and swallowed all of my semen with a contented smile."
+    "Когда я закончил, она дочиста вылизала мой член и проглотила всю мою сперму с довольной улыбкой."
+
+# game/episode022.rpy:3140
+translate russian ep022_ve_ce_sex_621a39d3:
+
+    # "Vess appeared to be deep in conversation when I walked past, but not deep enough for her to not follow me seconds after."
+    "Я проходил мимо, Весс, казалось, была увлечена разговором, но не настолько, чтобы не последовать за мной через несколько секунд."
+
+# game/episode022.rpy:3377
+translate russian ep022_ve_ce_sex_choices_f6414cb5:
+
+    # "I wanted Vess to receive my load, so I slipped out of Céline, who nearly collapsed against the wall."
+    "Я хотел, чтобы Весс приняла мою порцию спермы, поэтому я выскользнул из объятий Селин, которая едва не упала на стену."
+
+# game/episode022.rpy:3409
+translate russian ep022_ve_ce_sex_choices_a4d9eb2f:
+
+    # "I wanted Céline to receive my load, so I slipped out of Vess, who nearly collapsed against the wall."
+    "Я хотел, чтобы Весс приняла мою порцию спермы, поэтому я выскользнул из объятий Селин, которая едва не упала на стену."
+
+# game/episode022.rpy:3518
+translate russian ep022_ve_ce_sex_submissive_ec1cc323:
+
+    # c "You’re coming with me."
+    c "Ты пойдешь со мной."
+
+# game/episode022.rpy:3519
+translate russian ep022_ve_ce_sex_submissive_50b89945:
+
+    # c "The ship is deserted, so nobody will hear you scream when I fuck you."
+    c "Корабль пуст, так что никто не услышит твоих криков, когда я буду тебя трахать."
+
+# game/episode022.rpy:3759
+translate russian ep022_ve_ce_sex_submissive_choices_f6414cb5:
+
+    # "I wanted Vess to receive my load, so I slipped out of Céline, who nearly collapsed against the wall."
+    "Я хотел, чтобы Весс приняла мою порцию спермы, поэтому я выскользнул из объятий Селин, которая едва не упала на стену."
+
+# game/episode022.rpy:3794
+translate russian ep022_ve_ce_sex_submissive_choices_a4d9eb2f:
+
+    # "I wanted Céline to receive my load, so I slipped out of Vess, who nearly collapsed against the wall."
+    "Я хотел, чтобы Весс приняла мою порцию спермы, поэтому я выскользнул из объятий Селин, которая едва не упала на стену."
+
+# game/episode022.rpy:3795
+translate russian ep022_ve_ce_sex_submissive_choices_91851d1e:
+
+    # c "Your dirty pussy is not worthy of my cum, so lick me again instead."
+    c "Твоя грязная киска недостойна моей спермы, поэтому ещё раз вылижи мою задницу."
 

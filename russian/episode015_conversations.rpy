@@ -4038,11 +4038,11 @@ translate russian strings:
 
     # game/episode015_conversations.rpy:501
     old "Promise to do better"
-    new ""
+    new "Обещание стать лучше"
 
     # game/episode015_conversations.rpy:605
     old "Pick a fight"
-    new ""
+    new "Затеять драку"
 
     # game/episode015_conversations.rpy:974
     old "Pee on her"
@@ -4140,31 +4140,31 @@ translate russian strings:
 
     # game/episode015_conversations.rpy:147
     old "Mysterious aliens who generally demand a sacrifice before dealing with other species."
-    new ""
+    new "Загадочные инопланетяне, которые обычно требуют жертву, прежде чем вступать в контакт с другими видами."
 
     # game/episode015_conversations.rpy:304
     old "Stay silent"
-    new ""
+    new "Молчи"
 
     # game/episode015_conversations.rpy:502
     old "Put her in her place"
-    new ""
+    new "Поставь ее на место"
 
     # game/episode015_conversations.rpy:802
     old "Agree"
-    new ""
+    new "Согласен"
 
     # game/episode015_conversations.rpy:1017
     old "Just fuck her"
-    new ""
+    new "Просто трахни ее"
 
     # game/episode015_conversations.rpy:1210
     old "Facial"
-    new ""
+    new "Лицо"
 
     # game/episode015_conversations.rpy:1374
     old "Swallow"
-    new ""
+    new "Ласточка"
 
 # TODO: Translation updated at 2025-11-26 14:56
 

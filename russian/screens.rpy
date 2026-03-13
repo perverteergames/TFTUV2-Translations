@@ -738,23 +738,23 @@ translate russian strings:
 
     # game/screens.rpy:1473
     old "Português (parcial)"
-    new ""
+    new "Português (parcial)"
 
     # game/screens.rpy:1474
     old "Français"
-    new ""
+    new "Français"
 
     # game/screens.rpy:1477
     old "Italiano (parziale)"
-    new ""
+    new "Italiano (parziale)"
 
     # game/screens.rpy:1478
     old "Español (parcial)"
-    new ""
+    new "Español (parcial)"
 
     # game/screens.rpy:1479
     old "Русский (частичный)"
-    new ""
+    new "Русский (частичный)"
 
 # TODO: Translation updated at 2025-11-26 14:56
 
@@ -795,4 +795,28 @@ translate russian strings:
     # game/screens.rpy:1522
     old "Italiano"
     new "Italiano"
+
+# TODO: Translation updated at 2026-03-09 10:55
+
+translate russian strings:
+
+    # game/screens.rpy:707
+    old "Yes {size=-5}(Submissive){/size}"
+    new "Да {size=-5}(Покорный){/size}"
+
+# TODO: Translation updated at 2026-03-10 11:15
+
+translate russian strings:
+
+    # game/screens.rpy:1512
+    old "Lovense"
+    new "Lovense"
+
+    # game/screens.rpy:1533
+    old "Português"
+    new "Português"
+
+    # game/screens.rpy:1534
+    old "Español"
+    new "Español"
 

@@ -1214,7 +1214,7 @@ translate russian breakup_vess_4f172546:
 translate russian breakup_vess_8516f17c:
 
     # ve "If you have the time, maybe we could get a little more cozy?"
-    ve ""
+    ve "Если у тебя есть время, может, мы могли бы поближе познакомиться?"
 
 # game/breakups.rpy:243
 translate russian breakup_vess_1c844a0b:
