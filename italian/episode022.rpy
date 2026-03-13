@@ -12396,85 +12396,85 @@ translate italian strings:
 translate italian ep022_lilly_talk_57e2e85a:
 
     # t "Wow, two of your friends, you dark horse."
-    t ""
+    t "Wow, due amici, sei un cavallo nero."
 
 # game/episode022.rpy:854
 translate italian ep022_lilly_talk_dc0592ba:
 
     # "We lay together on the bed and I took my girlfriend into my arms."
-    ""
+    "Ci sdraiammo insieme sul letto e presi mia sorella tra le braccia."
 
 # game/episode022.rpy:1274
 translate italian ep022_temple_hostiles_597e7691:
 
     # av "Why didn’t the early-warning beacons we left in orbit pick them up?"
-    av ""
+    av "Perché i segnali di allarme preventivo che abbiamo lasciato in orbita non li hanno rilevati?"
 
 # game/episode022.rpy:1275
 translate italian ep022_temple_hostiles_dfc83f73:
 
     # th "They must have found a way around them."
-    th ""
+    th "Devono aver trovato un modo per aggirarli."
 
 # game/episode022.rpy:1276
 translate italian ep022_temple_hostiles_21192a9e:
 
     # th "Their tech is way more advanced then ours, we need to make due with just the scraps."
-    th ""
+    th "La loro tecnologia è molto più avanzata della nostra, dobbiamo accontentarci solo degli scarti."
 
 # game/episode022.rpy:1277
 translate italian ep022_temple_hostiles_f367c383:
 
     # c "No use in debating that now, we need to go back now."
-    c ""
+    c "Non serve discuterne adesso, dobbiamo tornare indietro."
 
 # game/episode022.rpy:1308
 translate italian ep022_temple_hostiles_597e7691_1:
 
     # av "Why didn’t the early-warning beacons we left in orbit pick them up?"
-    av ""
+    av "Perché i segnali di allarme preventivo che abbiamo lasciato in orbita non li hanno rilevati?"
 
 # game/episode022.rpy:1309
 translate italian ep022_temple_hostiles_dfc83f73_1:
 
     # th "They must have found a way around them."
-    th ""
+    th "Devono aver trovato un modo per aggirarli."
 
 # game/episode022.rpy:1310
 translate italian ep022_temple_hostiles_21192a9e_1:
 
     # th "Their tech is way more advanced then ours, we need to make due with just the scraps."
-    th ""
+    th "La loro tecnologia è molto più avanzata della nostra, dobbiamo accontentarci solo degli scarti."
 
 # game/episode022.rpy:1311
 translate italian ep022_temple_hostiles_f43a5afe:
 
     # c "No use in debating that now, we need to finish up here as quickly as possible."
-    c ""
+    c "Non serve discuterne adesso, dobbiamo finire qui il più rapidamente possibile."
 
 # game/episode022.rpy:1319
 translate italian ep022_temple_hostiles_ad299c59:
 
     # c "I’ll radio Jade to inform her about the situation."
-    c ""
+    c "Chiamerò Jade via radio per informarla della situazione."
 
 # game/episode022.rpy:1321
 translate italian ep022_temple_hostiles_23461a41:
 
     # av "She’s guarding the door alone, isn’t she?"
-    av ""
+    av "Sta sorvegliando la porta da sola, vero?"
 
 # game/episode022.rpy:1322
 translate italian ep022_temple_hostiles_8c917180:
 
     # c "She is, but we need everyone to get these explosives in place."
-    c ""
+    c "Sì, ma abbiamo bisogno che tutti mettano a posto questi esplosivi."
 
 # game/episode022.rpy:1323
 translate italian ep022_temple_hostiles_ac40bb0c:
 
     # c "We just have to pray that we finish before Agust arrives."
-    c ""
+    c "Dobbiamo solo pregare di finire prima che arrivi Agust."
 
 # TODO: Translation updated at 2025-12-04 22:34
 
@@ -12533,4 +12533,408 @@ translate italian ep022_ve_ce_sex_submissive_choices_5623c9c8:
 
     # c "I’m going to shoot your dirty little pussy full of cum."
     c "Ti riempirò la tua piccola figa sporca di sperma."
+
+# TODO: Translation updated at 2026-02-09 10:49
+
+# game/episode022.rpy:1277
+translate italian ep022_temple_hostiles_76965b0d:
+
+    # th "Their tech is way more advanced than ours, we need to make do with just the scraps."
+    th "La loro tecnologia è molto più avanzata della nostra, dobbiamo accontentarci solo degli scarti."
+
+# game/episode022.rpy:1311
+translate italian ep022_temple_hostiles_76965b0d_1:
+
+    # th "Their tech is way more advanced than ours, we need to make do with just the scraps."
+    th "La loro tecnologia è molto più avanzata della nostra, dobbiamo accontentarci solo degli scarti."
+
+# TODO: Translation updated at 2026-03-03 22:52
+
+# game/episode022.rpy:116
+translate italian episode022_6f3b9ca4:
+
+    # woman "Because you weren’t able to save your son and daughter from the disgrace of desertion?"
+    woman "Perché non sei riuscito a salvare tuo figlio e tua figlia dalla vergogna della diserzione?"
+
+# game/episode022.rpy:118
+translate italian episode022_de2225fd:
+
+    # woman "Do you think they’re grateful you were too much of a coward to hunt them down and bring them to justice?"
+    woman "Pensi che ti siano grati per essere stato troppo codardo per dar loro la caccia e assicurarli alla giustizia?"
+
+# TODO: Translation updated at 2026-03-04 14:21
+
+# game/episode022.rpy:214
+translate italian ep022_temple_simulation_a60cdb65:
+
+    # c "Ever heard of the Diclonae, Mom?"
+    c "Hai mai sentito parlare dei Diclonae, mamma?"
+
+# game/episode022.rpy:283
+translate italian ep022_temple_simulation_4a536e0d:
+
+    # na "To be honest, I’m not sure how successful this civilization was on Petrarch, since I’ve never heard of this transfusion process."
+    na "Non so quanto successo abbia avuto questa civiltà sul Petrarca, a dire il vero non ho mai sentito parlare di questo processo di trasfusione."
+
+# game/episode022.rpy:288
+translate italian ep022_temple_simulation_ef7bade7:
+
+    # th "Wish she’d drop the whole “Your Majesty” crap."
+    th "Vorrei che la smettesse di dire “Vostra Maestà”."
+
+# game/episode022.rpy:290
+translate italian ep022_temple_simulation_d06fb36f:
+
+    # c "She’d probably lose her head if she didn’t use those honorifics."
+    c "Probabilmente perderebbe la testa se non usasse quei titoli onorifici."
+
+# game/episode022.rpy:311
+translate italian ep022_temple_simulation_dfd67d22:
+
+    # c "Woah, she’s making it float with his mind?"
+    c "Woah, lo sta facendo fluttuare con la mente?"
+
+# game/episode022.rpy:323
+translate italian ep022_temple_simulation_ddb07a7d:
+
+    # man2 "I’m sorry, ma’am, but there’s been a security incident."
+    man2 "Mi dispiace, signore, ma c'è stato un incidente di sicurezza."
+
+# game/episode022.rpy:328
+translate italian ep022_temple_simulation_c50b09e0:
+
+    # man2 "There’s an invasion force at our doorstep, ma’am."
+    man2 "C'è una forza d'invasione alle nostre porte, signore."
+
+# game/episode022.rpy:333
+translate italian ep022_temple_simulation_edd045ad:
+
+    # man2 "It’s an alliance of the lesser races, ma’am."
+    man2 "È un'alleanza di razze minori, signore."
+
+# game/episode022.rpy:383
+translate italian ep022_temple_simulation_9f8ef167:
+
+    # "With those words, the squadron of soldiers left."
+    "Con queste parole, lo squadrone di soldati se ne andò."
+
+# game/episode022.rpy:388
+translate italian ep022_temple_simulation_e00bd287:
+
+    # "The scientist who’d spoken to the soldiers collapsed on the ground, clutching her chest."
+    "Lo scienziato che aveva parlato con i soldati si accasciò a terra, stringendosi il petto."
+
+# game/episode022.rpy:416
+translate italian ep022_temple_simulation_f404df53:
+
+    # c "Have you ever heard about a genocide on Petrarch, Mom?"
+    c "Hai mai sentito parlare di un genocidio su Petrarca, mamma?"
+
+# game/episode022.rpy:558
+translate italian ep022_eva_talk_5c4a6b12:
+
+    # c "So either she’s spying on our Dad, playing the long game, or acting as a free agent."
+    c "Quindi o sta ancora spiando nostro padre, facendo il gioco lungo, o agisce come agente libero."
+
+# game/episode022.rpy:560
+translate italian ep022_eva_talk_0701b072:
+
+    # c "So either she’s spying on my Dad, playing the long game, or acting as a free agent."
+    c "Quindi o sta ancora spiando mio padre, o sta facendo il gioco lungo, o sta agendo come agente libero."
+
+# game/episode022.rpy:950
+translate italian ep022_nadya_talk_0f59db1f:
+
+    # na "From what I know of these conglomerates is that they attract all kinds of people."
+    na "Da quello che so di questi conglomerati, è che attirano ogni tipo di persona."
+
+# game/episode022.rpy:1133
+translate italian ep022_ziv_talk_c52d7eea:
+
+    # zi "It’s not something we advertise widely, people with bad intentions might take notice."
+    zi "Non è una cosa che pubblicizziamo ampiamente, le persone con cattive intenzioni potrebbero prenderne atto."
+
+# game/episode022.rpy:1204
+translate italian ep022_temple_hostiles_9fadff43:
+
+    # "Thyia, Céline, Jade and Aven busied themselves with rigging the necessary cables."
+    "Thyia, Céline Jade e Aven si occuparono di montare i cavi necessari."
+
+# game/episode022.rpy:1360
+translate italian ep022_temple_hostiles_f02c6a36:
+
+    # c "Yes, we know all about that eugenics program you’re so hell-bent on acquiring."
+    c "Sì, sappiamo tutto di quel programma di eugenetica che sei così determinato ad acquisire."
+
+# game/episode022.rpy:1391
+translate italian ep022_temple_hostiles_52752313:
+
+    # co "When we first found you on Erigone, your sister was crowned the queen of that martial breed of females."
+    co "Quando ti trovammo per la prima volta, su Erigone, tua sorella fu incoronata regina di quella razza marziale di donne."
+
+# game/episode022.rpy:1393
+translate italian ep022_temple_hostiles_bceb52c1:
+
+    # co "When we first found you on Erigone, this girl here was crowned the queen of that martial breed of females."
+    co "Quando ti trovammo per la prima volta, su Erigone, questa ragazza fu incoronata regina di quella razza marziale di donne."
+
+# game/episode022.rpy:1398
+translate italian ep022_temple_hostiles_69fdd57c:
+
+    # c "You’re going to subject Eva to the treatment the Shixses forced on their victims?"
+    c "Sottoporrai Eva al trattamento che gli Shix hanno imposto alle loro cavie?"
+
+# game/episode022.rpy:1399
+translate italian ep022_temple_hostiles_471d941d:
+
+    # ag "It’s the only way to bring about the prophesied singularity."
+    ag "È l'unico modo per realizzare la singolarità profetizzata."
+
+# game/episode022.rpy:1468
+translate italian ep022_temple_hostiles_2510ef93:
+
+    # "Eva screamed in pain and my other sisters wailed in response."
+    "Eva urlò di dolore e l'altra mia sorella emise un gemito in risposta."
+
+# game/episode022.rpy:1470
+translate italian ep022_temple_hostiles_47a2426a:
+
+    # "Eva screamed in pain and the other girls wailed in response."
+    "Eva urlò di dolore e l'altra ragazza gemette in risposta."
+
+# game/episode022.rpy:1480
+translate italian ep022_temple_hostiles_eed62aaf:
+
+    # "She thrashed and screamed, but the procedure ran its unrelenting course."
+    "Si dimenava e urlava, ma la procedura faceva il suo corso inesorabile."
+
+# game/episode022.rpy:1627
+translate italian ep022_petrarch_assault_e00d082b:
+
+    # "When I saw they were in position I revealed myself just enough to get the guards’ attention."
+    "Quando vidi che erano in posizione, mi scoprii quel tanto che bastava per attirare l'attenzione delle guardie."
+
+# game/episode022.rpy:1714
+translate italian ep022_petrarch_assault_201bb18d:
+
+    # "We were marched at gunpoint the exit of the compound."
+    "Ci fecero marciare sotto la minaccia delle armi verso l'uscita del complesso."
+
+# game/episode022.rpy:1726
+translate italian ep022_petrarch_assault_98326aa8:
+
+    # "We were all pushed inside the transport which took off nearly immediately after the entry hatch closed."
+    "Siamo stati spinti tutti all'interno del trasporto che ha preso il via quasi subito dopo la chiusura del portello d'ingresso."
+
+# game/episode022.rpy:2161
+translate italian ep022_e_l_sex_2bdc0610:
+
+    # l "She’s a good cock sucker, isn’t she?"
+    l "È una brava succhiatrice di cazzi, vero?"
+
+# game/episode022.rpy:2225
+translate italian ep022_e_l_fucking_767e1319:
+
+    # "I pushed against Eva’s wet entrance and slipped past without much resistance."
+    "Spinsi contro l'entrata umida di Eva e la feci scivolare senza troppa resistenza."
+
+# game/episode022.rpy:2234
+translate italian ep022_e_l_fucking_a8e0dfe5:
+
+    # "When I began to move inside my sister, Lilly’s lust-filled eyes drank in every detail."
+    "Quando iniziai a muovermi dentro mia sorella, gli occhi pieni di lussuria di Lilly assaporarono ogni dettaglio."
+
+# game/episode022.rpy:2236
+translate italian ep022_e_l_fucking_54a6885b:
+
+    # "When I began to move inside my girlfriend, Lilly’s lust-filled eyes drank in every detail."
+    "Quando iniziai a muovermi dentro la mia ragazza, gli occhi vogliosi di Lilly assaporarono ogni dettaglio."
+
+# game/episode022.rpy:2302
+translate italian ep022_e_l_fucking_80d50e91:
+
+    # l "Do you want to fuck her into the bed?"
+    l "Vuoi scoparla nel letto?"
+
+# game/episode022.rpy:2349
+translate italian ep022_e_l_fucking_84124c53:
+
+    # "Lilly sucked on Eva’s nipple when I began to thrust."
+    "Lilly succhiò i capezzoli di Eva quando iniziai a spingere."
+
+# game/episode022.rpy:2489
+translate italian ep022_e_l_fucking_3a32ab36:
+
+    # "I wanted to mark both my sisters’ faces, so I pulled out of Eva."
+    "Volevo segnare i volti di entrambe le mie sorelle, quindi mi tirai fuori da Eva."
+
+# game/episode022.rpy:2491
+translate italian ep022_e_l_fucking_5a911e25:
+
+    # "I wanted to mark both my girlfriends faces, so I pulled out of Eva."
+    "Volevo segnare i volti di entrambe le mie sorelle, quindi mi tirai fuori da Eva."
+
+# game/episode022.rpy:2494
+translate italian ep022_e_l_fucking_9ca8c552:
+
+    # "I wanted to mark both my sisters’ faces, so I pulled out of Lilly."
+    "Volevo segnare il viso di entrambe le mie sorelle, così mi sono tirato fuori da Lilly."
+
+# game/episode022.rpy:2496
+translate italian ep022_e_l_fucking_57916584:
+
+    # "I wanted to mark both my girlfriends’ faces, so I pulled out of Lilly."
+    "Volevo segnare il viso di entrambe le mie sorelle, così mi sono tirato fuori da Lilly."
+
+# game/episode022.rpy:2529
+translate italian ep022_e_l_fucking_84fc4811:
+
+    # "I wanted to mark both my sisters’ bodies, so I pulled out of Eva."
+    "Volevo segnare i corpi di entrambe le mie sorelle, così mi tirai fuori da Eva."
+
+# game/episode022.rpy:2531
+translate italian ep022_e_l_fucking_003d3291:
+
+    # "I wanted to mark both my girlfriends’ bodies, so I pulled out of Eva."
+    "Volevo segnare i corpi di entrambe le mie sorelle, così mi tirai fuori da Eva."
+
+# game/episode022.rpy:2534
+translate italian ep022_e_l_fucking_10e9ef51:
+
+    # "I wanted to mark both my sisters’ bodies, so I pulled out of Lilly."
+    "Volevo segnare entrambi i corpi di mia sorella, così mi sono tirato fuori da Lilly."
+
+# game/episode022.rpy:2536
+translate italian ep022_e_l_fucking_44e10378:
+
+    # "I wanted to mark both my girlfriends’ bodies, so I pulled out of Lilly."
+    "Volevo segnare entrambi i corpi di mia sorella, così mi sono tirato fuori da Lilly."
+
+# game/episode022.rpy:2557
+translate italian ep022_e_l_fucking_a0368b26:
+
+    # "Thick warm cum sprayed out of my dick and splashed on the nubile bodies of my sisters."
+    "Lo sperma caldo e denso uscì dal mio cazzo e schizzò sui giovani corpi delle mie sorelle."
+
+# game/episode022.rpy:2559
+translate italian ep022_e_l_fucking_3b32e8f0:
+
+    # "Thick warm cum sprayed out of my dick and splashed on the nubile bodies of my girlfriends."
+    "Lo sperma caldo e denso uscì dal mio cazzo e schizzò sui giovani corpi delle mie amiche."
+
+# game/episode022.rpy:2569
+translate italian ep022_e_l_fucking_acce7f60:
+
+    # "I wanted to fill both my sisters’ mouths, so I pulled out of Eva."
+    "Volevo riempire la bocca di entrambe le mie sorelle, così mi sfilai da Eva."
+
+# game/episode022.rpy:2571
+translate italian ep022_e_l_fucking_4923828c:
+
+    # "I wanted to fill both my girlfriends’ mouths, so I pulled out of Eva."
+    "Volevo riempire la bocca di entrambe le mie sorelle, così mi sfilai da Eva."
+
+# game/episode022.rpy:2574
+translate italian ep022_e_l_fucking_8359cb72:
+
+    # "I wanted to fill both my sisters’ mouths, so I pulled out of Lilly."
+    "Volevo riempire la bocca di entrambe le mie sorelle, quindi mi sono tirato fuori da Lilly."
+
+# game/episode022.rpy:2576
+translate italian ep022_e_l_fucking_2d71aa0e:
+
+    # "I wanted to fill both my girlfriends’ mouths, so I pulled out of Lilly."
+    "Volevo riempire la bocca di entrambe le mie sorelle, quindi mi sono tirato fuori da Lilly."
+
+# game/episode022.rpy:2926
+translate italian ep022_ziv_sex_9297b944:
+
+    # "My balls slapped against her flesh every time I rooted myself deep inside."
+    "Le mie palle sbattevano contro la sua carne ogni volta che mi radicavo dentro di lei."
+
+# game/episode022.rpy:2928
+translate italian ep022_ziv_sex_ac1ee45a:
+
+    # "Longing to see her face, I decided to change things up."
+    "Desideroso di vedere il suo viso, decisi di cambiare le cose."
+
+# game/episode022.rpy:3058
+translate italian ep022_ziv_sex_9a40101b:
+
+    # "When I was done, she licked my shaft clean and swallowed all of my semen with a contented smile."
+    "Quando finii, lei leccò la mia asta e ingoiò tutto il mio sperma con un sorriso soddisfatto."
+
+# game/episode022.rpy:3140
+translate italian ep022_ve_ce_sex_621a39d3:
+
+    # "Vess appeared to be deep in conversation when I walked past, but not deep enough for her to not follow me seconds after."
+    "Vess sembrava essere immersa in una conversazione quando sono passato, ma non abbastanza da seguirmi pochi secondi dopo."
+
+# game/episode022.rpy:3377
+translate italian ep022_ve_ce_sex_choices_f6414cb5:
+
+    # "I wanted Vess to receive my load, so I slipped out of Céline, who nearly collapsed against the wall."
+    "Volevo che Vess ricevesse il mio carico, così mi sfilai da Céline che quasi crollò contro il muro."
+
+# game/episode022.rpy:3409
+translate italian ep022_ve_ce_sex_choices_a4d9eb2f:
+
+    # "I wanted Céline to receive my load, so I slipped out of Vess, who nearly collapsed against the wall."
+    "Volevo che Vess ricevesse il mio carico, così mi sfilai da Céline che quasi crollò contro il muro."
+
+# game/episode022.rpy:3518
+translate italian ep022_ve_ce_sex_submissive_ec1cc323:
+
+    # c "You’re coming with me."
+    c "Tu vieni con me."
+
+# game/episode022.rpy:3519
+translate italian ep022_ve_ce_sex_submissive_50b89945:
+
+    # c "The ship is deserted, so nobody will hear you scream when I fuck you."
+    c "La nave è deserta, quindi nessuno ti sentirà urlare quando ti scoperò."
+
+# game/episode022.rpy:3759
+translate italian ep022_ve_ce_sex_submissive_choices_f6414cb5:
+
+    # "I wanted Vess to receive my load, so I slipped out of Céline, who nearly collapsed against the wall."
+    "Volevo che Vess ricevesse il mio carico, così mi sfilai da Céline che quasi crollò contro il muro."
+
+# game/episode022.rpy:3794
+translate italian ep022_ve_ce_sex_submissive_choices_a4d9eb2f:
+
+    # "I wanted Céline to receive my load, so I slipped out of Vess, who nearly collapsed against the wall."
+    "Volevo che Vess ricevesse il mio carico, così mi sfilai da Céline che quasi crollò contro il muro."
+
+# game/episode022.rpy:3795
+translate italian ep022_ve_ce_sex_submissive_choices_91851d1e:
+
+    # c "Your dirty pussy is not worthy of my cum, so lick me again instead."
+    c "La tua piccola e sporca figa non è degna del mio sperma, quindi leccami di nuovo”."
+
+# game/episode022.rpy:3803
+translate italian ep022_ve_ce_sex_submissive_choices_f2f4c50a:
+
+    # "Vess resumed licking my asshole, while I entered Céline."
+    "Vess riprese a leccarmi il buco del culo, mentre io entravo in Céline."
+
+# TODO: Translation updated at 2026-03-09 10:33
+
+# game/episode022.rpy:311
+translate italian ep022_temple_simulation_cae672d6:
+
+    # c "Woah, she’s making it float with her mind?"
+    c "Wow, lo sta facendo fluttuare con la mente?"
+
+# game/episode022.rpy:950
+translate italian ep022_nadya_talk_ced8c7f1:
+
+    # na "What I know of these conglomerates is that they attract all kinds of people."
+    na "Quello che so di questi conglomerati è che attraggono ogni tipo di persona."
+
+# game/episode022.rpy:2491
+translate italian ep022_e_l_fucking_c269ad53:
+
+    # "I wanted to mark both my girlfriends’ faces, so I pulled out of Eva."
+    "Volevo segnare entrambi i volti delle mie ragazze, quindi mi sono ritirato da Eva."
 

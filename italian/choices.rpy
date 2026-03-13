@@ -1862,3 +1862,91 @@ translate italian strings:
     old "Filter by Type"
     new "Filtra per tipo"
 
+# TODO: Translation updated at 2026-03-09 10:33
+
+translate italian strings:
+
+    # game/choices.rpy:10
+    old "Participated in the R'o orgy."
+    new "Ha partecipato all'orgia degli R'o."
+
+    # game/choices.rpy:10
+    old "Told Thim in no uncertain terms to be respectful to Vess."
+    new "Ha detto a Thim senza mezzi termini di essere rispettoso con Vess."
+
+    # game/choices.rpy:10
+    old "Meeting with geneticist Karan Hreir, who asks you to hunt for a boverin egg on Sagueliath. During your stay on Verdant Station, Ziv asks you to rescue Raene from her father on Verdigris. Possible visit to a rustic simulation for a corporation called ConVitæ."
+    new "Incontro con il genetista Karan Hreir, che ti chiede di andare a caccia di un uovo di boverin su Sagueliath. Successiva permanenza sulla Stazione Verdant, Ziv ti chiede di salvare Raene da suo padre su Verdigris e possibile visita a una simulazione rustica per una corporazione chiamata ConVitæ."
+
+    # game/choices.rpy:10
+    old "Supported Lilly's decision to join the boverin hunt on Sagueliath."
+    new "Ha appoggiato la decisione di Lilly di partecipare alla caccia al boverino su Sagueliath."
+
+    # game/choices.rpy:10
+    old "Returning to Karan Hreir, you find him murdered and his base ransacked. Information about the warrior women, the Acarhyn, is found on the data core of one of Hreir's bots. The location of their planet is a secret and an information broker called Cetruvar had more information. Needing a large sum of money to get an invitation to one of the high-society parties Cetruvar organizes regularly, you set out to undertake several missions, including the retrieval of the remains of a hero for the Tubloshi. Raene and Ziv join the crew."
+    new "Tornando a Karan Hreir lo trovi assassinato e la sua base saccheggiata. Nel nucleo dati di uno dei bot di Hreir vengono trovate informazioni sulle donne guerriere, le Acarhyn. La posizione del loro pianeta è segreta e un intermediario di informazioni chiamato Cetruvar ha maggiori informazioni. Avendo bisogno di una grossa somma di denaro per ottenere un invito a una delle feste dell'alta società che Cetruvar organizza regolarmente, parti per intraprendere diverse missioni, tra cui il recupero dei resti di un eroe Rhenkoy per i Tubloshi. Raene e Ziv si uniscono all'equipaggio."
+
+    # game/choices.rpy:10
+    old "Dismissed Jade to prevent her from having sex with you."
+    new "Hai dimesso Giada per evitare che facesse sesso con te."
+
+    # game/choices.rpy:10
+    old "The quest for a forger willing to produce invitations to Cetruvar's party takes you to Barranthis. However, the forger Vitriv is being held captive by crime boss Doarn. In order to get him released you strike a deal with Doarn to take out one of his competitors, Garomph. You find Garomph in a factory full of female cattle and ultimately kill him. Doarn releases Vitriv upon your return to his casino, but retaliates after learning about the destruction of Garomph's factory. Pursued by Doarn's lackeys, you flee into an asteroid belt."
+    new "La ricerca di un falsario disposto a produrre inviti per la festa di Cetruvar ti porta a Barranthis. Il falsario Vitriv è tenuto prigioniero dal boss del crimine Doarn. Per farlo liberare, devi fare un accordo con Doarn per eliminare uno dei suoi concorrenti, Garomph. Trovi Garomph in una fabbrica piena di femmine di bestiame e alla fine lo uccidi. Doarn rilascia Vitriv al tuo ritorno al suo casinò, ma si vendica dopo aver saputo della distruzione della fabbrica di Garomph. Inseguito dai lacchè di Doarn, fuggi in una cintura di asteroidi."
+
+    # game/choices.rpy:10
+    old "Lost inside the asteroid belt, you are ambushed by an unknown ship and wake up as a captive at a research facility. The facility turns out to belong to ConVitæ where they experiment on the minds of their prisoners. After a confusing confinement, shaking up some of the relationships with the women of your crew, you manage to escape from the base on Höfel MDCL."
+    new "Perso nella cintura di asteroidi, subisci un'imboscata da una nave sconosciuta e ti risvegli come prigioniero in una struttura di ricerca. La struttura si rivela essere una ConVitæ dove si fanno esperimenti sulle menti dei prigionieri. Dopo una confusa prigionia, che scuote alcuni rapporti con le donne del tuo equipaggio, riesci a fuggire dalla base su Höfel MDCL."
+
+    # game/choices.rpy:10
+    old "Despite losing so many months in captivity, you forge ahead to Cetruvar's party on Almagest. Infiltrating the mansion, you encounter another team of purple-clad operatives who nearly kill Cetruvar. After incapicitating them you are forced to stay the night at the mansion. The nightly hours allow you to roam the mansion more freely and a search of Cetruvar's office finally yielded the location of the Acarhyn, a planet called Erigone where a Virgin Queen now rules. After a brief gunfight, you escape the mansion and head out to Erigone."
+    new "Nonostante i molti mesi di prigionia, sei riuscito a raggiungere la festa di Cetruvar ad Almagest. Infiltrandoti nella villa, incontri un'altra squadra di agenti vestiti di viola che per poco non uccidono Cetruvar. Dopo averli messi fuori combattimento, sei costretto a passare la notte nella villa. Le ore notturne ti hanno permesso di vagare più liberamente nella villa e una ricerca nell'ufficio di Cetruvar ti ha permesso di scoprire l'ubicazione dell'Acarhyn, un pianeta chiamato Erigone dove ora governa una Regina Vergine. Dopo un breve scontro a fuoco, fuggi dalla villa e vai su Erigone."
+
+    # game/choices.rpy:10
+    old "A Hunt is called by the Virgin Queen to slay a beast threatening the Acarhyn and you are allowed to participate. The outcome of the Hunt will further cement your standing with the warrior or priest caste and possibly allow you to escape Erigone together with Eva. From Eva you also learn about the Prophecy that has motivated the Acarhyn to kidnap her and piqued the interest of a man called the Confessor and several high-ranking members of the Sovereignty elite, including your father Agust."
+    new "La Regina Vergine ha indetto una caccia per uccidere una bestia che minaccia gli Acarhyn e tu puoi partecipare. L'esito della caccia rafforzerà la tua posizione nella casta dei guerrieri o dei sacerdoti e forse ti permetterà di fuggire da Erigon insieme a Eva. Da Eva apprenderai anche della Profezia che ha spinto gli Acarhyn a rapirla e che ha suscitato l'interesse di un uomo chiamato il Confessore e di diversi membri di alto rango dell'élite della Sovranità, tra cui tuo padre Agust."
+
+    # game/choices.rpy:10
+    old "Neither accepted nor declined Erylin's dinner invitation."
+    new "Non hai accettato né rifiutato l'invito a cena di Erylin."
+
+    # game/choices.rpy:10
+    old "Empathized with Vess after she told you about her youth."
+    new "Si è immedesimato in Vess dopo averle raccontato della sua giovinezza."
+
+    # game/choices.rpy:10
+    old "Was kind to Vess after she spilled the details of her betrayal."
+    new "Si è comportato con gentilezza nei confronti di Vess che le ha rivelato i dettagli del suo tradimento."
+
+    # game/choices.rpy:10
+    old "Was furious with Vess after she spilled the details of her betrayal."
+    new "Si è comportata in modo furioso nei confronti di Vess che ha rivelato i dettagli del suo tradimento."
+
+    # game/choices.rpy:10
+    old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbiting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after your friend Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
+    new "Dato che tuo padre è un attore attivo nella ricerca della Profezia, decidi di recarti a Kepler XIV, dove Agust trascorre le sue vacanze annuali, e di esigere da lui delle risposte. Tua madre Yve ti fornisce il luogo in cui si trova Agust, un esclusivo bordello chiamato Teatro dei Sensi, situato su una luna di piacere in orbita attorno a Kepler XIV.\n\nIl bordello si rivela una trappola e tu vieni catturato da tuo padre e portato sulla sua nave requisita, la TGN Jaculus. Agust sta cercando la tua amica Eva e ti tortura per farti dare le informazioni. Dopo che Eva e il resto dell'equipaggio hanno evitato per un pelo la cattura, tuo padre ti getta fuori da una camera d'equilibrio come sacrificio per una specie chiamata Scolguin, che si suppone possa dirgli di più sulla Profezia."
+
+    # game/choices.rpy:10
+    old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbiting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after his daughter Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
+    new "Dato che tuo padre è un attore attivo nella ricerca della Profezia, decidi di recarti a Kepler XIV, dove Agust trascorre le sue vacanze annuali, e di esigere da lui delle risposte. Tua madre Yve ti fornisce il luogo in cui si trova Agust, un esclusivo bordello chiamato Teatro dei Sensi, situato su una luna di piacere in orbita attorno a Kepler XIV.\n\nIl bordello si rivela una trappola e tu vieni catturato da tuo padre e portato sulla sua nave requisita, la TGN Jaculus. Agust sta cercando sua figlia Eva e ti tortura per farti dare le informazioni. Dopo che Eva e il resto dell'equipaggio hanno evitato per un pelo la cattura, tuo padre ti getta fuori da una camera d'equilibrio come sacrificio per una specie chiamata Scolguin, che si suppone possa dirgli di più sulla Profezia."
+
+    # game/choices.rpy:10
+    old "Gave one of the Tyuarene anal."
+    new "Ha fatto sesso anale con una delle Tyuarene."
+
+    # game/choices.rpy:10
+    old "The information from the Scolguin Queen leads you to Taagmar, where the next piece of the puzzle stands, an ancient gateway. Taagmar is already under attack by Sovereignty forces, led by your father and sanctioned by the Sovereignty Council. As Taagmar is an active warzone, you need to plan your approach to the planet carefully.\n\nWhile gathering information on the nearby Altum Station, you encounter the mercenary Glixken again, who is now working for the Bloodhound Kvi and the Sovereignty. Eva is separated from the rest of the crew and almost falls into Glixken's hands. You manage to extract Eva from enemy territory and flee Altum Station, with Glixken and his mercs in hot pursuit. Your shuttle is shot down by Glixken and you crash on a desert planet."
+    new "Le informazioni fornite dalla Regina Scolguin ti portano a Taagmar, dove si trova il prossimo pezzo del puzzle, un antico portale. Taagmar è già sotto attacco da parte delle forze della Sovranità, guidate da tuo padre e autorizzate dal Consiglio della Sovranità. Poiché Taagmar è una zona di guerra attiva, devi pianificare con attenzione il tuo avvicinamento al pianeta.\n\nDurante la raccolta di informazioni sulla vicina stazione di Altum, incontri di nuovo il mercenario Glixken, che ora lavora per il Segugio Kvi e la Sovranità. Eva viene separata dal resto dell'equipaggio e per poco non cade nelle mani di Glixken. Riesci ad estrarre Eva dal territorio nemico e a fuggire dalla stazione di Altum, con Glixken e i suoi mercenari all'inseguimento. La tua navetta viene abbattuta da Glixken e ti schianti su un pianeta deserto."
+
+    # game/choices.rpy:10
+    old "Alone with Eva on the desert planet you wait for rescue. After a skirmish with the mercs, resulting in the killing of Glixken, you and the rest of the crew of the Iron Bastard are reunited. Armed with the knowledge gathered on Altum Station, you head out to Taagmar.\n\nNavigating the conflict on Taagmar's surface, disguised as Sovereignty soldiers, you reach the gateway in the middle of the capital. Agust, Erylin and the Confessor perform a ritual to open the gateway and you slip through, together with the rest of the Sovereignty forces.\n\nAfter passing the gate you're on another planet, its surface filled with dusty ruins. The Sovereignty forces are centered near a large temple which they attempt to breach. You rejoin the enemy as they gain access to the temple and find a large glowing crystal called the Key."
+    new "Da solo con Eva sul pianeta deserto aspetti i soccorsi. Dopo una scaramuccia con i mercenari, che ha portato all'uccisione di Glixken, tu e il resto dell'equipaggio dell'Iron Bastard vi riunite. Armati delle conoscenze raccolte sulla stazione di Altum, vi dirigete verso Taagmar.\n\nNavigando il conflitto sulla superficie di Taagmar, travestiti da soldati della Sovranità, raggiungete il portale nel mezzo della capitale. Agust, Erylin e la Depositaria eseguono un rituale per aprire il portale e tu lo attraversi, insieme al resto delle forze della Sovranità.\n\nDopo aver superato il portale ti trovi su un altro pianeta, la cui superficie è piena di rovine polverose. Le forze della Sovranità sono concentrate vicino a un grande tempio che cercano di fare breccia. Ti sei ricongiunto al nemico quando hanno ottenuto l'accesso al tempio e hanno trovato un grande cristallo luminoso chiamato Chiave."
+
+    # game/choices.rpy:10
+    old "Spied on Thyia masturbating."
+    new "Ha spiato Thyia che si masturbava."
+
+    # game/choices.rpy:10
+    old "Apologized to Ziv."
+    new "Si è scusata con Ziv"
+

@@ -220,11 +220,11 @@ translate italian strings:
 
     # game/script.rpy:627
     old "THANK YOU"
-    new ""
+    new "GRAZIE"
 
     # game/script.rpy:628
     old "A big thank you to my top tier backers, you rock!"
-    new ""
+    new "Un grande grazie ai miei sostenitori di alto livello, siete fantastici!"
 
 # TODO: Translation updated at 2025-12-04 22:34
 

@@ -24290,7 +24290,7 @@ translate italian ep021_group_talk_76bf00fc:
 translate italian ep021_group_talk_c4352972:
 
     # l "You were on the prowl too, weren’t you Mom?"
-    l ""
+    l "Anche tu eri a caccia, vero mamma?"
 
 # game/episode021.rpy:3280
 translate italian ep021_raene_sex_f0ca5203:
@@ -24463,4 +24463,12 @@ translate italian strings:
     # game/episode021.rpy:393
     old "Marleybone Irregulars Rendezvous Point"
     new "Punto di ritrovo degli Irregolari di Marleybone"
+
+# TODO: Translation updated at 2026-03-09 10:33
+
+# game/episode021.rpy:7479
+translate italian ep021_vess_sex_hard_25910545:
+
+    # "Her body was slick with the saliva I elicited from her throat."
+    "Il suo corpo era lucido per la saliva che le avevo fatto uscire dalla gola."
 

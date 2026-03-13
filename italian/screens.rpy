@@ -576,39 +576,39 @@ translate italian strings:
 
     # game/screens.rpy:463
     old "v[config.version] • Taboo Edition, Extra Scenes"
-    new ""
+    new "v[config.version] • Edizione Taboo, Scene extra"
 
     # game/screens.rpy:465
     old "v[config.version] • Standard Edition, Extra Scenes"
-    new ""
+    new "v[config.version] • Edizione standard, scene extra"
 
     # game/screens.rpy:468
     old "v[config.version] • Taboo Edition"
-    new ""
+    new "v[config.version] • Edizione Taboo"
 
     # game/screens.rpy:470
     old "v[config.version] • Standard Edition"
-    new ""
+    new "v[config.version] • Edizione Standard"
 
     # game/screens.rpy:1473
     old "Português (parcial)"
-    new ""
+    new "Português (parcial)"
 
     # game/screens.rpy:1474
     old "Français"
-    new ""
+    new "Français"
 
     # game/screens.rpy:1477
     old "Italiano (parziale)"
-    new ""
+    new "Italiano (parziale)"
 
     # game/screens.rpy:1478
     old "Español (parcial)"
-    new ""
+    new "Español (parcial)"
 
     # game/screens.rpy:1479
     old "Русский (частичный)"
-    new ""
+    new "Русский (частичный)"
 
 # TODO: Translation updated at 2025-12-04 22:34
 
@@ -649,4 +649,24 @@ translate italian strings:
     # game/screens.rpy:1532
     old "Italiano"
     new "Italiano"
+
+# TODO: Translation updated at 2026-03-09 10:33
+
+translate italian strings:
+
+    # game/screens.rpy:707
+    old "Yes {size=-5}(Submissive){/size}"
+    new "Sì {size=-5}(Sottomesso){/size}"
+
+# TODO: Translation updated at 2026-03-10 11:14
+
+translate italian strings:
+
+    # game/screens.rpy:1533
+    old "Português"
+    new "Português"
+
+    # game/screens.rpy:1534
+    old "Español"
+    new "Español"
 
