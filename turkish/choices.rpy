@@ -1930,3 +1930,91 @@ translate turkish strings:
     old "Supplicant’s Stone"
     new "Supplicant'ın Taşı"
 
+# TODO: Translation updated at 2026-03-09 10:58
+
+translate turkish strings:
+
+    # game/choices.rpy:10
+    old "Participated in the R'o orgy."
+    new "R'o orgisine katıldı."
+
+    # game/choices.rpy:10
+    old "Told Thim in no uncertain terms to be respectful to Vess."
+    new "Thim'e Vess'e saygılı olması gerektiğini kesin bir dille söyledi."
+
+    # game/choices.rpy:10
+    old "Meeting with geneticist Karan Hreir, who asks you to hunt for a boverin egg on Sagueliath. During your stay on Verdant Station, Ziv asks you to rescue Raene from her father on Verdigris. Possible visit to a rustic simulation for a corporation called ConVitæ."
+    new "Genetikçi Karan Hreir ile görüşme, senden Sagueliath'ta boverin yumurtası avlamanı istiyor. Verdant Station'da kalış sırasında Ziv, Raene'yi babasından Verdigris'te kurtarmanı istiyor ve ConVitæ adlı şirket için rustik simülasyona olası ziyaret."
+
+    # game/choices.rpy:10
+    old "Supported Lilly's decision to join the boverin hunt on Sagueliath."
+    new "Lilly'nin Sagueliath'ta boverin avına katılma kararını destekledi."
+
+    # game/choices.rpy:10
+    old "Returning to Karan Hreir, you find him murdered and his base ransacked. Information about the warrior women, the Acarhyn, is found on the data core of one of Hreir's bots. The location of their planet is a secret and an information broker called Cetruvar had more information. Needing a large sum of money to get an invitation to one of the high-society parties Cetruvar organizes regularly, you set out to undertake several missions, including the retrieval of the remains of a hero for the Tubloshi. Raene and Ziv join the crew."
+    new "Karan Hreir'e döndüğünde onu öldürülmüş ve üssü talan edilmiş buluyorsun. Savaşçı kadınlar Acarhyn hakkında bilgi, Hreir'in botlarından birinin veri çekirdeğinde bulunuyor. Gezegenlerinin konumu bir sır ve Cetruvar adlı bilgi komisyoncusu daha fazla bilgiye sahip. Cetruvar'ın düzenli olarak organize ettiği üst sınıf partilerinden birine davet almak için büyük miktarda paraya ihtiyaç duyarak, Tubloshi için bir Rhenkoy kahramanının kalıntılarını geri alma dahil olmak üzere çeşitli görevler üstlenmeye karar veriyorsun. Raene ve Ziv mürettebata katılıyor."
+
+    # game/choices.rpy:10
+    old "Dismissed Jade to prevent her from having sex with you."
+    new "Jade'i seninle seks yapmasını engellemek için kovdun."
+
+    # game/choices.rpy:10
+    old "The quest for a forger willing to produce invitations to Cetruvar's party takes you to Barranthis. However, the forger Vitriv is being held captive by crime boss Doarn. In order to get him released you strike a deal with Doarn to take out one of his competitors, Garomph. You find Garomph in a factory full of female cattle and ultimately kill him. Doarn releases Vitriv upon your return to his casino, but retaliates after learning about the destruction of Garomph's factory. Pursued by Doarn's lackeys, you flee into an asteroid belt."
+    new "Cetruvar'ın partisine davetiye üretmeye istekli bir sahtekar arayışı seni Barranthis'e götürür. Sahtekar Vitriv, suç patronu Doarn tarafından esir tutuluyor. Onu serbest bıraktırmak için Doarn'la anlaşma yapıp rakiplerinden biri olan Garomph'u öldürmeyi kabul ediyorsun. Garomph'u dişi sığırlarla dolu bir fabrikada bulup sonunda öldürüyorsun. Doarn, kumarhanesine döndüğünde Vitriv'i serbest bırakır, ancak Garomph'un fabrikasının yıkımını öğrendikten sonra misilleme yapar. Doarn'ın adamları tarafından takip edilirken, bir asteroid kuşağına kaçıyorsun."
+
+    # game/choices.rpy:10
+    old "Lost inside the asteroid belt, you are ambushed by an unknown ship and wake up as a captive at a research facility. The facility turns out to belong to ConVitæ where they experiment on the minds of their prisoners. After a confusing confinement, shaking up some of the relationships with the women of your crew, you manage to escape from the base on Höfel MDCL."
+    new "Asteroid kuşağında kaybolmuşken, bilinmeyen bir gemi tarafından pusuya düşürülüyorsun ve bir araştırma tesisinde esir olarak uyanıyorsun. Tesis, mahkumların zihinleri üzerinde deney yapan bir ConVitæ çıkıyor. Kafa karıştırıcı bir hapisten sonra, mürettebatındaki kadınlarla olan ilişkilerini sarsan olaylar yaşayarak Höfel MDCL'deki üsten kaçmayı başarıyorsun."
+
+    # game/choices.rpy:10
+    old "Despite losing so many months in captivity, you forge ahead to Cetruvar's party on Almagest. Infiltrating the mansion, you encounter another team of purple-clad operatives who nearly kill Cetruvar. After incapicitating them you are forced to stay the night at the mansion. The nightly hours allow you to roam the mansion more freely and a search of Cetruvar's office finally yielded the location of the Acarhyn, a planet called Erigone where a Virgin Queen now rules. After a brief gunfight, you escape the mansion and head out to Erigone."
+    new "Esarette geçirdiğin ayları kaybetmene rağmen, Almagest'teki Cetruvar'ın partisine doğru ilerliyorsun. Konağa sızarken, Cetruvar'ı neredeyse öldüren mor giysili başka bir operatif ekibiyle karşılaşıyorsun. Onları etkisiz hale getirdikten sonra geceyi konakta geçirmek zorunda kalıyorsun. Gece saatleri konakta daha özgürce dolaşmana izin veriyor ve Cetruvar'ın ofisinde yaptığın arama sonunda Acarhyn'ların yerini buluyorsun - Bakire Kraliçe'nin hüküm sürdüğü Erigone adlı bir gezegen. Kısa bir çatışmadan sonra konaktan kaçıp Erigone'ye doğru yola çıkıyorsun."
+
+    # game/choices.rpy:10
+    old "A Hunt is called by the Virgin Queen to slay a beast threatening the Acarhyn and you are allowed to participate. The outcome of the Hunt will further cement your standing with the warrior or priest caste and possibly allow you to escape Erigone together with Eva. From Eva you also learn about the Prophecy that has motivated the Acarhyn to kidnap her and piqued the interest of a man called the Confessor and several high-ranking members of the Sovereignty elite, including your father Agust."
+    new "Bakire Kraliçe, Acarhyn'ları tehdit eden bir canavarı öldürmek için bir Av ilan ediyor ve katılmana izin veriliyor. Av'ın sonucu, savaşçı ya da rahip kastıyla olan durumunu daha da pekiştirecek ve muhtemelen Eva ile birlikte Erigon'dan kaçmana izin verecek. Eva'dan ayrıca Acarhyn'ları onu kaçırmaya motive eden ve İtirafçı adlı bir adamın ile baban Agust dahil Egemenlik elitinin birkaç üst düzey üyesinin ilgisini çeken Kehanet hakkında bilgi ediniyorsun."
+
+    # game/choices.rpy:10
+    old "Neither accepted nor declined Erylin's dinner invitation."
+    new "Erylin'in yemek davetini ne kabul ettin ne de reddettin."
+
+    # game/choices.rpy:10
+    old "Empathized with Vess after she told you about her youth."
+    new "Vess gençliğini anlattıktan sonra ona empati kurdun."
+
+    # game/choices.rpy:10
+    old "Was kind to Vess after she spilled the details of her betrayal."
+    new "Vess ihanetinin detaylarını dökerken ona nazikçe davrandın."
+
+    # game/choices.rpy:10
+    old "Was furious with Vess after she spilled the details of her betrayal."
+    new "Vess ihanetinin detaylarını dökerken ona öfkeyle davrandın."
+
+    # game/choices.rpy:10
+    old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbiting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after your friend Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
+    new "Babanın Kehanet'in peşinde aktif bir oyuncu olmasıyla, her yıl tatil yaptığı Kepler XIV'e gidip ondan cevaplar talep etmeye karar veriyorsun. Annen Yve, Agust'un yerini sana veriyor - Kepler XIV'ü çevreleyen bir zevk ayında bulunan Theater of Senses adlı özel bir genelev.\n\nGenelev bir tuzak çıkıyor ve baban tarafından yakalanıp ele geçirdiği gemi TGN Jaculus'a götürülüyorsun. Agust arkadaşın Eva'nın peşinde ve bilgiyi vermesi için sana işkence ediyor. Eva ve mürettebatın geri kalanı zar zor yakalanmaktan kurtulduktan sonra, baban seni Kehanet hakkında daha fazla şey söyleyebileceği varsayılan Scolguin adlı bir türe kurban olarak hava kilidinden dışarı atıyor."
+
+    # game/choices.rpy:10
+    old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbiting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after his daughter Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
+    new "Babanın Kehanet'in peşinde aktif bir oyuncu olmasıyla, her yıl tatil yaptığı Kepler XIV'e gidip ondan cevaplar talep etmeye karar veriyorsun. Annen Yve, Agust'un yerini sana veriyor - Kepler XIV'ü çevreleyen bir zevk ayında bulunan Theater of Senses adlı özel bir genelev.\n\nGenelev bir tuzak çıkıyor ve baban tarafından yakalanıp ele geçirdiği gemi TGN Jaculus'a götürülüyorsun. Agust kızı Eva'nın peşinde ve bilgiyi vermesi için sana işkence ediyor. Eva ve mürettebatın geri kalanı zar zor yakalanmaktan kurtulduktan sonra, baban seni Kehanet hakkında daha fazla şey söyleyebileceği varsayılan Scolguin adlı bir türe kurban olarak hava kilidinden dışarı atıyor."
+
+    # game/choices.rpy:10
+    old "Gave one of the Tyuarene anal."
+    new "Tyuarene'lerden birine anal yaptın"
+
+    # game/choices.rpy:10
+    old "The information from the Scolguin Queen leads you to Taagmar, where the next piece of the puzzle stands, an ancient gateway. Taagmar is already under attack by Sovereignty forces, led by your father and sanctioned by the Sovereignty Council. As Taagmar is an active warzone, you need to plan your approach to the planet carefully.\n\nWhile gathering information on the nearby Altum Station, you encounter the mercenary Glixken again, who is now working for the Bloodhound Kvi and the Sovereignty. Eva is separated from the rest of the crew and almost falls into Glixken's hands. You manage to extract Eva from enemy territory and flee Altum Station, with Glixken and his mercs in hot pursuit. Your shuttle is shot down by Glixken and you crash on a desert planet."
+    new "Scolguin Kraliçesi'nden gelen bilgiler seni Taagmar'a götürüyor, burada bulmacanın bir sonraki parçası, antik bir geçit bulunuyor. Taagmar zaten baban tarafından yönetilen ve Egemenlik Konseyi tarafından onaylanan Egemenlik güçleri tarafından saldırı altında. Taagmar aktif bir savaş bölgesi olduğu için gezegene yaklaşımını dikkatli planlamalısın.\n\nYakındaki Altum İstasyonu'nda bilgi toplarken, artık Bloodhound Kvi ve Egemenlik için çalışan paralı asker Glixken ile tekrar karşılaştın. Eva mürettebatın geri kalanından ayrıldı ve neredeyse Glixken'in eline düştü. Eva'yı düşman bölgesinden çıkarmayı başardın ve Glixken ve paralı askerleri sıcak takipte iken Altum istasyonundan kaçtın. Mekiğin Glixken tarafından vuruldu ve çöl gezegeninde düştün."
+
+    # game/choices.rpy:10
+    old "Alone with Eva on the desert planet you wait for rescue. After a skirmish with the mercs, resulting in the killing of Glixken, you and the rest of the crew of the Iron Bastard are reunited. Armed with the knowledge gathered on Altum Station, you head out to Taagmar.\n\nNavigating the conflict on Taagmar's surface, disguised as Sovereignty soldiers, you reach the gateway in the middle of the capital. Agust, Erylin and the Confessor perform a ritual to open the gateway and you slip through, together with the rest of the Sovereignty forces.\n\nAfter passing the gate you're on another planet, its surface filled with dusty ruins. The Sovereignty forces are centered near a large temple which they attempt to breach. You rejoin the enemy as they gain access to the temple and find a large glowing crystal called the Key."
+    new "Çöl gezegeninde Eva ile yalnız kurtarılmayı bekliyorsun. Paralı askerlerle çatışma sonrasında Glixken'in öldürülmesiyle sen ve Iron Bastard mürettebatının geri kalanı yeniden birleştiniz. Altum İstasyonu'nda toplanan bilgilerle donanmış olarak Taagmar'a doğru yola çıktınız.\n\nEgemenlik askerleri kılığında Taagmar yüzeyindeki çatışmada yol alarak başkentin ortasındaki geçide ulaştınız. Agust, Erylin ve İtirafçı geçidi açmak için bir ritüel gerçekleştirdi ve Egemenlik güçlerinin geri kalanıyla birlikte içeri süzüldünüz.\n\nGeçidi geçtikten sonra başka bir gezegendeydiniz, yüzeyi tozlu harabellerle doluydu. Egemenlik güçleri girmeye çalıştıkları büyük bir tapınağın yakınında toplanmıştı. Tapınağa erişim sağladıklarında düşmana yeniden katıldınız ve Anahtar adlı büyük parlayan kristali buldunuz."
+
+    # game/choices.rpy:10
+    old "Spied on Thyia masturbating."
+    new "Thyia mastürbasyon yaparken onu gözetledin."
+
+    # game/choices.rpy:10
+    old "Apologized to Ziv."
+    new "Ziv'den özür diledin"
+

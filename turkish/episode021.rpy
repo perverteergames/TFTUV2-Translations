@@ -24261,3 +24261,11 @@ translate turkish strings:
     old "Marleybone Irregulars Rendezvous Point"
     new "Marleybone Düzensizleri Buluşma Noktası"
 
+# TODO: Translation updated at 2026-03-09 10:58
+
+# game/episode021.rpy:7479
+translate turkish ep021_vess_sex_hard_25910545:
+
+    # "Her body was slick with the saliva I elicited from her throat."
+    "Vücudu, boğazından çıkardığım tükürükle kaygandı."
+

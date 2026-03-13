@@ -574,3 +574,23 @@ translate turkish strings:
     old "Italiano"
     new "Italiano"
 
+# TODO: Translation updated at 2026-03-09 10:58
+
+translate turkish strings:
+
+    # game/screens.rpy:707
+    old "Yes {size=-5}(Submissive){/size}"
+    new "Evet {size=-5}(İtaatkar){/size}"
+
+# TODO: Translation updated at 2026-03-10 11:15
+
+translate turkish strings:
+
+    # game/screens.rpy:1533
+    old "Português"
+    new "Português"
+
+    # game/screens.rpy:1534
+    old "Español"
+    new "Español"
+

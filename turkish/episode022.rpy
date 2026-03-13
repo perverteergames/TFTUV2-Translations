@@ -12016,3 +12016,379 @@ translate turkish ep022_ve_ce_sex_submissive_choices_5623c9c8:
     # c "I’m going to shoot your dirty little pussy full of cum."
     c "Senin pis küçük amını spermle dolduracağım."
 
+# TODO: Translation updated at 2026-02-09 10:46
+
+# game/episode022.rpy:1277
+translate turkish ep022_temple_hostiles_76965b0d:
+
+    # th "Their tech is way more advanced than ours, we need to make do with just the scraps."
+    th "Onların teknolojisi bizimkinden çok daha gelişmiş, biz sadece artıklarıyla yetinmek zorundayız."
+
+# game/episode022.rpy:1311
+translate turkish ep022_temple_hostiles_76965b0d_1:
+
+    # th "Their tech is way more advanced than ours, we need to make do with just the scraps."
+    th "Onların teknolojisi bizimkinden çok daha gelişmiş, biz sadece artıklarıyla yetinmek zorundayız."
+
+# TODO: Translation updated at 2026-03-09 10:58
+
+# game/episode022.rpy:116
+translate turkish episode022_6f3b9ca4:
+
+    # woman "Because you weren’t able to save your son and daughter from the disgrace of desertion?"
+    woman "Çünkü oğlunu ve kızını terk edilmenin utancından kurtaramadın mı?"
+
+# game/episode022.rpy:118
+translate turkish episode022_de2225fd:
+
+    # woman "Do you think they’re grateful you were too much of a coward to hunt them down and bring them to justice?"
+    woman "Onları yakalayıp adalete teslim etmek için çok korkak davrandığın için sana minnettar olduklarını mı düşünüyorsun?"
+
+# game/episode022.rpy:214
+translate turkish ep022_temple_simulation_a60cdb65:
+
+    # c "Ever heard of the Diclonae, Mom?"
+    c "Diclonae'yi hiç duydun mu anne?"
+
+# game/episode022.rpy:283
+translate turkish ep022_temple_simulation_4a536e0d:
+
+    # na "To be honest, I’m not sure how successful this civilization was on Petrarch, since I’ve never heard of this transfusion process."
+    na "Dürüst olmak gerekirse, bu nakil sürecini hiç duymadığım için, bu medeniyetin Petrarch'ta ne kadar başarılı olduğunu bilmiyorum."
+
+# game/episode022.rpy:288
+translate turkish ep022_temple_simulation_ef7bade7:
+
+    # th "Wish she’d drop the whole “Your Majesty” crap."
+    th "Keşke şu “Majesteleri” saçmalığını bıraksa."
+
+# game/episode022.rpy:290
+translate turkish ep022_temple_simulation_d06fb36f:
+
+    # c "She’d probably lose her head if she didn’t use those honorifics."
+    c "O saygı ifadeleri kullanmasaydı muhtemelen kafasını kaybederdi."
+
+# game/episode022.rpy:311
+translate turkish ep022_temple_simulation_cae672d6:
+
+    # c "Woah, she’s making it float with her mind?"
+    c "Vay canına, zihniyle onu havada uçuruyor mu?"
+
+# game/episode022.rpy:323
+translate turkish ep022_temple_simulation_ddb07a7d:
+
+    # man2 "I’m sorry, ma’am, but there’s been a security incident."
+    man2 "Üzgünüm hanımefendi, ancak bir güvenlik olayı meydana geldi."
+
+# game/episode022.rpy:328
+translate turkish ep022_temple_simulation_c50b09e0:
+
+    # man2 "There’s an invasion force at our doorstep, ma’am."
+    man2 "Kapımızın önünde bir işgal gücü var, hanımefendi."
+
+# game/episode022.rpy:333
+translate turkish ep022_temple_simulation_edd045ad:
+
+    # man2 "It’s an alliance of the lesser races, ma’am."
+    man2 "Bu, alt ırkların ittifakıdır, hanımefendi."
+
+# game/episode022.rpy:383
+translate turkish ep022_temple_simulation_9f8ef167:
+
+    # "With those words, the squadron of soldiers left."
+    "Bu sözlerle askerler ayrıldılar."
+
+# game/episode022.rpy:388
+translate turkish ep022_temple_simulation_e00bd287:
+
+    # "The scientist who’d spoken to the soldiers collapsed on the ground, clutching her chest."
+    "Askerlerle konuşan bilim insanı göğsünü tutarak yere yığıldı."
+
+# game/episode022.rpy:416
+translate turkish ep022_temple_simulation_f404df53:
+
+    # c "Have you ever heard about a genocide on Petrarch, Mom?"
+    c "Petrarch'ta bir soykırımdan hiç duydun mu, anne?"
+
+# game/episode022.rpy:558
+translate turkish ep022_eva_talk_5c4a6b12:
+
+    # c "So either she’s spying on our Dad, playing the long game, or acting as a free agent."
+    c "Yani ya babamızı gözetliyor, uzun vadeli bir plan yapıyor ya da serbest ajan olarak hareket ediyor."
+
+# game/episode022.rpy:560
+translate turkish ep022_eva_talk_0701b072:
+
+    # c "So either she’s spying on my Dad, playing the long game, or acting as a free agent."
+    c "Yani ya babamı gözetliyor, uzun vadeli bir plan yapıyor ya da serbest ajan olarak hareket ediyor."
+
+# game/episode022.rpy:950
+translate turkish ep022_nadya_talk_ced8c7f1:
+
+    # na "What I know of these conglomerates is that they attract all kinds of people."
+    na "Bu holdingler hakkında bildiğim şey, her türden insanı cezbettikleri."
+
+# game/episode022.rpy:1133
+translate turkish ep022_ziv_talk_c52d7eea:
+
+    # zi "It’s not something we advertise widely, people with bad intentions might take notice."
+    zi "Bu, geniş çapta reklamını yaptığımız bir şey değil, kötü niyetli kişiler dikkatini çekebilir."
+
+# game/episode022.rpy:1204
+translate turkish ep022_temple_hostiles_9fadff43:
+
+    # "Thyia, Céline, Jade and Aven busied themselves with rigging the necessary cables."
+    "Thyia, Céline, Jade ve Aven gerekli kabloları bağlamakla meşguldüler."
+
+# game/episode022.rpy:1360
+translate turkish ep022_temple_hostiles_f02c6a36:
+
+    # c "Yes, we know all about that eugenics program you’re so hell-bent on acquiring."
+    c "Evet, elde etmek için bu kadar kararlı olduğun o öjeni programını çok iyi biliyoruz."
+
+# game/episode022.rpy:1391
+translate turkish ep022_temple_hostiles_52752313:
+
+    # co "When we first found you on Erigone, your sister was crowned the queen of that martial breed of females."
+    co "Seni Erigone'da ilk bulduğumuzda, kız kardeşin o savaşçı kadın ırkının kraliçesi olarak taç giymişti."
+
+# game/episode022.rpy:1393
+translate turkish ep022_temple_hostiles_bceb52c1:
+
+    # co "When we first found you on Erigone, this girl here was crowned the queen of that martial breed of females."
+    co "Seni Erigone'da ilk bulduğumuzda, bu kız o savaşçı kadın ırkının kraliçesi olarak taç giymişti."
+
+# game/episode022.rpy:1398
+translate turkish ep022_temple_hostiles_69fdd57c:
+
+    # c "You’re going to subject Eva to the treatment the Shixses forced on their victims?"
+    c "Eva'yı Shixses'in kurbanlarına uyguladığı muameleye maruz bırakacak mısın?"
+
+# game/episode022.rpy:1399
+translate turkish ep022_temple_hostiles_471d941d:
+
+    # ag "It’s the only way to bring about the prophesied singularity."
+    ag "Bu, kehanet edilen tekilliği gerçekleştirmek için tek yoldur."
+
+# game/episode022.rpy:1468
+translate turkish ep022_temple_hostiles_2510ef93:
+
+    # "Eva screamed in pain and my other sisters wailed in response."
+    "Eva acı içinde çığlık attı ve diğer kız kardeşlerim de buna karşılık olarak ağlamaya başladı."
+
+# game/episode022.rpy:1470
+translate turkish ep022_temple_hostiles_47a2426a:
+
+    # "Eva screamed in pain and the other girls wailed in response."
+    "Eva acı içinde çığlık attı ve diğer kızlar da buna karşılık olarak ağlamaya başladı."
+
+# game/episode022.rpy:1480
+translate turkish ep022_temple_hostiles_eed62aaf:
+
+    # "She thrashed and screamed, but the procedure ran its unrelenting course."
+    "O çırpındı ve çığlık attı, ama işlem acımasızca devam etti."
+
+# game/episode022.rpy:1627
+translate turkish ep022_petrarch_assault_e00d082b:
+
+    # "When I saw they were in position I revealed myself just enough to get the guards’ attention."
+    "Onların pozisyonlarını aldıklarını gördüğümde, muhafızların dikkatini çekecek kadar kendimi gösterdim."
+
+# game/episode022.rpy:1714
+translate turkish ep022_petrarch_assault_201bb18d:
+
+    # "We were marched at gunpoint the exit of the compound."
+    "Silah zoruyla tesisin çıkışına doğru yürütüldük."
+
+# game/episode022.rpy:1726
+translate turkish ep022_petrarch_assault_98326aa8:
+
+    # "We were all pushed inside the transport which took off nearly immediately after the entry hatch closed."
+    "Hepimiz nakil aracının içine itildik ve giriş kapağı kapandıktan hemen sonra araç hareket etti."
+
+# game/episode022.rpy:2161
+translate turkish ep022_e_l_sex_2bdc0610:
+
+    # l "She’s a good cock sucker, isn’t she?"
+    l "O iyi bir sakso çekiyor, değil mi?"
+
+# game/episode022.rpy:2225
+translate turkish ep022_e_l_fucking_767e1319:
+
+    # "I pushed against Eva’s wet entrance and slipped past without much resistance."
+    "Eva'nın ıslak girişine bastırdım ve fazla direnç göstermeden içeri girdim."
+
+# game/episode022.rpy:2234
+translate turkish ep022_e_l_fucking_a8e0dfe5:
+
+    # "When I began to move inside my sister, Lilly’s lust-filled eyes drank in every detail."
+    "Kız kardeşim Lilly'nin içinde hareket etmeye başladığımda, şehvet dolu gözleri her ayrıntıyı içlerine çekiyordu."
+
+# game/episode022.rpy:2236
+translate turkish ep022_e_l_fucking_54a6885b:
+
+    # "When I began to move inside my girlfriend, Lilly’s lust-filled eyes drank in every detail."
+    "Kız arkadaşımın içine girmeye başladığımda, Lilly'nin şehvet dolu gözleri her ayrıntıyı içlerine çekiyordu."
+
+# game/episode022.rpy:2302
+translate turkish ep022_e_l_fucking_80d50e91:
+
+    # l "Do you want to fuck her into the bed?"
+    l "Onu yatakta sikmek ister misin?"
+
+# game/episode022.rpy:2349
+translate turkish ep022_e_l_fucking_84124c53:
+
+    # "Lilly sucked on Eva’s nipple when I began to thrust."
+    "Ben itmeye başladığımda Lilly, Eva'nın meme ucunu emdi."
+
+# game/episode022.rpy:2489
+translate turkish ep022_e_l_fucking_3a32ab36:
+
+    # "I wanted to mark both my sisters’ faces, so I pulled out of Eva."
+    "İki kız kardeşimin yüzlerini de işaretlemek istedim, bu yüzden Eva'dan çıktım. "
+
+# game/episode022.rpy:2491
+translate turkish ep022_e_l_fucking_c269ad53:
+
+    # "I wanted to mark both my girlfriends’ faces, so I pulled out of Eva."
+    "İki kız arkadaşımın yüzünü de işaretlemek istedim, bu yüzden Eva'dan çıktım."
+
+# game/episode022.rpy:2494
+translate turkish ep022_e_l_fucking_9ca8c552:
+
+    # "I wanted to mark both my sisters’ faces, so I pulled out of Lilly."
+    "İki kız kardeşimin yüzünü de işaretlemek istedim, bu yüzden Lilly'den çıktım."
+
+# game/episode022.rpy:2496
+translate turkish ep022_e_l_fucking_57916584:
+
+    # "I wanted to mark both my girlfriends’ faces, so I pulled out of Lilly."
+    "İki kız arkadaşımın yüzünü de işaretlemek istedim, bu yüzden Lilly'den çıktım."
+
+# game/episode022.rpy:2529
+translate turkish ep022_e_l_fucking_84fc4811:
+
+    # "I wanted to mark both my sisters’ bodies, so I pulled out of Eva."
+    "İki kız kardeşimin vücuduna da iz bırakmak istedim, bu yüzden Eva'dan çıktım."
+
+# game/episode022.rpy:2531
+translate turkish ep022_e_l_fucking_003d3291:
+
+    # "I wanted to mark both my girlfriends’ bodies, so I pulled out of Eva."
+    "İki kız arkadaşımın vücuduna da iz bırakmak istedim, bu yüzden Eva'dan çıktım."
+
+# game/episode022.rpy:2534
+translate turkish ep022_e_l_fucking_10e9ef51:
+
+    # "I wanted to mark both my sisters’ bodies, so I pulled out of Lilly."
+    "İki kız kardeşimin vücuduna da iz bırakmak istedim, bu yüzden Lilly'den çıktım."
+
+# game/episode022.rpy:2536
+translate turkish ep022_e_l_fucking_44e10378:
+
+    # "I wanted to mark both my girlfriends’ bodies, so I pulled out of Lilly."
+    "İki kız arkadaşımın vücuduna da iz bırakmak istedim, bu yüzden Lilly'den çıktım"
+
+# game/episode022.rpy:2557
+translate turkish ep022_e_l_fucking_a0368b26:
+
+    # "Thick warm cum sprayed out of my dick and splashed on the nubile bodies of my sisters."
+    "Kalın, sıcak sperm penisimden fışkırdı ve kız kardeşlerimin çekici vücutlarına sıçradı."
+
+# game/episode022.rpy:2559
+translate turkish ep022_e_l_fucking_3b32e8f0:
+
+    # "Thick warm cum sprayed out of my dick and splashed on the nubile bodies of my girlfriends."
+    "Kalın, sıcak sperm penisimden fışkırdı ve kız arkadaşlarımın çekici vücutlarına sıçradı."
+
+# game/episode022.rpy:2569
+translate turkish ep022_e_l_fucking_acce7f60:
+
+    # "I wanted to fill both my sisters’ mouths, so I pulled out of Eva."
+    "İki kız kardeşimin de ağzını doldurmak istedim, bu yüzden Eva'dan çıktım."
+
+# game/episode022.rpy:2571
+translate turkish ep022_e_l_fucking_4923828c:
+
+    # "I wanted to fill both my girlfriends’ mouths, so I pulled out of Eva."
+    "İki kız arkadaşımın ağzını da doldurmak istedim, bu yüzden Eva'dan çıktım."
+
+# game/episode022.rpy:2574
+translate turkish ep022_e_l_fucking_8359cb72:
+
+    # "I wanted to fill both my sisters’ mouths, so I pulled out of Lilly."
+    "İki kız kardeşimin de ağzını doldurmak istedim, bu yüzden Lilly'den çıktım."
+
+# game/episode022.rpy:2576
+translate turkish ep022_e_l_fucking_2d71aa0e:
+
+    # "I wanted to fill both my girlfriends’ mouths, so I pulled out of Lilly."
+    "İki kız arkadaşımın ağzını da doldurmak istedim, bu yüzden Lilly'den çıktım."
+
+# game/episode022.rpy:2926
+translate turkish ep022_ziv_sex_9297b944:
+
+    # "My balls slapped against her flesh every time I rooted myself deep inside."
+    "Her derinlemesine girdiğimde testislerim onun vücuduna çarpıyordu."
+
+# game/episode022.rpy:2928
+translate turkish ep022_ziv_sex_ac1ee45a:
+
+    # "Longing to see her face, I decided to change things up."
+    "Onun yüzünü görmek için can atarken, bir değişiklik yapmaya karar verdim."
+
+# game/episode022.rpy:3058
+translate turkish ep022_ziv_sex_9a40101b:
+
+    # "When I was done, she licked my shaft clean and swallowed all of my semen with a contented smile."
+    "İşimi bitirdiğimde, o benim penisi yalayıp temizledi ve memnun bir gülümsemeyle tüm spermamı yuttu."
+
+# game/episode022.rpy:3140
+translate turkish ep022_ve_ce_sex_621a39d3:
+
+    # "Vess appeared to be deep in conversation when I walked past, but not deep enough for her to not follow me seconds after."
+    "Vess, yanından geçtiğimde derin bir sohbete dalmış görünüyordu, ama birkaç saniye sonra beni takip etmeyecek kadar derin değildi."
+
+# game/episode022.rpy:3377
+translate turkish ep022_ve_ce_sex_choices_f6414cb5:
+
+    # "I wanted Vess to receive my load, so I slipped out of Céline, who nearly collapsed against the wall."
+    "Vess'in yükümü almasını istedim, bu yüzden Céline'den kayıp çıktım, o da neredeyse duvara yığılacaktı."
+
+# game/episode022.rpy:3409
+translate turkish ep022_ve_ce_sex_choices_a4d9eb2f:
+
+    # "I wanted Céline to receive my load, so I slipped out of Vess, who nearly collapsed against the wall."
+    "Céline'in yükümü almasını istedim, bu yüzden Vess'ten sıyrıldım, o da neredeyse duvara yığılacaktı."
+
+# game/episode022.rpy:3518
+translate turkish ep022_ve_ce_sex_submissive_ec1cc323:
+
+    # c "You’re coming with me."
+    c "Sen benimle geliyorsun."
+
+# game/episode022.rpy:3519
+translate turkish ep022_ve_ce_sex_submissive_50b89945:
+
+    # c "The ship is deserted, so nobody will hear you scream when I fuck you."
+    c "Gemi terk edilmiş, bu yüzden seni becerirken çığlıklarını kimse duymayacak."
+
+# game/episode022.rpy:3759
+translate turkish ep022_ve_ce_sex_submissive_choices_f6414cb5:
+
+    # "I wanted Vess to receive my load, so I slipped out of Céline, who nearly collapsed against the wall."
+    "Vess'in yükümü almasını istedim, bu yüzden Céline'den kayıp çıktım, o da neredeyse duvara yığılacaktı."
+
+# game/episode022.rpy:3794
+translate turkish ep022_ve_ce_sex_submissive_choices_a4d9eb2f:
+
+    # "I wanted Céline to receive my load, so I slipped out of Vess, who nearly collapsed against the wall."
+    "Céline'in yükümü almasını istedim, bu yüzden Vess'ten sıyrıldım, o da neredeyse duvara yığılacaktı."
+
+# game/episode022.rpy:3795
+translate turkish ep022_ve_ce_sex_submissive_choices_91851d1e:
+
+    # c "Your dirty pussy is not worthy of my cum, so lick me again instead."
+    c "Senin kirli amın benim spermimi hak etmiyor, onun yerine beni tekrar yala."
+
