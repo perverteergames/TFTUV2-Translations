@@ -231,10 +231,6 @@
     old "Rollback Side"
     new "Lado de reversión"
 
-    # game/screens.rpy:1347
-    old "Disable"
-    new "Deshabilitar"
-
     # game/screens.rpy:1348
     old "Left"
     new "Izquierda"
@@ -278,10 +274,6 @@
     # game/screens.rpy:1383
     old "Incest"
     new "Incesto"
-
-    # game/screens.rpy:1384
-    old "Enable"
-    new "Habilitar"
 
     # game/screens.rpy:1396
     old "Show Portraits"
@@ -487,7 +479,7 @@ translate spanish strings:
 
     # game/screens.rpy:1373
     old "Portuguese"
-    new ""
+    new "Portugués"
 
 # TODO: Translation updated at 2023-08-25 14:38
 
@@ -495,35 +487,35 @@ translate spanish strings:
 
     # game/screens.rpy:899
     old "View by: "
-    new ""
+    new "Ver por: "
 
     # game/screens.rpy:901
     old "episode"
-    new ""
+    new "episodio"
 
     # game/screens.rpy:903
     old "character"
-    new ""
+    new "carácter"
 
     # game/screens.rpy:1113
     old "Website: "
-    new ""
+    new "Sitio web: "
 
     # game/screens.rpy:1113
     old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
-    new ""
+    new "{a=[track[composer_website]]}[track[composer_website]]{/a}"
 
     # game/screens.rpy:1120
     old "{size=-8}Freeport Space Station 2 created by {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, License: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
-    new ""
+    new "{size=-8}Freeport Space Station 2 creada por {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, licencia: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
 
     # game/screens.rpy:1418
     old "Italian (partial)"
-    new ""
+    new "Italiano (parcial)"
 
     # game/screens.rpy:1422
     old "Spanish (partial)"
-    new ""
+    new "Español (parcial)"
 
 # TODO: Translation updated at 2025-06-04 13:38
 
@@ -531,27 +523,27 @@ translate spanish strings:
 
     # game/screens.rpy:369
     old "Choices"
-    new ""
+    new "Opciones"
 
     # game/screens.rpy:1473
     old "Português (parcial)"
-    new ""
+    new "Português (parcial)"
 
     # game/screens.rpy:1474
     old "Français"
-    new ""
+    new "Français"
 
     # game/screens.rpy:1477
     old "Italiano (parziale)"
-    new ""
+    new "Italiano (parziale)"
 
     # game/screens.rpy:1478
     old "Español (parcial)"
-    new ""
+    new "Español (parcial)"
 
     # game/screens.rpy:1479
     old "Русский (частичный)"
-    new ""
+    new "Русский (частичный)"
 
 # TODO: Translation updated at 2025-12-04 22:34
 
@@ -591,5 +583,72 @@ translate spanish strings:
 
     # game/screens.rpy:1532
     old "Italiano"
-    new ""
+    new "Italiano"
+
+# TODO: Translation updated at 2026-03-09 10:58
+
+translate spanish strings:
+
+    # game/screens.rpy:707
+    old "Yes {size=-5}(Submissive){/size}"
+    new "Sí {size=-5}(Sumiso){/size}"
+
+    old "Start a new game"
+    new "Empezar una nueva partida"
+
+    old "name"
+    new "nombre"
+
+    old "Previous Entry"
+    new "Entrada anterior"
+
+    old "Next Entry"
+    new "Entrada siguiente"
+
+    old "Previous Page"
+    new "Página anterior"
+
+    old "Next Page"
+    new "Página siguiente"
+
+    old "Close Entry"
+    new "Cerrar entrada"
+
+    old "Episode 13"
+    new "Episodio 13"
+
+    old "Woman"
+    new "Mujer"# TODO: Translation updated at 2026-03-09 22:52
+
+translate spanish strings:
+
+    # game/screens.rpy:463
+    old "v[config.version] • Taboo Edition, Extra Scenes"
+    new "v[config.version] • Edición Tabú, Escenas adicionales"
+
+    # game/screens.rpy:465
+    old "v[config.version] • Standard Edition, Extra Scenes"
+    new "v[config.version] • Edición estándar, escenas adicionales"
+
+    # game/screens.rpy:468
+    old "v[config.version] • Taboo Edition"
+    new "v[config.version] • Edición Tabú"
+
+    # game/screens.rpy:470
+    old "v[config.version] • Standard Edition"
+    new "v[config.version] • Edición Estándar"
+
+    # game/screens.rpy:1533
+    old "Português"
+    new "Português"
+
+    # game/screens.rpy:1534
+    old "Español"
+    new "Español"# TODO: Translation updated at 2026-03-10 11:21
+
+translate spanish strings:
+
+    # game/screens.rpy:1463
+    old "Disable"
+    new "Desactivar"
 

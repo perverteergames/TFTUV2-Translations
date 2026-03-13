@@ -4,203 +4,159 @@ translate spanish strings:
 
     # game/continue.rpy:13
     old "Please select the Season 1 save you'd like to load, or start a new game instead:"
-    new ""
+    new "Selecciona la partida guardada de la Temporada 1 que quieras cargar o inicia una nueva partida:"
+
 
     # game/continue.rpy:47
     old "Start new game"
-    new ""
+    new "Empezar una nueva partida"
 
     # game/continue.rpy:91
     old "General"
-    new ""
+    new "General"
 
     # game/continue.rpy:91
     old "Story"
-    new ""
+    new "Historia"
 
-    # game/continue.rpy:91
     old "Did Thim enter the Pit of Despair on Nyiruan 12-Beta?"
-    new ""
+    new "¿Entró Thim en el Pozo de la Desesperación en Nyiruan 12-Beta?"
 
-    # game/continue.rpy:91
     old "Did you help the R'o escape the Pit of Despair?"
-    new ""
+    new "¿Ayudaste a los R'o a escapar del Pozo de la Desesperación?"
 
-    # game/continue.rpy:91
     old "Did you sign the contract and enter the ConVitæ on Verdant station?"
-    new ""
+    new "¿Firmaste el contrato y entraste en el ConVitæ en la estación Verdant?"
 
-    # game/continue.rpy:91
     old "Did you have sex with Luzanne (Futa)?"
-    new ""
+    new "¿Tuviste sexo con Luzanne (Futa)?"
 
-    # game/continue.rpy:91
     old "Did you execute Garomph in the human milking factory on Barranthis?"
-    new ""
+    new "¿Has ejecutado a Garomph en la fábrica de ordeño humano de Barranthis?"
 
-    # game/continue.rpy:91
     old "Did you sabotage the human milking factory on Barranthis?"
-    new ""
+    new "¿Saboteaste la fábrica de ordeño humano de Barranthis?"
 
-    # game/continue.rpy:91
     old "Did you help the women escape from the human milking factory on Barranthis?"
-    new ""
+    new "¿Ayudaste a las mujeres a escapar de la fábrica de ordeño humano de Barranthis?"
 
-    # game/continue.rpy:91
     old "Did you alter the simulation of Eva and Lilly on the Iron Bastard?"
-    new ""
+    new "¿Has alterado la simulación de Eva y Lilly en el Bastardo de Hierro?"
 
-    # game/continue.rpy:91
     old "Did you delete the simulation of Eva and Lilly on the Iron Bastard?"
-    new ""
+    new "¿Has borrado la simulación de Eva y Lilly en el Bastardo de Hierro?"
 
-    # game/continue.rpy:91
     old "Did you abbandon the simulation of Eva and Lilly on the Iron Bastard?"
-    new ""
+    new "¿Abandonaste la simulación de Eva y Lilly en el Bastardo de Hierro?"
 
-    # game/continue.rpy:91
     old "Did form an alliance with the Warrior caste on Erigone?"
-    new ""
+    new "¿Formó una alianza con la casta guerrera en Erigone?"
 
-    # game/continue.rpy:91
     old "Did form an alliance with the Priest caste on Erigone?"
-    new ""
+    new "¿Formó una alianza con la casta sacerdotal en Erigone?"
 
-    # game/continue.rpy:91
     old "Did you remain neutral and declined to form any alliances on Erigone?"
-    new ""
+    new "¿Se mantuvo neutral y se negó a formar alianzas en Erigone?"
 
-    # game/continue.rpy:91
     old "Did you rescue the Acarhyn warrior during the Hunt on Erigone?"
-    new ""
+    new "¿Rescataste al guerrero Acarhyn durante la Caza en Erigone?"
 
-    # game/continue.rpy:91
     old "Are you in a relationship with Lilly?"
-    new ""
+    new "¿Tienes una relación con Lilly?"
 
-    # game/continue.rpy:91
     old "Are you in a relationship with Aven?"
-    new ""
+    new "¿Tienes una relación con Aven?"
 
-    # game/continue.rpy:91
     old "Were trying to get into a relationship with Nadya?"
-    new ""
+    new "¿Intentabas tener una relación con Nadya?"
 
-    # game/continue.rpy:91
     old "Are you in a relationship with Céline?"
-    new ""
+    new "¿Tienes una relación con Céline?"
 
-    # game/continue.rpy:91
     old "Do you want Céline to be part of your future harem?"
-    new ""
+    new "¿Quieres que Céline forme parte de tu futuro harén?"
 
-    # game/continue.rpy:91
     old "Are you in a relationship with Thyia?"
-    new ""
+    new "¿Tienes una relación con Thyia?"
 
-    # game/continue.rpy:91
     old "Do you want Thyia to be part of your future harem?"
-    new ""
+    new "¿Quieres que Thyia forme parte de tu futuro harén?"
 
-    # game/continue.rpy:91
     old "Were trying to be friends with Ziv?"
-    new ""
+    new "¿Intentabas ser amigo de Ziv?"
 
-    # game/continue.rpy:91
     old "Are you in a relationship with Ziv?"
-    new ""
+    new "¿Tienes una relación con Ziv?"
 
-    # game/continue.rpy:91
     old "Do you want Vess to be your submissive?"
-    new ""
+    new "¿Quieres que Vess sea tu sumisa?"
 
-    # game/continue.rpy:91
     old "Are you in a relationship with Vess?"
-    new ""
+    new "¿Tienes una relación con Vess?"
 
-    # game/continue.rpy:91
     old "Are you in a relationship with Jade?"
-    new ""
+    new "¿Tienes una relación con Jade?"
 
-    # game/continue.rpy:91
     old "Is Jade your submissive?"
-    new ""
+    new "¿Es Jade tu sumisa?"
 
-    # game/continue.rpy:91
     old "Were trying to be friends with Raene?"
-    new ""
+    new "¿Intentabas ser amiga de Raene?"
 
-    # game/continue.rpy:91
     old "Were trying to get into a relationship with Raene?"
-    new ""
+    new "¿Intentabas tener una relación con Raene?"
 
-    # game/continue.rpy:91
     old "Have you befriended Thim?"
-    new ""
+    new "¿Te has hecho amigo de Thim?"
 
-    # game/continue.rpy:91
     old "Misc"
-    new ""
+    new "Varios"
 
-    # game/continue.rpy:91
     old "Did you participate in the R'o orgy?"
-    new ""
+    new "¿Participaste en la orgía de R'o?"
 
-    # game/continue.rpy:91
     old "Did you creampie D'ee, the R'o leader?"
-    new ""
+    new "¿Le hiciste un creampie a D'ee, el líder R'o?"
 
-    # game/continue.rpy:91
     old "Did you creampie the R'o virgin?"
-    new ""
+    new "¿Le hiciste un creampie a la virgen R'o?"
 
-    # game/continue.rpy:91
     old "Did you have sex in the ConVitæ simulation?"
-    new ""
+    new "¿Has practicado sexo en la simulación ConVitæ?"
 
-    # game/continue.rpy:91
     old "Did you have sex with Berit in the ConVitæ simulation?"
-    new ""
+    new "¿Tuviste sexo con Berit en la simulación ConVitæ?"
 
-    # game/continue.rpy:91
     old "Did you have sex with Leda in the ConVitæ simulation?"
-    new ""
+    new "¿Te acostaste con Leda en la simulación de ConVitæ?"
 
-    # game/continue.rpy:91
     old "Did you have sex with the doctor at the ConVitæ research station?"
-    new ""
+    new "¿Tuviste sexo con el doctor de la estación de investigación ConVitæ?"
 
-    # game/continue.rpy:91
     old "Did you have an orgy with the Acarhyn on Erigone?"
-    new ""
+    new "¿Tuviste una orgía con los Acarhyn en Erigone?"
 
-    # game/continue.rpy:91
     old "Did Kit join you during the orgy with the Acarhyn on Erigone?"
-    new ""
+    new "¿Kit se unió a ti durante la orgía con los Acarhyn en Erigone?"
 
-    # game/continue.rpy:91
     old "Did you have sex with Yve?"
-    new ""
+    new "¿Te acostaste con Yve?"
 
-    # game/continue.rpy:91
     old "Fetish"
-    new ""
+    new "Fetiche"
 
-    # game/continue.rpy:91
+    old "Anal"
+    new "Anal"
+
     old "Rimming"
-    new ""
+    new "Rimming"
 
-    # game/continue.rpy:91
     old "Watersports"
-    new ""
-
-    # game/continue.rpy:882
-    old "Start a new game"
-    new ""
+    new "Deportes acuáticos"
 
     # game/continue.rpy:896
     old "The game is best enjoyed when you import a saved game from Season One. If you've lost access to your season saves or just want to begin with Season Two you can select the most important choices from the first season below, all other decisions will be set to a default value."
-    new ""
+    new "Para disfrutar al máximo del juego, importa una partida guardada de la temporada uno. Si has perdido el acceso a tus partidas guardadas de la temporada o simplemente quieres empezar con la temporada dos, puedes seleccionar las opciones más importantes de la primera temporada a continuación; el resto de decisiones se establecerán en su valor predeterminado."
 
 # TODO: Translation updated at 2025-12-04 22:34
 
@@ -208,45 +164,45 @@ translate spanish strings:
 
     # game/continue.rpy:43
     old "No season saves currently available"
-    new "No season saves currently available"
+    new "No hay temporadas guardadas disponibles actualmente."
 
     # game/continue.rpy:94
     old "Were you polite to the Tubloshi?"
-    new "Were you polite to the Tubloshi?"
+    new "¿Fuiste educado con los Tubloshi?"
 
     # game/continue.rpy:94
     old "Were you openly suspicious of the Tubloshi?"
-    new "Were you openly suspicious of the Tubloshi?"
+    new "¿Sospechabas abiertamente de los Tubloshi?"
 
     # game/continue.rpy:94
     old "Did you abandon the simulation of Eva and Lilly on the Iron Bastard?"
-    new "Did you abandon the simulation of Eva and Lilly on the Iron Bastard?"
+    new "¿Abandonaste la simulación de Eva y Lilly en el Iron Bastard?"
 
     # game/continue.rpy:94
     old "Do you want to get Lilly pregnant?"
-    new "Do you want to get Lilly pregnant?"
+    new "¿Quieres dejar embarazada a Lilly?"
 
     # game/continue.rpy:94
     old "Were trying to be friends with Ziv (Futa)?"
-    new "Were trying to be friends with Ziv (Futa)?"
+    new "¿Estábamos intentando ser amigos de Ziv (Futa)?"
 
     # game/continue.rpy:94
     old "Are you in a relationship with Ziv (Futa)?"
-    new "Are you in a relationship with Ziv (Futa)?"
+    new "¿Tienes una relación con Ziv (Futa)?"
 
     # game/continue.rpy:94
     old "Were trying to be friends with Raene (Trans)?"
-    new "Were trying to be friends with Raene (Trans)?"
+    new "¿Intentaban ser amigos de Raene (Trans)?"
 
     # game/continue.rpy:94
     old "Were trying to get into a relationship with Raene (Trans)?"
-    new "Were trying to get into a relationship with Raene (Trans)?"
+    new "¿Estábamos intentando tener una relación con Raene (Trans)?"
 
     # game/continue.rpy:94
     old "Did you have sex with Hannah, the Tubloshi translator?"
-    new "Did you have sex with Hannah, the Tubloshi translator?"
+    new "¿Tuviste relaciones sexuales con Hannah, la traductora de Tubloshi?"
 
     # game/continue.rpy:94
     old "Did you creampie Hannah?"
-    new "Did you creampie Hannah?"
+    new "¿Le hiciste un creampie a Hannah?"
 

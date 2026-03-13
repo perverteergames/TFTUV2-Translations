@@ -2,67 +2,50 @@
 
 translate spanish strings:
 
-    # game/defaults.rpy:48
     old "Confessor"
-    new ""
+    new "Confesora"
 
-    # game/defaults.rpy:49
     old "D'ee"
-    new ""
+    new "D'ee"
 
-    # game/defaults.rpy:51
     old "Glixken"
-    new ""
+    new "Glixken"
 
-    # game/defaults.rpy:52
     old "Karan"
-    new ""
+    new "Karan"
 
-    # game/defaults.rpy:58
     old "Trellka"
-    new ""
+    new "Trellka"
 
-    # game/defaults.rpy:59
     old "Iana"
-    new ""
+    new "Iana"
 
-    # game/defaults.rpy:60
     old "Sill"
-    new ""
+    new "Alféizar"
 
-    # game/defaults.rpy:61
     old "Taera"
-    new ""
+    new "Taera"
 
-    # game/defaults.rpy:62
     old "Raisha"
-    new ""
+    new "Raisha"
 
-    # game/defaults.rpy:63
     old "Lyna"
-    new ""
+    new "Lyna"
 
-    # game/defaults.rpy:64
     old "Jenne"
-    new ""
+    new "Jenne"
 
-    # game/defaults.rpy:66
     old "Dr. Moora"
-    new ""
+    new "Dr. Moora"
 
-    # game/defaults.rpy:67
     old "Ranimo Cetruvar"
-    new ""
+    new "Ranimo Cetruvar"
 
-    # game/defaults.rpy:69
     old "Erilyn"
-    new ""
+    new "Erilyn"
 
-    # game/defaults.rpy:70
     old "Dr. Rivas"
-    new ""
+    new "Dr. Rivas"
 
-    # game/defaults.rpy:71
     old "Agust"
-    new ""
-
+    new "Agust"

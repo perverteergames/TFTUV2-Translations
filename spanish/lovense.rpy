@@ -2,99 +2,77 @@
 
 translate spanish strings:
 
-    # game/lovense.rpy:44
-    old "Connected to toy"
-    new ""
-
-    # game/lovense.rpy:49
     old "Failed to connect to toy"
-    new ""
+    new "No se ha podido conectar con el juguete"
 
-    # game/lovense.rpy:79
     old "Not connected to a Lovense toy. Please check your connection in the game's perferences."
-    new ""
+    new "Por favor, comprueba tu conexión en las perferencias del juego."
 
-    # game/lovense.rpy:281
     old "Lovense"
-    new ""
+    new "Lovense"
 
-    # game/lovense.rpy:300
     old "[[b] Close"
-    new ""
+    new "[[b] Cerrar"
 
-    # game/lovense.rpy:304
     old "[[x] Close"
-    new ""
+    new "[[x] Cerrar"
 
-    # game/lovense.rpy:321
     old "Use the {i}Lovense Remote{/i} app for Android and iOS to obtain the IP address and port to connect to your toy. Please make sure both the device running {i}Tales From The Unending Void{/i} and {i}Lovense Remote{/i} app are connected to the same network (LAN) and that your toy has been powered on and is connected to the {i}Lovense Remote{/i} app."
-    new ""
+    new "Utilice la {i}Mando a distancia Lovense{/i} para Android e iOS para obtener la dirección IP y el puerto para conectarse a su juguete. Asegúrese de que tanto el dispositivo que ejecuta {i}Cuentos del vacío interminable{/i} y {i}Mando a distancia Lovense{/i} app estén conectados a la misma red (LAN) y que su juguete haya sido encendido y esté conectado a la {i}Mando a distancia Lovense{/i} app."
 
-    # game/lovense.rpy:322
     old "You can find the IP address and port for the connection by tapping the {b}Discover{/b} tab and enabling {b}Game Mode{/b} in the {i}Lovense Remote{/i} app. Enter the IP and port shown in the {i}Lovense Remote{/i} app on the right of this screen."
-    new ""
+    new "Puede encontrar la dirección IP y el puerto de la conexión pulsando el botón {b}Descubra{/b} y activando {b}Modo de juego{/b} en el {i}Mando a distancia Lovense{/i} app. Introduzca la IP y el puerto que aparecen en el {i}Mando a distancia Lovense{/i} a la derecha de esta pantalla."
 
-    # game/lovense.rpy:328
     old "Local IP: "
-    new ""
+    new "IP local: "
 
-    # game/lovense.rpy:332
-    old "Edit"
-    new ""
-
-    # game/lovense.rpy:340
     old "Local IP:"
-    new ""
+    new "IP local:"
 
-    # game/lovense.rpy:348
+    old "Edit"
+    new "Editar"
+
     old "HTTP Port: "
-    new ""
+    new "Puerto HTTP: "
 
-    # game/lovense.rpy:360
     old "HTTP Port:"
-    new ""
+    new "Puerto HTTP:"
 
-    # game/lovense.rpy:368
     old "Status: Connected"
-    new ""
+    new "Estado: Conectado"
 
-    # game/lovense.rpy:368
     old "Status: Disconnected"
-    new ""
+    new "Estado: Desconectado"
 
-    # game/lovense.rpy:374
     old "Test Device"
-    new ""
+    new "Dispositivo de prueba"
 
-    # game/lovense.rpy:385
     old "Disconnect"
-    new ""
+    new "Desconecte"
 
-    # game/lovense.rpy:396
     old "Connect"
-    new ""
+    new "Conectar"
 
-    # game/lovense.rpy:422
     old "Enjoy TFTUV with Lovense!"
-    new ""
+    new "¡Disfruta del TFTUV con Lovense!"
 
-    # game/lovense.rpy:428
     old "Order your toy from {i}Lovense.com{/i} and experience {i}Tales From The Unending Void{/i} in a whole new way."
-    new ""
+    new "Pida su juguete a {i}Lovense.com{/i} y experiencia {i}Cuentos del vacío interminable{/i} de una forma totalmente nueva."
 
-    # game/lovense.rpy:434
     old "Get a toy now"
-    new ""
+    new "Consigue un juguete ahora"
 
-    # game/lovense.rpy:447
     old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
-    new ""
-
-# TODO: Translation updated at 2026-02-06 12:27
+    new "{b}NOTA:{/b} Si realizas una compra haciendo clic en el botón de arriba, puede que gane una pequeña comisión sin coste adicional para ti. Sólo recomiendo productos que uso personalmente y en los que confío."
+# TODO: Translation updated at 2026-03-09 22:52
 
 translate spanish strings:
 
+    # game/lovense.rpy:44
+    old "Connected to toy"
+    new "Conectado al juguete"
+
     # game/lovense.rpy:79
     old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
-    new ""
+    new "No conectado a un juguete Lovense. Comprueba tu conexión en las preferencias del juego."
 

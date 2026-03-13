@@ -102,53 +102,43 @@
 
 translate spanish strings:
 
-    # game/script.rpy:221
     old "one"
-    new ""
+    new "un"
 
-    # game/script.rpy:223
     old "two"
-    new ""
+    new "dos"
 
-    # game/script.rpy:225
     old "three"
-    new ""
+    new "tres"
 
-    # game/script.rpy:227
     old "four"
-    new ""
+    new "cuatro"
 
-    # game/script.rpy:229
     old "five"
-    new ""
+    new "cinco"
 
-    # game/script.rpy:231
     old "six"
-    new ""
+    new "seis"
 
-    # game/script.rpy:233
     old "seven"
-    new ""
+    new "siete"
 
-    # game/script.rpy:235
     old "eight"
-    new ""
+    new "ocho"
 
-    # game/script.rpy:237
     old "nine"
-    new ""
+    new "nueve"
 
-    # game/script.rpy:239
     old "a lot"
-    new ""
+    new "mucho"
 
     # game/script.rpy:297
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
-    new ""
+    new "Pulse {i}\"Intro\"{/i} en el teclado en pantalla para confirmar."
 
     # game/script.rpy:637
     old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
-    new ""
+    new "{=location_subheading}UBICACIÓN:{/=location_subheading}\n[location]"
 
 # TODO: Translation updated at 2025-06-04 13:38
 
@@ -156,59 +146,54 @@ translate spanish strings:
 
     # game/script.rpy:238
     old "Eva"
-    new ""
+    new "Eva"
 
     # game/script.rpy:240
     old "Aven"
-    new ""
+    new "Aven"
 
     # game/script.rpy:242
     old "Nadya"
-    new ""
+    new "Nadya"
 
     # game/script.rpy:244
     old "Céline"
-    new ""
+    new "Céline"
 
     # game/script.rpy:250
     old "Ziv"
-    new ""
+    new "Ziv"
 
     # game/script.rpy:252
     old "Thyia"
-    new ""
+    new "Thyia"
 
     # game/script.rpy:258
     old " and "
-    new ""
+    new " y "
 
-    # game/script.rpy:469
     old "Character Selection"
-    new ""
+    new "Selección de personajes"
 
-    # game/script.rpy:476
     old "Who participates in this scene?"
-    new ""
+    new "¿Quién participa en esta escena?"
 
-    # game/script.rpy:534
     old "Select at least two characters."
-    new ""
+    new "Seleccione al menos dos caracteres."
 
-    # game/script.rpy:627
     old "THANK YOU"
-    new ""
+    new "GRACIAS"
 
-    # game/script.rpy:628
     old "A big thank you to my top tier backers, you rock!"
-    new ""
+    new "Muchas gracias a mis patrocinadores, ¡sois lo máximo!"
 
     # game/script.rpy:714
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
-    new ""
+    new "Grubb {i}(portugués){/i}, MyPrettyWolfy {i}(ruso){/i}, Frank Rosario {i}(italiano){/i}, Juan Manuel {i}(español){/i}, `SpeciaL. (turco)"
 
     # game/script.rpy:862
     old "Unread"
-    new ""
+    new "Sin leer"
 
 # TODO: Translation updated at 2025-12-04 22:34
 
