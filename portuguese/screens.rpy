@@ -604,47 +604,47 @@ translate portuguese strings:
 
     # game/screens.rpy:369
     old "Choices"
-    new ""
+    new "Escolhas"
 
     # game/screens.rpy:463
     old "v[config.version] • Taboo Edition, Extra Scenes"
-    new ""
+    new "v[config.version] • Edição Tabu, Cenas Extras"
 
     # game/screens.rpy:465
     old "v[config.version] • Standard Edition, Extra Scenes"
-    new ""
+    new "v[config.version] • Edição Patrão, Cenas Extras"
 
     # game/screens.rpy:468
     old "v[config.version] • Taboo Edition"
-    new ""
+    new "v[config.version] • Edição Tabu"
 
     # game/screens.rpy:470
     old "v[config.version] • Standard Edition"
-    new ""
+    new "v[config.version] • Edição Patrão"
 
     # game/screens.rpy:484
     old "Support me on  Patreon:\nwww.patreon.com/perverteer"
-    new ""
+    new "Apoie-me em  Patreon:\nwww.patreon.com/perverteer"
 
     # game/screens.rpy:1473
     old "Português (parcial)"
-    new ""
+    new "Português (parcial)"
 
     # game/screens.rpy:1474
     old "Français"
-    new ""
+    new "Français"
 
     # game/screens.rpy:1477
     old "Italiano (parziale)"
-    new ""
+    new "Italiano (parziale)"
 
     # game/screens.rpy:1478
     old "Español (parcial)"
-    new ""
+    new "Español (parcial)"
 
     # game/screens.rpy:1479
     old "Русский (частичный)"
-    new ""
+    new "Русский (частичный)"
 
 # TODO: Translation updated at 2025-11-26 14:57
 
@@ -652,19 +652,19 @@ translate portuguese strings:
 
     # game/screens.rpy:839
     old "Harem: %s"
-    new "Harem: %s"
+    new "Harém: %s"
 
     # game/screens.rpy:1290
     old "SEASON 1"
-    new "SEASON 1"
+    new "TEMPORADA 1"
 
     # game/screens.rpy:1292
     old "SEASON 3"
-    new "SEASON 3"
+    new "TEMPORADA 3"
 
     # game/screens.rpy:1504
     old "Connect your toy"
-    new "Connect your toy"
+    new "Conecte seu brinquedo"
 
     # game/screens.rpy:1517
     old "Русский"
@@ -680,9 +680,29 @@ translate portuguese strings:
 
     # game/screens.rpy:1521
     old "Deutsch"
-    new ""
+    new "Deutsch"
 
     # game/screens.rpy:1522
     old "Italiano"
-    new ""
+    new "Italiano"
+
+# TODO: Translation updated at 2026-03-09 10:51
+
+translate portuguese strings:
+
+    # game/screens.rpy:707
+    old "Yes {size=-5}(Submissive){/size}"
+    new "Sim {size=-5}(Submissa){/size}"
+
+# TODO: Translation updated at 2026-03-10 11:15
+
+translate portuguese strings:
+
+    # game/screens.rpy:1533
+    old "Português"
+    new "Português"
+
+    # game/screens.rpy:1534
+    old "Español"
+    new "Español"
 

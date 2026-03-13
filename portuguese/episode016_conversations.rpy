@@ -4,7 +4,7 @@
 translate portuguese ep016_eva_talk_c8e65724:
 
     # "I walked into my quarters looking at my datapad, not even noticing why my door was left open."
-    "Eu entrei nos meus aposentos olhando para o meu tablet, sem percebi que minha porta estava aberta."
+    "Eu entrei nos meus aposentos olhando para o meu tablet, sem perceber que minha porta estava aberta."
 
 # game/episode016_conversations.rpy:70
 translate portuguese ep016_eva_talk_a64c9c90:
@@ -220,13 +220,13 @@ translate portuguese ep016_eva_talk_e9b281e4:
 translate portuguese ep016_eva_talk_a136d5ed:
 
     # e "You've been honest about your feelings towards me, so I think it's only fair I will about mine."
-    e "Você tem sido honesto o que sente por mim, então acho apenas justo que eu seja com o que eu sinto."
+    e "Você tem sido honesto sobre o que sente por mim, então acho justo que eu também seja com o que eu sinto."
 
 # game/episode016_conversations.rpy:127
 translate portuguese ep016_eva_talk_070f6b63:
 
     # e "We've always been so close, ever since we were kids."
-    e "Nós sempre fomos apegados, mesmo quando crianças."
+    e "Sempre fomos apegados, mesmo quando crianças."
 
 # game/episode016_conversations.rpy:128
 translate portuguese ep016_eva_talk_e04d228e:
@@ -2116,13 +2116,13 @@ translate portuguese ep016_kit_talk_a6f102c7:
 translate portuguese ep016_kit_talk_965f8ef1:
 
     # ki "Yes, she referred to you as “Nadya’s son”."
-    ki "Sim, ela se referiu a você como filho da Nadya”."
+    ki "Sim, ela se referiu a você como “filho da Nadya”."
 
 # game/episode016_conversations.rpy:642
 translate portuguese ep016_kit_talk_b4bbde5e:
 
     # ki "So I was wondering, what’s up with that?"
-    ki "Então eu estava pensando, o que significa isso?"
+    ki "Então eu estava pensando, o que isso significa?"
 
 # game/episode016_conversations.rpy:643
 translate portuguese ep016_kit_talk_f5f7c27d:
@@ -2626,7 +2626,7 @@ translate portuguese ep016_kit_talk_2e9d6060:
 translate portuguese ep016_kit_talk_c0cc1ab6:
 
     # ki "So I get the appeal of the forbidden, but acting on it with your own family..."
-    ki "Então eu entendo o apelo das coisas proibidas, mas fazer isso coma sua própria família..."
+    ki "Então eu entendo o apelo das coisas proibidas, mas fazer isso com a sua própria família..."
 
 # game/episode016_conversations.rpy:775
 translate portuguese ep016_kit_talk_9169160d:
@@ -2854,7 +2854,7 @@ translate portuguese ep016_ziv_talk_f7919aa1:
 translate portuguese ep016_ziv_talk_27dbb414:
 
     # zi "But ultimately my answer is no."
-    zi "Mas no final,a resposta é não."
+    zi "Mas no final, a resposta é não."
 
 # game/episode016_conversations.rpy:834
 translate portuguese ep016_ziv_talk_595c196f:
@@ -2884,7 +2884,7 @@ translate portuguese ep016_ziv_talk_28078743:
 translate portuguese ep016_ziv_talk_85bf2b57:
 
     # "The beginnings of an apology for interrupting died on her lips as I smiled encouragingly at her."
-    "I início de uma desculpa por interromper morreu nos lábios dela, e eu sorri a encorajando."
+    "O início de uma desculpa por interromper morreu em seus lábios, e eu sorri a encorajando."
 
 # game/episode016_conversations.rpy:844
 translate portuguese ep016_ziv_talk_0bb74e70:
@@ -2950,7 +2950,7 @@ translate portuguese ep016_ziv_talk_a76dfeb3:
 translate portuguese ep016_ziv_talk_65d4b1fb:
 
     # zi "What’s next for us, [p_name], considering what you learned from interrogating the Scolguin prisoner?"
-    zi "O que vamos fazer agora, [p_name], considerando o que aprendeu quado interrogou a prisioneira Scolguin?"
+    zi "O que vamos fazer agora, [p_name], considerando o que aprendeu quando interrogou a prisioneira Scolguin?"
 
 # game/episode016_conversations.rpy:863
 translate portuguese ep016_ziv_talk_8defbe97:
@@ -3160,7 +3160,7 @@ translate portuguese ep016_thim_talk_4d5cc080:
 translate portuguese ep016_thim_talk_93659525:
 
     # t "I can finally do what I always wanted, instead of wasting my days as a third-rate officer on a bought commission."
-    t "Eu posso finalmente fazer o que sempre quis, ao invés de desperdiçar meus dias como um official assalariado de nada."
+    t "Eu posso finalmente fazer o que sempre quis, ao invés de desperdiçar meus dias como um oficial assalariado de nada."
 
 # game/episode016_conversations.rpy:920
 translate portuguese ep016_thim_talk_2b558c96:
@@ -3172,7 +3172,7 @@ translate portuguese ep016_thim_talk_2b558c96:
 translate portuguese ep016_thim_talk_7c9cd1d0:
 
     # t "You might think me crazy, but I’ve been staying up at night reading a lot of journals and new research papers."
-    t "Você pode me achar louco, mas eu tenho ficando acordado de noite lendo vários periódicos e novas pesquisas científicas."
+    t "Você pode me achar louco, mas eu tenho ficado acordado de noite lendo vários artigos e novas pesquisas científicas."
 
 # game/episode016_conversations.rpy:922
 translate portuguese ep016_thim_talk_7d23c47a:
@@ -3868,7 +3868,7 @@ translate portuguese ep016_vess_sex_5d812a08:
 translate portuguese ep016_vess_sex_f43bf66b:
 
     # "Vess collapsed against the cushions of the daybed while I shifted my position."
-    "Vess caiu nas almofadas do sofá, e eu mudei deposição."
+    "Vess caiu nas almofadas do sofá, enquanto eu mudava de posição."
 
 # game/episode016_conversations.rpy:1087
 translate portuguese ep016_vess_sex_881b34aa:
@@ -3982,7 +3982,7 @@ translate portuguese ep016_vess_sex_45d83b58:
 translate portuguese ep016_vess_sex_b2ba7ef5:
 
     # ve "Yes!{w} Please, master, I’m yours!{w} Cover me with your cum!"
-    ve "Sim!{w} Por favor, mestre, eu sou sua!{w} Me obre com seu sêmen!"
+    ve "Sim!{w} Por favor, mestre, eu sou sua!{w} Me cobre com seu sêmen!"
 
 # game/episode016_conversations.rpy:1121
 translate portuguese ep016_vess_sex_c71a73f4:
@@ -4528,7 +4528,7 @@ translate portuguese ep016_thyia_sex_b141d3b3:
 translate portuguese ep016_thyia_sex_c5006755:
 
     # "Thyia had trouble keeping herself balanced and moaned loudly."
-    "Thyia esta com dificuldade para se equilibrar, e gemeu alto."
+    "Thyia estava com dificuldade para se equilibrar, e gemeu alto."
 
 # game/episode016_conversations.rpy:1264
 translate portuguese ep016_thyia_sex_01265570:
@@ -4612,7 +4612,7 @@ translate portuguese ep016_thyia_sex_eef45c45:
 translate portuguese ep016_thyia_sex_9ceb99e4:
 
     # "Even as Thyia was still riding out the last throes of her orgasm, I pulled out of her and pushed her on the toilet seat."
-    "Mesmo enquanto Thyia ainda estava sentindo as últimas tremidas do orgasmo, eu tire meu pau dela e a empurrei contra o assento da privada."
+    "Mesmo enquanto Thyia ainda estava sentindo as últimas tremidas do orgasmo, eu tirei meu pau dela e a empurrei contra o assento da privada."
 
 # game/episode016_conversations.rpy:1293
 translate portuguese ep016_thyia_sex_fb773dac:
@@ -4630,7 +4630,7 @@ translate portuguese ep016_thyia_sex_6b94426e:
 translate portuguese ep016_thyia_sex_9ceb99e4_1:
 
     # "Even as Thyia was still riding out the last throes of her orgasm, I pulled out of her and pushed her on the toilet seat."
-    "Mesmo enquanto Thyia ainda estava sentindo as últimas tremidas do orgasmo, eu tire meu pau dela e a empurrei contra o assento da privada."
+    "Mesmo enquanto Thyia ainda estava sentindo as últimas tremidas do orgasmo, eu tirei meu pau dela e a empurrei contra o assento da privada."
 
 # game/episode016_conversations.rpy:1302
 translate portuguese ep016_thyia_sex_ed9c8966:
@@ -4864,25 +4864,25 @@ translate portuguese ep016_ziv_talk_f4dd3f54:
 translate portuguese ep016_thyia_talk_6463c945:
 
     # "For the duration of our stay, Thyia mostly stayed on the Bastard."
-    ""
+    "Durante sua estadia, Thyia ficou mais na Bastarda."
 
 # game/episode016_conversations.rpy:413
 translate portuguese ep016_thyia_talk_c0d66333:
 
     # "For the duration of our stay, Thyia mostly remained holed up in the engine room."
-    ""
+    "Durante sua estadia, Thyia ficou mais entocada na sala do motor."
 
 # game/episode016_conversations.rpy:414
 translate portuguese ep016_thyia_talk_fe0db63e:
 
     # "She was working on something and that seemed to take up most of her time."
-    ""
+    "Ela estava trabalhando em algo que parecia tomar a maior parte do seu tempo."
 
 # game/episode016_conversations.rpy:416
 translate portuguese ep016_thyia_talk_da20415c:
 
     # "I went to check up on her."
-    ""
+    "Eu fui dar uma olhada nela."
 
 # TODO: Translation updated at 2025-11-26 14:57
 
@@ -4890,53 +4890,53 @@ translate portuguese ep016_thyia_talk_da20415c:
 translate portuguese ep016_vess_sex_b2c0e100:
 
     # c "That’s a good slut."
-    c "That’s a good slut."
+    c "Boa putinha."
 
 # game/episode016_conversations.rpy:1057
 translate portuguese ep016_vess_sex_50bfb028:
 
     # c "You bore your punishment well, painslut, so I think I’m going to reward you."
-    c "You bore your punishment well, painslut, so I think I’m going to reward you."
+    c "Você aguentou bem a sua punição, sua vadia. Acho que vou te recompensar."
 
 # game/episode016_conversations.rpy:1079
 translate portuguese ep016_vess_sex_aaa003a5:
 
     # c "Are you going to cum hard for me, slut?"
-    c "Are you going to cum hard for me, slut?"
+    c "Vai gozar gostoso para mim, puta?"
 
 # game/episode016_conversations.rpy:1099
 translate portuguese ep016_vess_sex_25174f99:
 
     # c "That’s it, soil yourself, my whore."
-    c "That’s it, soil yourself, my whore."
+    c "Isso, minha puta. Se mija toda."
 
 # game/episode016_conversations.rpy:1161
 translate portuguese ep016_vess_sex_e4ae9e92:
 
     # c "You really are a nasty whore, aren’t you?"
-    c "You really are a nasty whore, aren’t you?"
+    c "Você é uma vadia imunda, hein?"
 
 # game/episode016_conversations.rpy:1162
 translate portuguese ep016_vess_sex_a6976b35:
 
     # ve "I am!{w} I am your nasty whore, master!"
-    ve "I am!{w} I am your nasty whore, master!"
+    ve "Sou!{w} Eu sou a sua vadia imunda, mestre!"
 
 # game/episode016_conversations.rpy:1169
 translate portuguese ep016_vess_sex_49ff43aa:
 
     # c "A dirty whore like you deserves a big load inside her."
-    c "A dirty whore like you deserves a big load inside her."
+    c "Uma vadia imunda que nem você merece um monte de porra dentro."
 
 # game/episode016_conversations.rpy:1183
 translate portuguese ep016_vess_sex_ddd4737d:
 
     # c "A dirty whore like you deserves to be covered by a big load."
-    c "A dirty whore like you deserves to be covered by a big load."
+    c "Uma vadia imunda que nem você merece ser coberta de um monte de porra."
 
 # game/episode016_conversations.rpy:1197
 translate portuguese ep016_vess_sex_489060df:
 
     # c "Come over here, that dirty whore face of yours deserves to be covered by a big load."
-    c "Come over here, that dirty whore face of yours deserves to be covered by a big load."
+    c "Vem cá, essa sua cara de vadia merece ficar toda melada de porra."
 

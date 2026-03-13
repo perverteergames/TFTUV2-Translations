@@ -12,11 +12,11 @@ translate portuguese strings:
 
     # game/options.rpy:43
     old "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, `SpeciaL. (Turkish, partial)"
-    new ""
+    new "Grubb {i}(Português, parcial){/i}, Rory-Mercury91 {i}(Francês){/i}, Frank Rosario {i}(Italiano, parcial){/i}, Juan Manuel {i}(Espanhol, parcial){/i}, MyPrettyWolfy {i}(Russo){/i}, `SpeciaL. (Turco, parcial)"
 
     # game/options.rpy:591
     old "Thanks to HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
-    new ""
+    new "Obrigado a HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut e Razielprince pelos testes..\n\nUm grande agradecimento aos meus apoiadores de nível maior. Você são demais! Apoiadores antigos e atuais incluem:\n{i}"
 
 # TODO: Translation updated at 2025-11-26 14:57
 
@@ -24,7 +24,7 @@ translate portuguese strings:
 
     # game/options.rpy:43
     old "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
-    new "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Português, parcial){/i}, Rory-Mercury91 {i}(Francês){/i}, Frank Rosario {i}(Italiano, parcial){/i}, Juan Manuel {i}(Espanhol, parcial){/i}, MyPrettyWolfy {i}(Russo){/i}, Donk. {i}(Turco, darkeros.org){/i}"
 
 # TODO: Translation updated at 2025-12-06 16:08
 
@@ -32,5 +32,5 @@ translate portuguese strings:
 
     # game/options.rpy:46
     old "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, Donk. {i}(Turkish, darkeros.org){/i}, Bomber86 (German)"
-    new ""
+    new "Grubb {i}(Português, parcial){/i}, Rory-Mercury91 {i}(Francês){/i}, Frank Rosario {i}(Italiano){/i}, Juan Manuel {i}(Espanhol, parcial){/i}, MyPrettyWolfy {i}(Russo){/i}, Donk. {i}(Turco, darkeros.org){/i}, Bomber86 (Alemão)"
 

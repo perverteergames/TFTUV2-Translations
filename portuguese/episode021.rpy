@@ -1276,7 +1276,7 @@ translate portuguese episode021_c93b2020:
 translate portuguese episode021_1792701e:
 
     # "When our maps indicated we were halfway through the contested zone, several small spacecraft entered our vicinity."
-    "Nossos mapas indicaram que estávamos no meio da zona em, conflito, e várias pequenas naves se aproximaram."
+    "Nossos mapas indicaram que estávamos no meio da zona em conflito, e várias pequenas naves se aproximaram."
 
 # game/episode021.rpy:416
 translate portuguese episode021_a9e796ba:
@@ -1612,7 +1612,7 @@ translate portuguese episode021_4452731a:
 translate portuguese episode021_1cbdca95_1:
 
     # "Gradually, the signs of destruction and the fleets of ships fighting in the distance faded."
-    "Gradualmente, os sinais de destruição e as frotas de naves luando foram sumindo."
+    "Gradualmente, os sinais de destruição e as frotas de naves em combate foram sumindo."
 
 # game/episode021.rpy:495
 translate portuguese episode021_5e1b2cf2:
@@ -1780,7 +1780,7 @@ translate portuguese episode021_51eeaed2:
 translate portuguese episode021_991013f7:
 
     # av "No, I’m good, sleep sounds a lot better."
-    av "Não. obrigada, dormir parece bem melhor."
+    av "Não, obrigada. Dormir parece bem melhor."
 
 # game/episode021.rpy:529
 translate portuguese episode021_356b5471:
@@ -2134,7 +2134,7 @@ translate portuguese episode021_ad602383:
 translate portuguese episode021_482be926:
 
     # "No dust covered the surface of the table, nor the chairs, but for some reason the entire scene didn’t have a lived-in feeling."
-    "Não havia poeira na superfície da mesa nem nas cadeiras, mas por algum motivo n dava a impressão que era habitado."
+    "Não havia poeira na superfície da mesa nem nas cadeiras, mas por algum motivo não dava a impressão que era habitado."
 
 # game/episode021.rpy:608
 translate portuguese episode021_68817231:
@@ -21574,7 +21574,7 @@ translate portuguese ep021_vess_sex_soft_e8c5c92a:
 translate portuguese ep021_vess_sex_soft_57044c36:
 
     # "Vess admirably tried to control her gag reflex, but my girth made her gag slightly from time to time."
-    "Vess tentou admiravelmente se controlar para não engasgar, mas o tamanho do meu pau fez ela engasgar de vez em quando."
+    "Admiravelmente, Vess tentou se controlar para não engasgar, mas o tamanho do meu pau fez com que engasgasse de vez em quando."
 
 # game/episode021.rpy:6635
 translate portuguese ep021_vess_sex_soft_d5753074:
@@ -22462,7 +22462,7 @@ translate portuguese ep021_vess_sex_hard_df09d828:
 translate portuguese ep021_vess_sex_hard_6685eff1:
 
     # "As she was wearing practically nothing her half-naked body aroused me from the moment she opened the door to my quarters."
-    "Como ela estava vestindo quase nada, seu corpo seminu me deu tesão no momento que ela abriu a porta do meu quarto."
+    "Ela não estava vestindo quase nada, seu corpo seminu me deu tesão no momento que ela abriu a porta do meu quarto."
 
 # game/episode021.rpy:6892
 translate portuguese ep021_vess_sex_hard_aacf0877:
@@ -24996,7 +24996,7 @@ translate portuguese ep021_vess_talk_d3aad126:
 translate portuguese ep021_vess_talk_545af5d6:
 
     # c "Yes, I have asked some of them."
-    c ""
+    c "Sim, eu perguntei algumas."
 
 # game/episode021.rpy:1674
 translate portuguese ep021_vess_talk_5a26fa39_1:
@@ -25080,7 +25080,7 @@ translate portuguese ep021_raene_harem_proposal_fe18ad02:
 translate portuguese ep021_group_talk_6a3c4bde:
 
     # c "So, we have some news we’d like to share with you."
-    c "So, we have some news we’d like to share with you."
+    c "Então, temos uma notícia para compartilhar."
 
 # game/episode021.rpy:2572
 translate portuguese ep021_group_talk_dccfe9c8:
@@ -25812,37 +25812,37 @@ translate portuguese ep021_vess_sex_anal_58fa9c2e:
 translate portuguese ep021_vess_sex_anal_77146e94:
 
     # ve "It hurts, but I love it so much!"
-    ve "It hurts, but I love it so much!"
+    ve "Isso dói, mas é tão gostoso!"
 
 # game/episode021.rpy:7327
 translate portuguese ep021_vess_sex_anal_3dcf9ec9:
 
     # "Deep inside, I flooded her ass with warm cum."
-    "Deep inside, I flooded her ass with warm cum."
+    "Bem fundo nela, eu enchi sua bunda de gozo quente."
 
 # game/episode021.rpy:7383
 translate portuguese ep021_vess_sex_facial_a7b64cea:
 
     # "Vess played around with my ejaculate in her mouth, some of it streaming out of the corner of her mouth."
-    "Vess played around with my ejaculate in her mouth, some of it streaming out of the corner of her mouth."
+    "Vess mexeu meu gozo dentro da boca, derramando um pouco dos cantos."
 
 # game/episode021.rpy:7386
 translate portuguese ep021_vess_sex_facial_26929c2a:
 
     # "She finally swallowed all of it, including the spilled cum I scooped up and forced in her slack mouth with my fingers."
-    "She finally swallowed all of it, including the spilled cum I scooped up and forced in her slack mouth with my fingers."
+    "Ela finalmente engoliu tudo, incluindo o gozo que eu peguei com a mão e forcei na sua boca com os dedos."
 
 # game/episode021.rpy:7399
 translate portuguese ep021_vess_sex_hard_8b0f47ab:
 
     # "As she was wearing practically nothing, her half-naked body aroused me from the moment she opened the door to my quarters."
-    "As she was wearing practically nothing, her half-naked body aroused me from the moment she opened the door to my quarters."
+    "Ela não estava vestindo quase nada, seu corpo seminu me deu tesão no momento que ela abriu a porta do meu quarto."
 
 # game/episode021.rpy:7421
 translate portuguese ep021_vess_sex_hard_57044c36:
 
     # "Vess admirably tried to control her gag reflex, but my girth made her gag slightly from time to time."
-    "Vess admirably tried to control her gag reflex, but my girth made her gag slightly from time to time."
+    "Admiravelmente, Vess tentou se controlar para não engasgar, mas o tamanho do meu pau fez com que engasgasse de vez em quando."
 
 # game/episode021.rpy:7467
 translate portuguese ep021_vess_sex_hard_5b0a2495:
@@ -25860,7 +25860,7 @@ translate portuguese ep021_vess_sex_hard_203ad44e:
 translate portuguese ep021_vess_sex_hard_97fe0fca:
 
     # "Her body was with the saliva I elicited from her throat."
-    "Her body was with the saliva I elicited from her throat."
+    "Seu corpo estava melado com a saliva que tirei de sua garganta."
 
 # game/episode021.rpy:7513
 translate portuguese ep021_vess_sex_hard_c7adb4f5:
@@ -25872,7 +25872,7 @@ translate portuguese ep021_vess_sex_hard_c7adb4f5:
 translate portuguese ep021_vess_sex_hard_92efca43:
 
     # "Hearing her talk was bound to shorten the ride towards my inevitable climax."
-    "Hearing her talk was bound to shorten the ride towards my inevitable climax."
+    "Ouvindo ela falar assim, era só questão de tempo até o meu inevitável orgasmo."
 
 # game/episode021.rpy:7598
 translate portuguese ep021_vess_sex_hard_58fa9c2e:
@@ -25928,7 +25928,7 @@ translate portuguese strings:
 
     # game/episode021.rpy:689
     old "Make your rounds"
-    new "Fazer as rodas"
+    new "Fazer as rondas"
 
 # TODO: Translation updated at 2026-01-26 11:00
 
@@ -25964,4 +25964,11 @@ translate portuguese strings:
 
     # game/episode021.rpy:393
     old "Marleybone Irregulars Rendezvous Point"
-    new "Ponto de Encontro dos Irregulars de Marleybone"
+    new "Ponto de Encontro dos Irregulars de Marleybone"# TODO: Translation updated at 2026-03-09 10:51
+
+# game/episode021.rpy:7479
+translate portuguese ep021_vess_sex_hard_25910545:
+
+    # "Her body was slick with the saliva I elicited from her throat."
+    "Seu corpo estava melado com a saliva que tirei de sua garganta."
+
