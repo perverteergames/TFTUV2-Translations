@@ -552,7 +552,7 @@ translate german strings:
 
     # game/screens.rpy:1504
     old "Connect your toy"
-    new "Verbinden Sie Ihr Spielzeug"
+    new "Verbinde dein Spielzeug"
 
     # game/screens.rpy:1517
     old "Русский"
@@ -573,4 +573,24 @@ translate german strings:
     # game/screens.rpy:1522
     old "Italiano"
     new "Italiano"
+
+# TODO: Translation updated at 2026-03-09 10:26
+
+translate german strings:
+
+    # game/screens.rpy:707
+    old "Yes {size=-5}(Submissive){/size}"
+    new "Ja {size=-5}(Unterwürfig){/size}"
+
+# TODO: Translation updated at 2026-03-10 11:14
+
+translate german strings:
+
+    # game/screens.rpy:1533
+    old "Português"
+    new "Português"
+
+    # game/screens.rpy:1534
+    old "Español"
+    new "Español"
 

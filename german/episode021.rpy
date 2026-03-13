@@ -24186,7 +24186,7 @@ translate german ep021_lilly_talk_9e3cea2b:
 translate german ep021_eva_talk_4b66df93:
 
     # e "It happened!!!"
-    e ""
+    e "Es ist passiert!!!"
 
 # game/episode021.rpy:1270
 translate german ep021_eva_talk_a7211e33:
@@ -24372,7 +24372,7 @@ translate german ep021_group_fuck_duo_3f2bc1ef:
 translate german ep021_vess_sex_soft_23e4c58c:
 
     # "As she sat on the of the couch I crawled in front of her."
-    ""
+    "Als sie sich auf die Couch setzte, kroch ich vor sie hin."
 
 # game/episode021.rpy:7121
 translate german ep021_vess_sex_soft_203ad44e:
@@ -24419,4 +24419,12 @@ translate german strings:
     # game/episode021.rpy:393
     old "Marleybone Irregulars Rendezvous Point"
     new "Treffpunkt der Marleybone Irregulars"
+
+# TODO: Translation updated at 2026-03-09 10:26
+
+# game/episode021.rpy:7479
+translate german ep021_vess_sex_hard_25910545:
+
+    # "Her body was slick with the saliva I elicited from her throat."
+    "Ihr Körper war mit dem Speichel benetzt, den ich ihr aus dem Hals entlockt hatte."
 

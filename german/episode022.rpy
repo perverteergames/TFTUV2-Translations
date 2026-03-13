@@ -12522,3 +12522,379 @@ translate german ep022_ve_ce_sex_submissive_choices_5623c9c8:
 
 
 
+# TODO: Translation updated at 2026-02-09 10:49
+
+# game/episode022.rpy:1277
+translate german ep022_temple_hostiles_76965b0d:
+
+    # th "Their tech is way more advanced than ours, we need to make do with just the scraps."
+    th "Deren Technologie ist viel fortschrittlicher als unsere, wir müssen uns mit dem begnügen, was übrig ist."
+
+# game/episode022.rpy:1311
+translate german ep022_temple_hostiles_76965b0d_1:
+
+    # th "Their tech is way more advanced than ours, we need to make do with just the scraps."
+    th "Deren Technologie ist viel fortschrittlicher als unsere, wir müssen uns mit dem begnügen, was übrig ist."
+
+# TODO: Translation updated at 2026-03-09 10:26
+
+# game/episode022.rpy:116
+translate german episode022_6f3b9ca4:
+
+    # woman "Because you weren’t able to save your son and daughter from the disgrace of desertion?"
+    woman "Weil Sie Ihren Sohn und Ihre Tochter nicht vor der Schande der Desertion bewahren konnten?"
+
+# game/episode022.rpy:118
+translate german episode022_de2225fd:
+
+    # woman "Do you think they’re grateful you were too much of a coward to hunt them down and bring them to justice?"
+    woman "Glaubst du, sie sind dir dankbar, dass du zu feige warst, sie zu jagen und vor Gericht zu bringen?"
+
+# game/episode022.rpy:214
+translate german ep022_temple_simulation_a60cdb65:
+
+    # c "Ever heard of the Diclonae, Mom?"
+    c "Hast du schon mal von den Diclonae gehört, Mama?"
+
+# game/episode022.rpy:283
+translate german ep022_temple_simulation_4a536e0d:
+
+    # na "To be honest, I’m not sure how successful this civilization was on Petrarch, since I’ve never heard of this transfusion process."
+    na "Ich bin mir ehrlich gesagt nicht sicher, wie erfolgreich diese Zivilisation auf Petrarca war; von diesem Transfusionsverfahren habe ich noch nie gehört."
+
+# game/episode022.rpy:288
+translate german ep022_temple_simulation_ef7bade7:
+
+    # th "Wish she’d drop the whole “Your Majesty” crap."
+    th "Ich wünschte, er würde diesen ganzen „Eure Majestät“-Quatsch endlich lassen."
+
+# game/episode022.rpy:290
+translate german ep022_temple_simulation_d06fb36f:
+
+    # c "She’d probably lose her head if she didn’t use those honorifics."
+    c "Sie würde wahrscheinlich ihren Kopf verlieren, wenn sie diese Höflichkeitsformen nicht verwenden würde."
+
+# game/episode022.rpy:311
+translate german ep022_temple_simulation_cae672d6:
+
+    # c "Woah, she’s making it float with her mind?"
+    c "Wow, sie lässt es mit ihren Gedanken schweben?"
+
+# game/episode022.rpy:323
+translate german ep022_temple_simulation_ddb07a7d:
+
+    # man2 "I’m sorry, ma’am, but there’s been a security incident."
+    man2 "Es tut mir leid, Sir, aber es gab einen Sicherheitsvorfall."
+
+# game/episode022.rpy:328
+translate german ep022_temple_simulation_c50b09e0:
+
+    # man2 "There’s an invasion force at our doorstep, ma’am."
+    man2 "Sir, eine Invasionsstreitmacht steht vor unserer Tür."
+
+# game/episode022.rpy:333
+translate german ep022_temple_simulation_edd045ad:
+
+    # man2 "It’s an alliance of the lesser races, ma’am."
+    man2 "Es handelt sich um ein Bündnis der niederen Rassen, Sir."
+
+# game/episode022.rpy:383
+translate german ep022_temple_simulation_9f8ef167:
+
+    # "With those words, the squadron of soldiers left."
+    "Mit diesen Worten setzte sich das Soldatengeschwader in Bewegung."
+
+# game/episode022.rpy:388
+translate german ep022_temple_simulation_e00bd287:
+
+    # "The scientist who’d spoken to the soldiers collapsed on the ground, clutching her chest."
+    "Der Wissenschaftler, der mit den Soldaten gesprochen hatte, brach zusammen und griff sich an die Brust."
+
+# game/episode022.rpy:416
+translate german ep022_temple_simulation_f404df53:
+
+    # c "Have you ever heard about a genocide on Petrarch, Mom?"
+    c "Hast du jemals von einem Völkermord auf Petrarca gehört, Mama?"
+
+# game/episode022.rpy:558
+translate german ep022_eva_talk_5c4a6b12:
+
+    # c "So either she’s spying on our Dad, playing the long game, or acting as a free agent."
+    c "Entweder spioniert sie unseren Vater immer noch aus, verfolgt einen langfristigen Plan oder agiert als unabhängige Agentin."
+
+# game/episode022.rpy:560
+translate german ep022_eva_talk_0701b072:
+
+    # c "So either she’s spying on my Dad, playing the long game, or acting as a free agent."
+    c "Entweder spioniert sie immer noch meinen Vater aus, verfolgt einen langfristigen Plan oder agiert als unabhängige Agentin."
+
+# game/episode022.rpy:950
+translate german ep022_nadya_talk_ced8c7f1:
+
+    # na "What I know of these conglomerates is that they attract all kinds of people."
+    na "Soweit ich diese Konzerne kenne, ziehen sie alle möglichen Leute an."
+
+# game/episode022.rpy:1133
+translate german ep022_ziv_talk_c52d7eea:
+
+    # zi "It’s not something we advertise widely, people with bad intentions might take notice."
+    zi "Das ist nichts, was wir groß an die große Glocke hängen, sonst könnten Leute mit bösen Absichten darauf aufmerksam werden."
+
+# game/episode022.rpy:1204
+translate german ep022_temple_hostiles_9fadff43:
+
+    # "Thyia, Céline, Jade and Aven busied themselves with rigging the necessary cables."
+    "Thyia, Céline Jade und Aven waren damit beschäftigt, die notwendigen Kabel zu verlegen."
+
+# game/episode022.rpy:1360
+translate german ep022_temple_hostiles_f02c6a36:
+
+    # c "Yes, we know all about that eugenics program you’re so hell-bent on acquiring."
+    c "Ja, wir wissen alles über dieses Eugenikprogramm, das du unbedingt haben willst."
+
+# game/episode022.rpy:1391
+translate german ep022_temple_hostiles_52752313:
+
+    # co "When we first found you on Erigone, your sister was crowned the queen of that martial breed of females."
+    co "Als wir dich auf Erigone fanden, war deine Schwester zur Königin dieser kriegerischen Frauenrasse gekrönt."
+
+# game/episode022.rpy:1393
+translate german ep022_temple_hostiles_bceb52c1:
+
+    # co "When we first found you on Erigone, this girl here was crowned the queen of that martial breed of females."
+    co "Als wir dich das erste Mal auf Erigone fanden, war dieses Mädchen hier zur Königin jener kriegerischen Frauenrasse gekrönt."
+
+# game/episode022.rpy:1398
+translate german ep022_temple_hostiles_69fdd57c:
+
+    # c "You’re going to subject Eva to the treatment the Shixses forced on their victims?"
+    c "Du wirst Eva also der gleichen Behandlung unterziehen, die die Shixses ihren Testpersonen angetan haben?"
+
+# game/episode022.rpy:1399
+translate german ep022_temple_hostiles_471d941d:
+
+    # ag "It’s the only way to bring about the prophesied singularity."
+    ag "Das ist der einzige Weg, die prophezeite Singularität herbeizuführen."
+
+# game/episode022.rpy:1468
+translate german ep022_temple_hostiles_2510ef93:
+
+    # "Eva screamed in pain and my other sisters wailed in response."
+    "Eva schrie vor Schmerzen auf und meine andere Schwester jammerte daraufhin."
+
+# game/episode022.rpy:1470
+translate german ep022_temple_hostiles_47a2426a:
+
+    # "Eva screamed in pain and the other girls wailed in response."
+    "Eva schrie vor Schmerzen auf, und das andere Mädchen jammerte daraufhin."
+
+# game/episode022.rpy:1480
+translate german ep022_temple_hostiles_eed62aaf:
+
+    # "She thrashed and screamed, but the procedure ran its unrelenting course."
+    "Sie zappelte und schrie, aber die Prozedur nahm ihren unerbittlichen Lauf."
+
+# game/episode022.rpy:1627
+translate german ep022_petrarch_assault_e00d082b:
+
+    # "When I saw they were in position I revealed myself just enough to get the guards’ attention."
+    "Als ich sah, dass sie in Position waren, gab ich mich gerade so weit zu erkennen, dass ich die Aufmerksamkeit der Wache erregen konnte."
+
+# game/episode022.rpy:1714
+translate german ep022_petrarch_assault_201bb18d:
+
+    # "We were marched at gunpoint the exit of the compound."
+    "Wir wurden unter Waffengewalt zum Ausgang des Geländes geführt."
+
+# game/episode022.rpy:1726
+translate german ep022_petrarch_assault_98326aa8:
+
+    # "We were all pushed inside the transport which took off nearly immediately after the entry hatch closed."
+    "Wir wurden alle in das Transportfahrzeug geschoben, das fast unmittelbar nach dem Schließen der Einstiegsluke abfuhr."
+
+# game/episode022.rpy:2161
+translate german ep022_e_l_sex_2bdc0610:
+
+    # l "She’s a good cock sucker, isn’t she?"
+    l "Sie ist eine gute kleine Schwanzlutscherin, nicht wahr?"
+
+# game/episode022.rpy:2225
+translate german ep022_e_l_fucking_767e1319:
+
+    # "I pushed against Eva’s wet entrance and slipped past without much resistance."
+    "Ich drückte gegen Evas feuchten Eingang und schlüpfte ohne großen Widerstand vorbei."
+
+# game/episode022.rpy:2234
+translate german ep022_e_l_fucking_a8e0dfe5:
+
+    # "When I began to move inside my sister, Lilly’s lust-filled eyes drank in every detail."
+    "Als ich begann, in meine Schwester einzudringen, sog Lillys lüsterner Blick jedes Detail in sich auf."
+
+# game/episode022.rpy:2236
+translate german ep022_e_l_fucking_54a6885b:
+
+    # "When I began to move inside my girlfriend, Lilly’s lust-filled eyes drank in every detail."
+    "Als ich in meine Freundin eindrang, sog Lillys lüsterner Blick jedes Detail in sich auf."
+
+# game/episode022.rpy:2302
+translate german ep022_e_l_fucking_80d50e91:
+
+    # l "Do you want to fuck her into the bed?"
+    l "Willst du sie ins Bett ficken?"
+
+# game/episode022.rpy:2349
+translate german ep022_e_l_fucking_84124c53:
+
+    # "Lilly sucked on Eva’s nipple when I began to thrust."
+    "Lilly saugte an Evas Brustwarzen, als ich mit dem Stoßen begann."
+
+# game/episode022.rpy:2489
+translate german ep022_e_l_fucking_3a32ab36:
+
+    # "I wanted to mark both my sisters’ faces, so I pulled out of Eva."
+    "Ich wollte die Gesichter meiner beiden Schwestern markieren, also zog ich mich aus Eva zurück."
+
+# game/episode022.rpy:2491
+translate german ep022_e_l_fucking_c269ad53:
+
+    # "I wanted to mark both my girlfriends’ faces, so I pulled out of Eva."
+    "Ich wollte die Gesichter meiner beiden Schwestern markieren, also zog ich mich aus Eva zurück."
+
+# game/episode022.rpy:2494
+translate german ep022_e_l_fucking_9ca8c552:
+
+    # "I wanted to mark both my sisters’ faces, so I pulled out of Lilly."
+    "Ich wollte die Gesichter meiner beiden Schwestern markieren, also habe ich bei Lilly aufgehört."
+
+# game/episode022.rpy:2496
+translate german ep022_e_l_fucking_57916584:
+
+    # "I wanted to mark both my girlfriends’ faces, so I pulled out of Lilly."
+    "Ich wollte die Gesichter meiner beiden Schwestern markieren, also habe ich bei Lilly aufgehört."
+
+# game/episode022.rpy:2529
+translate german ep022_e_l_fucking_84fc4811:
+
+    # "I wanted to mark both my sisters’ bodies, so I pulled out of Eva."
+    "Ich wollte die Körper meiner beiden Schwestern markieren, also zog ich mich aus Eva zurück."
+
+# game/episode022.rpy:2531
+translate german ep022_e_l_fucking_003d3291:
+
+    # "I wanted to mark both my girlfriends’ bodies, so I pulled out of Eva."
+    "Ich wollte die Körper meiner beiden Schwestern markieren, also zog ich mich aus Eva zurück."
+
+# game/episode022.rpy:2534
+translate german ep022_e_l_fucking_10e9ef51:
+
+    # "I wanted to mark both my sisters’ bodies, so I pulled out of Lilly."
+    "Ich wollte die Körper meiner beiden Schwestern kennzeichnen, deshalb habe ich bei Lilly aufgehört."
+
+# game/episode022.rpy:2536
+translate german ep022_e_l_fucking_44e10378:
+
+    # "I wanted to mark both my girlfriends’ bodies, so I pulled out of Lilly."
+    "Ich wollte die Körper meiner beiden Schwestern kennzeichnen, deshalb habe ich bei Lilly aufgehört."
+
+# game/episode022.rpy:2557
+translate german ep022_e_l_fucking_a0368b26:
+
+    # "Thick warm cum sprayed out of my dick and splashed on the nubile bodies of my sisters."
+    "Dickflüssiger, warmer Samen spritzte aus meinem Schwanz und bespritzte die jungen Körper meiner Schwestern."
+
+# game/episode022.rpy:2559
+translate german ep022_e_l_fucking_3b32e8f0:
+
+    # "Thick warm cum sprayed out of my dick and splashed on the nubile bodies of my girlfriends."
+    "Dickflüssiger, warmer Samen spritzte aus meinem Schwanz und bespritzte die jungen Körper meiner Freundinnen."
+
+# game/episode022.rpy:2569
+translate german ep022_e_l_fucking_acce7f60:
+
+    # "I wanted to fill both my sisters’ mouths, so I pulled out of Eva."
+    "Ich wollte beide Münder meiner Schwestern füllen, also zog ich meinen Samen aus Eva heraus."
+
+# game/episode022.rpy:2571
+translate german ep022_e_l_fucking_4923828c:
+
+    # "I wanted to fill both my girlfriends’ mouths, so I pulled out of Eva."
+    "Ich wollte beide Münder meiner Schwestern füllen, also zog ich meinen Samen aus Eva heraus."
+
+# game/episode022.rpy:2574
+translate german ep022_e_l_fucking_8359cb72:
+
+    # "I wanted to fill both my sisters’ mouths, so I pulled out of Lilly."
+    "Ich wollte beide Münder meiner Schwestern füllen, also habe ich bei Lilly rausgezogen."
+
+# game/episode022.rpy:2576
+translate german ep022_e_l_fucking_2d71aa0e:
+
+    # "I wanted to fill both my girlfriends’ mouths, so I pulled out of Lilly."
+    "Ich wollte beide Münder meiner Schwestern füllen, also habe ich bei Lilly rausgezogen."
+
+# game/episode022.rpy:2926
+translate german ep022_ziv_sex_9297b944:
+
+    # "My balls slapped against her flesh every time I rooted myself deep inside."
+    "Meine Hoden schlugen jedes Mal gegen ihr Fleisch, wenn ich tief in sie eindrang."
+
+# game/episode022.rpy:2928
+translate german ep022_ziv_sex_ac1ee45a:
+
+    # "Longing to see her face, I decided to change things up."
+    "In der Sehnsucht, ihr Gesicht zu sehen, beschloss ich, etwas zu ändern."
+
+# game/episode022.rpy:3058
+translate german ep022_ziv_sex_9a40101b:
+
+    # "When I was done, she licked my shaft clean and swallowed all of my semen with a contented smile."
+    "Als ich fertig war, leckte sie meinen Schaft sauber und schluckte mit einem zufriedenen Lächeln mein gesamtes Sperma."
+
+# game/episode022.rpy:3140
+translate german ep022_ve_ce_sex_621a39d3:
+
+    # "Vess appeared to be deep in conversation when I walked past, but not deep enough for her to not follow me seconds after."
+    "Als ich vorbeiging, schien Vess in ein tiefes Gespräch vertieft zu sein, aber nicht so tief, dass sie mir Sekunden später gefolgt wäre."
+
+# game/episode022.rpy:3377
+translate german ep022_ve_ce_sex_choices_f6414cb5:
+
+    # "I wanted Vess to receive my load, so I slipped out of Céline, who nearly collapsed against the wall."
+    "Ich wollte, dass Vess meine Ladung aufnimmt, also schlüpfte ich aus Céline heraus, die beinahe gegen die Wand zusammenbrach."
+
+# game/episode022.rpy:3409
+translate german ep022_ve_ce_sex_choices_a4d9eb2f:
+
+    # "I wanted Céline to receive my load, so I slipped out of Vess, who nearly collapsed against the wall."
+    "Ich wollte, dass Vess meine Ladung aufnimmt, also schlüpfte ich aus Céline heraus, die beinahe gegen die Wand zusammenbrach."
+
+# game/episode022.rpy:3518
+translate german ep022_ve_ce_sex_submissive_ec1cc323:
+
+    # c "You’re coming with me."
+    c "Du kommst mit mir mit."
+
+# game/episode022.rpy:3519
+translate german ep022_ve_ce_sex_submissive_50b89945:
+
+    # c "The ship is deserted, so nobody will hear you scream when I fuck you."
+    c "Das Schiff ist verlassen, also wird niemand deine Schreie hören, wenn ich dich ficke."
+
+# game/episode022.rpy:3759
+translate german ep022_ve_ce_sex_submissive_choices_f6414cb5:
+
+    # "I wanted Vess to receive my load, so I slipped out of Céline, who nearly collapsed against the wall."
+    "Ich wollte, dass Vess meine Ladung aufnimmt, also schlüpfte ich aus Céline heraus, die beinahe gegen die Wand zusammenbrach."
+
+# game/episode022.rpy:3794
+translate german ep022_ve_ce_sex_submissive_choices_a4d9eb2f:
+
+    # "I wanted Céline to receive my load, so I slipped out of Vess, who nearly collapsed against the wall."
+    "Ich wollte, dass Vess meine Ladung aufnimmt, also schlüpfte ich aus Céline heraus, die beinahe gegen die Wand zusammenbrach."
+
+# game/episode022.rpy:3795
+translate german ep022_ve_ce_sex_submissive_choices_91851d1e:
+
+    # c "Your dirty pussy is not worthy of my cum, so lick me again instead."
+    c "Deine dreckige kleine Muschi ist meines Samens nicht würdig, also leck mich stattdessen noch einmal."
+
