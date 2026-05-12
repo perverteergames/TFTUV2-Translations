@@ -473,15 +473,15 @@ translate simplified_chinese strings:
 
     # game/screens.rpy:1472
     old "English"
-    new "英语"
+    new "English"
 
     # game/screens.rpy:1473
     old "Português (parcial)"
-    new "葡萄牙语 (parcial)"
+    new "Português (parcial)"
 
     # game/screens.rpy:1474
     old "Français"
-    new "法语"
+    new "Français"
 
     # game/screens.rpy:1475
     old "简体中文"
@@ -489,15 +489,15 @@ translate simplified_chinese strings:
 
     # game/screens.rpy:1478
     old "Italiano (parziale)"
-    new "意大利语 (parziale)"
+    new "Italiano (parziale)"
 
     # game/screens.rpy:1479
     old "Español (parcial)"
-    new "西班牙语 (parcial)"
+    new "Español (parcial)"
 
     # game/screens.rpy:1480
     old "Русский (частичный)"
-    new "波兰语 (частичный)"
+    new "Русский (частичный)"
 
     # game/screens.rpy:1498
     old "Dialog Box Visibility"
