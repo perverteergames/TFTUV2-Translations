@@ -563,3 +563,15 @@ translate simplified_chinese strings:
     old "Español"
     new "Español"
 
+# TODO: Translation updated at 2026-05-12 10:26
+
+translate simplified_chinese strings:
+
+    # game/screens.rpy:494
+    old "Subscribe on SubscribeStar:\nsubscribestar.adult/perverteer"
+    new "在 SubscribeStar 上订阅：\nsubscribestar.adult/perverteer"
+
+    # game/screens.rpy:2027
+    old "▸"
+    new "▸"
+

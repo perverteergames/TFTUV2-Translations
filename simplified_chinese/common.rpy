@@ -1250,3 +1250,43 @@ translate simplified_chinese strings:
     old "Parsing the script failed."
     new "脚本解析失败。"
 
+# TODO: Translation updated at 2026-05-12 10:26
+
+translate simplified_chinese strings:
+
+    # renpy/common/000statements.rpy:28
+    old "Click to play the video."
+    new "点击播放视频。"
+
+    # renpy/common/00accessibility.rpy:180
+    old "Mono Audio"
+    new "单声道音频"
+
+    # renpy/common/00accessibility.rpy:246
+    old "Kerning"
+    new "字间距"
+
+    # renpy/common/00accessibility.rpy:288
+    old "Self-Voicing and Audio"
+    new "自动语音和音频"
+
+    # renpy/common/00accessibility.rpy:292
+    old "Text"
+    new "文本"
+
+    # renpy/common/00preferences.rpy:602
+    old "mono audio"
+    new "单声道"
+
+    # renpy/common/00preferences.rpy:611
+    old "font kerning"
+    new "字体字间距"
+
+    # renpy/common/00updater.rpy:1935
+    old "An error has occurred:"
+    new "字体字间距"
+
+    # renpy/common/00updater.rpy:1992
+    old "An error occurred when trying to download game data:"
+    new "尝试下载游戏数据时发生错误："
+
